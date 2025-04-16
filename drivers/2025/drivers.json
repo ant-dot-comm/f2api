@@ -29,7 +29,7 @@
         "Driver": {
             "driverId": "marti",
             "permanentNumber": "3",
-            "code": "MAR",
+            "code": "JMA",
             "givenName": "Josep Maria",
             "familyName": "Martí"
         },
@@ -159,7 +159,7 @@
         "Driver": {
             "driverId": "martins",
             "permanentNumber": "14",
-            "code": "MAR",
+            "code": "VMA",
             "givenName": "Victor",
             "familyName": "Martins"
         },
