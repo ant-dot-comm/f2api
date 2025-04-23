@@ -226,7 +226,21 @@
                     }
                 }
             ],
-            "race2": []
+            "race2": [
+                {
+                    "number": "6",
+                    "position": "",
+                    "laps": "",
+                    "gap": "",
+                    "status": "cancelled",
+                    "Time": { "time": "" },
+                    "FastestLap": {
+                        "lap": "",
+                        "Time": { "time": "" }
+                    },
+                    "grid": "1"
+                }
+            ]
         }
     },
     {
