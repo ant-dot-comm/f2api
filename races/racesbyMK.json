@@ -90,15 +90,15 @@
         "year": "2026"
     },
     "20262": {
-        "circuitId": "bahrain",
-        "raceName": "Bahrain Grand Prix",
-        "location": "Sakhir",
+        "circuitId": "miami",
+        "raceName": "Miami Grand Prix",
+        "location": "Miami",
         "year": "2026"
     },
     "20263": {
-        "circuitId": "jeddah",
-        "raceName": "Saudi Arabian Grand Prix",
-        "location": "Jeddah",
+        "circuitId": "villeneuve",
+        "raceName": "Canadian Grand Prix",
+        "location": "Montreal",
         "year": "2026"
     },
     "20264": {
