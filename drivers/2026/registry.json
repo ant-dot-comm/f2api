@@ -1,0 +1,589 @@
+{
+    "season": "2026",
+    "series": "f2",
+    "Drivers": {
+        "beganovic": {
+            "driverId": "beganovic",
+            "givenName": "Dino",
+            "familyName": "Beganovic",
+            "code": "BEG",
+            "entries": [
+                {
+                    "number": "7",
+                    "constructorId": "dams",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "bennett": {
+            "driverId": "bennett",
+            "givenName": "John",
+            "familyName": "Bennett",
+            "code": "BEN",
+            "entries": [
+                {
+                    "number": "25",
+                    "constructorId": "trident",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "bilinski": {
+            "driverId": "bilinski",
+            "givenName": "Roman",
+            "familyName": "Bilinski",
+            "code": "BIL",
+            "entries": [
+                {
+                    "number": "8",
+                    "constructorId": "dams",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "boya": {
+            "driverId": "boya",
+            "givenName": "Mari",
+            "familyName": "Boya",
+            "code": "BOY",
+            "entries": [
+                {
+                    "number": "12",
+                    "constructorId": "prema",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "camara": {
+            "driverId": "camara",
+            "givenName": "Rafael",
+            "familyName": "Câmara",
+            "code": "CAM",
+            "entries": [
+                {
+                    "number": "1",
+                    "constructorId": "invicta",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "dunne": {
+            "driverId": "dunne",
+            "givenName": "Alexander",
+            "familyName": "Dunne",
+            "code": "DUN",
+            "entries": [
+                {
+                    "number": "15",
+                    "constructorId": "rodin",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "durksen": {
+            "driverId": "durksen",
+            "givenName": "Joshua",
+            "familyName": "Dürksen",
+            "code": "DUR",
+            "entries": [
+                {
+                    "number": "2",
+                    "constructorId": "invicta",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "fittipaldi": {
+            "driverId": "fittipaldi",
+            "givenName": "Emerson",
+            "familyName": "Fittipaldi",
+            "code": "FIT",
+            "entries": [
+                {
+                    "number": "20",
+                    "constructorId": "aix",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "goethe": {
+            "driverId": "goethe",
+            "givenName": "Oliver",
+            "familyName": "Goethe",
+            "code": "GOE",
+            "entries": [
+                {
+                    "number": "10",
+                    "constructorId": "mp",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "herta": {
+            "driverId": "herta",
+            "givenName": "Colton",
+            "familyName": "Herta",
+            "code": "HER",
+            "entries": [
+                {
+                    "number": "4",
+                    "constructorId": "hitech",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "inthraphuvasak": {
+            "driverId": "inthraphuvasak",
+            "givenName": "Tasanapol",
+            "familyName": "Inthraphuvasak",
+            "code": "TIN",
+            "entries": [
+                {
+                    "number": "17",
+                    "constructorId": "art",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "leon": {
+            "driverId": "leon",
+            "givenName": "Noel",
+            "familyName": "León",
+            "code": "LEO",
+            "entries": [
+                {
+                    "number": "5",
+                    "constructorId": "campos",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "maini": {
+            "driverId": "maini",
+            "givenName": "Kush",
+            "familyName": "Maini",
+            "code": "MAI",
+            "entries": [
+                {
+                    "number": "16",
+                    "constructorId": "art",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "mini": {
+            "driverId": "mini",
+            "givenName": "Gabriele",
+            "familyName": "Minì",
+            "code": "MIN",
+            "entries": [
+                {
+                    "number": "9",
+                    "constructorId": "mp",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "miyata": {
+            "driverId": "miyata",
+            "givenName": "Ritomo",
+            "familyName": "Miyata",
+            "code": "MIY",
+            "entries": [
+                {
+                    "number": "3",
+                    "constructorId": "hitech",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "montoya": {
+            "driverId": "montoya",
+            "givenName": "Sebastián",
+            "familyName": "Montoya",
+            "code": "MON",
+            "entries": [
+                {
+                    "number": "11",
+                    "constructorId": "prema",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "shields": {
+            "driverId": "shields",
+            "givenName": "Cian",
+            "familyName": "Shields",
+            "code": "SHI",
+            "entries": [
+                {
+                    "number": "21",
+                    "constructorId": "aix",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "stenshorne": {
+            "driverId": "stenshorne",
+            "givenName": "Martinius",
+            "familyName": "Stenshorne",
+            "code": "STE",
+            "entries": [
+                {
+                    "number": "14",
+                    "constructorId": "rodin",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "tsolov": {
+            "driverId": "tsolov",
+            "givenName": "Nikola",
+            "familyName": "Tsolov",
+            "code": "TSO",
+            "entries": [
+                {
+                    "number": "6",
+                    "constructorId": "campos",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "van_hoepen": {
+            "driverId": "van_hoepen",
+            "givenName": "Laurens",
+            "familyName": "Van Hoepen",
+            "code": "VHO",
+            "entries": [
+                {
+                    "number": "24",
+                    "constructorId": "trident",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "varrone": {
+            "driverId": "varrone",
+            "givenName": "Nico",
+            "familyName": "Varrone",
+            "code": "VAR",
+            "entries": [
+                {
+                    "number": "22",
+                    "constructorId": "var",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11"
+                    ]
+                }
+            ]
+        },
+        "villagomez": {
+            "driverId": "villagomez",
+            "givenName": "Rafael",
+            "familyName": "Villagómez",
+            "code": "VIL",
+            "entries": [
+                {
+                    "number": "23",
+                    "constructorId": "var",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "yamakoshi": {
+            "driverId": "yamakoshi",
+            "familyName": "Yamakoshi",
+            "replacement": true,
+            "entries": [
+                {
+                    "number": "22",
+                    "constructorId": "var",
+                    "rounds": [
+                        "12"
+                    ]
+                }
+            ]
+        }
+    }
+}

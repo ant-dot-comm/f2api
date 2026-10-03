@@ -32,7 +32,10 @@ import urllib.request
 
 import pdfplumber
 
+import common as C
+
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+STATUS_WORDS = {"DNF", "DNS", "DNW", "NC", "DSQ", "EX", "DNQ"}
 SEASON_PAGE = ("https://www.fia.com/documents/championships/"
                "formula-2-championship-44/season/season-2026-2072")
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
@@ -92,6 +95,8 @@ def discover_links(event):
         "race1_grid": pick("race_1", "grid"),
         "race2_cls":  pick("race_2", "classification"),
         "race2_grid": pick("race_2", "grid"),
+        "race3_cls":  pick("race_3", "classification"),
+        "race3_grid": pick("race_3", "grid"),
     }
 
 
@@ -103,8 +108,15 @@ def _pdf_text(path):
         return "\n".join(p.extract_text() or "" for p in pdf.pages)
 
 
+def _name_tokens(tokens):
+    """Alpha tokens of a classification row = given + surname + team (resolved later)."""
+    return [x for x in tokens if any(c.isalpha() for c in x)
+            and x.upper() not in STATUS_WORDS and not LAP.match(x)]
+
+
 def parse_classification(path):
-    """Rows in repo schema (grid filled in later). Handles Finished / DNF / DNS."""
+    """Rows in repo schema (grid + driverId filled in later). Handles Finished /
+    DNF / DNS, captures the PTS column and the driver-name tokens (`_name`)."""
     rows, section = [], "classified"
     for raw in _pdf_text(path).splitlines():
         line = raw.strip()
@@ -125,6 +137,7 @@ def parse_classification(path):
         if len(t) < 4 or not INT.match(t[0]):
             continue
         laps_t = [i for i, x in enumerate(t) if LAP.match(x)]
+        name = _name_tokens(t)
 
         if section == "classified":
             # POS NUM name.. team.. LAPS TIME [GAP] [INT] KMH FASTEST ON [PTS]
@@ -132,10 +145,12 @@ def parse_classification(path):
                 continue
             time_i, fast_i = laps_t[0], laps_t[-1]
             on = t[fast_i + 1] if fast_i + 1 < len(t) and INT.match(t[fast_i + 1]) else "0"
+            pts = t[fast_i + 2] if fast_i + 2 < len(t) and INT.match(t[fast_i + 2]) else "0"
             mid = t[time_i + 1:fast_i]                 # [gap?, int?, kmh]
             rows.append({
                 "number": t[1], "grid": "", "position": t[0], "laps": t[time_i - 1],
                 "gap": mid[0] if len(mid) >= 2 else "-", "status": "Finished",
+                "points": pts, "_name": name,
                 "Time": {"time": t[time_i]},
                 "FastestLap": {"lap": on, "Time": {"time": t[fast_i]}},
             })
@@ -148,6 +163,7 @@ def parse_classification(path):
                 rows.append({
                     "number": num, "grid": "", "position": status,
                     "laps": ints[-1] if ints else "0", "gap": status, "status": status,
+                    "points": "0", "_name": name,
                     "Time": {"time": status}, "FastestLap": {"lap": "0", "Time": {"time": "-"}},
                 })
                 continue
@@ -167,7 +183,8 @@ def parse_classification(path):
                 race_time, fastest, on = "DNF", "-", "0"
             rows.append({
                 "number": num, "grid": "", "position": "NC", "laps": laps,
-                "gap": "DNF", "status": "DNF", "Time": {"time": race_time},
+                "gap": "DNF", "status": "DNF", "points": "0", "_name": name,
+                "Time": {"time": race_time},
                 "FastestLap": {"lap": on, "Time": {"time": fastest}},
             })
     return rows
@@ -191,15 +208,52 @@ def parse_grid(path):
     return grid
 
 
-def build_race(links, meta):
+# race key -> (classification link key, grid link key). race3 = 2nd feature on the
+# rare 3-race weekend (e.g. Baku 2026); race0 reserved for an opening race.
+RACE_KEYS = [("race1", "race1_cls", "race1_grid"),
+             ("race2", "race2_cls", "race2_grid"),
+             ("race3", "race3_cls", "race3_grid")]
+
+ROW_ORDER = ("number", "driverId", "grid", "position", "laps", "gap",
+             "status", "points", "Time", "FastestLap")
+
+
+def _load_roster(season):
+    """Return (roster-by-number, [(SURNAME, driverId)] longest-first)."""
+    roster = json.load(open(os.path.join(REPO, "drivers", str(season), "drivers.json")))
+    surnames = [(C.deaccent(i["Driver"]["familyName"]).upper(), i["Driver"]["driverId"])
+                for i in roster.values()]
+    surnames.sort(key=lambda x: -len(x[0]))
+    return roster, surnames
+
+
+def resolve_driver(num, name_toks, roster, surnames):
+    """(driverId, is_replacement). Match the row's name against roster surnames;
+    a name not in the roster is a mid-season replacement -> slug of its surname."""
+    joined = " ".join(C.deaccent(x).upper() for x in name_toks)
+    for fam_up, sid in surnames:
+        if re.search(r"\b" + re.escape(fam_up) + r"\b", joined):
+            return sid, False
+    entry = roster.get(str(num))
+    span = list(name_toks)
+    if entry:                                   # strip the entry's team from the tail
+        tt = C.deaccent(entry["Constructor"]["name"]).upper().split()
+        while tt and span and C.deaccent(span[-1]).upper() == tt[-1]:
+            span.pop(); tt.pop()
+    surname = " ".join(span[1:]) if len(span) > 1 else (span[0] if span else "")
+    return (C.slug(surname) if surname else None), True
+
+
+def build_race(links, meta, season=2026):
     round_no, race_name, circuit_id, circuit_name = meta
-    out = {"season": "2026", "round": str(round_no), "raceName": race_name,
+    roster, surnames = _load_roster(season)
+    out = {"season": str(season), "round": str(round_no), "raceName": race_name,
            "Circuit": {"circuitId": circuit_id, "circuitName": circuit_name},
            "Results": {}}
-    for key, cls_url, grid_url in [("race1", links["race1_cls"], links["race1_grid"]),
-                                   ("race2", links["race2_cls"], links["race2_grid"])]:
+    replacements = []
+    for key, cls_k, grid_k in RACE_KEYS:
+        cls_url, grid_url = links.get(cls_k), links.get(grid_k)
         if not cls_url:
-            print(f"  ! no classification PDF for {key}; skipping", file=sys.stderr)
             continue
         cls_path = download_pdf(cls_url)
         rows = parse_classification(cls_path)
@@ -210,9 +264,15 @@ def build_race(links, meta):
             os.unlink(grid_path)
             for r in rows:
                 r["grid"] = g.get(r["number"], r["grid"])
-        out["Results"][key] = rows
-        print(f"  {key}: {len(rows)} rows"
-              f"{' (no grid PDF)' if not grid_url else ''}")
+        for r in rows:
+            sid, is_repl = resolve_driver(r["number"], r.pop("_name", []), roster, surnames)
+            r["driverId"] = sid or ""
+            if is_repl:
+                replacements.append(f"{key} #{r['number']}->{sid}")
+        out["Results"][key] = [{k: r[k] for k in ROW_ORDER} for r in rows]
+        print(f"  {key}: {len(rows)} rows{' (no grid PDF)' if not grid_url else ''}")
+    if replacements:
+        print(f"  ⚠ replacement driver(s): {', '.join(replacements)}")
     return out
 
 
@@ -242,6 +302,7 @@ def main():
     ap.add_argument("--event", required=True, help="FIA event name, e.g. Budapest (see EVENTS map)")
     ap.add_argument("--race1-cls"); ap.add_argument("--race1-grid")
     ap.add_argument("--race2-cls"); ap.add_argument("--race2-grid")
+    ap.add_argument("--race3-cls"); ap.add_argument("--race3-grid")  # rare 3-race weekend
     ap.add_argument("--push", action="store_true", help="git add/commit/push after writing")
     a = ap.parse_args()
 
@@ -251,11 +312,12 @@ def main():
 
     if a.race1_cls or a.race2_cls:            # explicit URLs (backfill)
         links = {"race1_cls": a.race1_cls, "race1_grid": a.race1_grid,
-                 "race2_cls": a.race2_cls, "race2_grid": a.race2_grid}
+                 "race2_cls": a.race2_cls, "race2_grid": a.race2_grid,
+                 "race3_cls": a.race3_cls, "race3_grid": a.race3_grid}
     else:                                     # auto-discover latest event
         print(f"Discovering PDFs for {a.event} on fia.com …")
         links = discover_links(a.event)
-        missing = [k for k, v in links.items() if not v]
+        missing = [k for k, v in links.items() if not v and not k.startswith("race3")]
         if missing:
             print("  ! could not find:", ", ".join(missing),
                   "\n    (older events aren't served without JS — pass --raceN-cls/--raceN-grid URLs)",
