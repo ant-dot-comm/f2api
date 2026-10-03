@@ -48,6 +48,9 @@ EVENTS = {
     "Silverstone":          (7, "British Grand Prix",            "silverstone",   "Silverstone Circuit"),
     "Spa-Francorchamps":    (8, "Belgian Grand Prix",            "spa",           "Circuit de Spa-Francorchamps"),
     "Budapest":             (9, "Hungarian Grand Prix",          "hungaroring",   "Hungaroring"),
+    "Monza":                (10, "Italian Grand Prix",           "monza",         "Autodromo Nazionale di Monza"),
+    "Madrid":               (11, "Spanish Grand Prix",           "madring",       "Madring"),
+    "Baku":                 (12, "Azerbaijan Grand Prix",        "baku",          "Baku City Circuit"),
 }
 
 LAP = re.compile(r'^(?:\d+:)?\d{1,2}:\d\d\.\d{3}$')   # mm:ss.xxx or h:mm:ss.xxx
