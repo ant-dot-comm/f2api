@@ -3,11 +3,13 @@
     "series": "f2",
     "updated": "2026-10-03",
     "lastRound": 12,
+    "scheduledRounds": 14,
+    "complete": false,
     "source": "https://www.fiaformula2.com/en/standings/2026/teams",
     "Standings": [
         {
             "position": "1",
-            "teamId": "campos",
+            "constructorId": "campos",
             "team": "Campos Racing",
             "points": "333",
             "byRound": [
@@ -76,7 +78,7 @@
         },
         {
             "position": "2",
-            "teamId": "invicta",
+            "constructorId": "invicta",
             "team": "Invicta Racing",
             "points": "297",
             "byRound": [
@@ -145,7 +147,7 @@
         },
         {
             "position": "3",
-            "teamId": "rodin",
+            "constructorId": "rodin",
             "team": "Rodin Motorsport",
             "points": "296",
             "byRound": [
@@ -214,7 +216,7 @@
         },
         {
             "position": "4",
-            "teamId": "mp",
+            "constructorId": "mp",
             "team": "MP Motorsport",
             "points": "200",
             "byRound": [
@@ -283,7 +285,7 @@
         },
         {
             "position": "5",
-            "teamId": "dams",
+            "constructorId": "dams",
             "team": "DAMS Lucas Oil",
             "points": "173",
             "byRound": [
@@ -352,7 +354,7 @@
         },
         {
             "position": "6",
-            "teamId": "art",
+            "constructorId": "art",
             "team": "ART Grand Prix",
             "points": "161",
             "byRound": [
@@ -421,7 +423,7 @@
         },
         {
             "position": "7",
-            "teamId": "trident",
+            "constructorId": "trident",
             "team": "TRIDENT",
             "points": "128",
             "byRound": [
@@ -490,7 +492,7 @@
         },
         {
             "position": "8",
-            "teamId": "hitech",
+            "constructorId": "hitech",
             "team": "Hitech",
             "points": "96",
             "byRound": [
@@ -559,7 +561,7 @@
         },
         {
             "position": "9",
-            "teamId": "var",
+            "constructorId": "var",
             "team": "Van Amersfoort Racing",
             "points": "59",
             "byRound": [
@@ -628,7 +630,7 @@
         },
         {
             "position": "10",
-            "teamId": "prema",
+            "constructorId": "prema",
             "team": "PREMA Racing",
             "points": "51",
             "byRound": [
@@ -697,7 +699,7 @@
         },
         {
             "position": "11",
-            "teamId": "aix",
+            "constructorId": "aix",
             "team": "AIX Racing",
             "points": "38",
             "byRound": [

@@ -1,0 +1,58 @@
+{
+    "constructorId": "mp",
+    "name": "MP Motorsport",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 50,
+        "starts": 50,
+        "points": 200,
+        "wins": {
+            "total": 2,
+            "feature": 1,
+            "sprint": 1
+        },
+        "podiums": {
+            "total": 11,
+            "feature": 5,
+            "sprint": 6
+        },
+        "poles": 0,
+        "fastestLaps": 1,
+        "dnfs": 7,
+        "bestFinish": 1,
+        "avgFinish": 8.49,
+        "titles": 0,
+        "bestChampionship": 4
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 50,
+            "starts": 50,
+            "points": 200,
+            "wins": {
+                "total": 2,
+                "feature": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 11,
+                "feature": 5,
+                "sprint": 6
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 8.49,
+            "championshipPosition": 4,
+            "complete": false
+        }
+    },
+    "drivers": [
+        "goethe",
+        "mini"
+    ]
+}

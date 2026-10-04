@@ -1,0 +1,62 @@
+{
+    "constructorId": "invicta",
+    "name": "Invicta",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 50,
+        "starts": 50,
+        "points": 297,
+        "wins": {
+            "total": 7,
+            "sprint": 3,
+            "feature": 3,
+            "feature2": 1
+        },
+        "podiums": {
+            "total": 11,
+            "sprint": 3,
+            "feature": 7,
+            "feature2": 1
+        },
+        "poles": 5,
+        "fastestLaps": 6,
+        "dnfs": 6,
+        "bestFinish": 1,
+        "avgFinish": 7.3,
+        "titles": 0,
+        "bestChampionship": 2
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 50,
+            "starts": 50,
+            "points": 297,
+            "wins": {
+                "total": 7,
+                "sprint": 3,
+                "feature": 3,
+                "feature2": 1
+            },
+            "podiums": {
+                "total": 11,
+                "sprint": 3,
+                "feature": 7,
+                "feature2": 1
+            },
+            "poles": 5,
+            "fastestLaps": 6,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 7.3,
+            "championshipPosition": 2,
+            "complete": false
+        }
+    },
+    "drivers": [
+        "camara",
+        "durksen"
+    ]
+}

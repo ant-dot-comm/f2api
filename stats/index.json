@@ -1,0 +1,303 @@
+{
+    "series": "f2",
+    "updated": "2026-10-03",
+    "drivers": [
+        {
+            "driverId": "camara",
+            "name": "Rafael Câmara",
+            "code": "CAM",
+            "seasons": [
+                "2026"
+            ],
+            "points": 207
+        },
+        {
+            "driverId": "tsolov",
+            "name": "Nikola Tsolov",
+            "code": "TSO",
+            "seasons": [
+                "2026"
+            ],
+            "points": 200
+        },
+        {
+            "driverId": "dunne",
+            "name": "Alexander Dunne",
+            "code": "DUN",
+            "seasons": [
+                "2026"
+            ],
+            "points": 189
+        },
+        {
+            "driverId": "mini",
+            "name": "Gabriele Minì",
+            "code": "MIN",
+            "seasons": [
+                "2026"
+            ],
+            "points": 163
+        },
+        {
+            "driverId": "beganovic",
+            "name": "Dino Beganovic",
+            "code": "BEG",
+            "seasons": [
+                "2026"
+            ],
+            "points": 137
+        },
+        {
+            "driverId": "leon",
+            "name": "Noel León",
+            "code": "LEO",
+            "seasons": [
+                "2026"
+            ],
+            "points": 133
+        },
+        {
+            "driverId": "stenshorne",
+            "name": "Martinius Stenshorne",
+            "code": "STE",
+            "seasons": [
+                "2026"
+            ],
+            "points": 107
+        },
+        {
+            "driverId": "durksen",
+            "name": "Joshua Dürksen",
+            "code": "DUR",
+            "seasons": [
+                "2026"
+            ],
+            "points": 90
+        },
+        {
+            "driverId": "maini",
+            "name": "Kush Maini",
+            "code": "MAI",
+            "seasons": [
+                "2026"
+            ],
+            "points": 90
+        },
+        {
+            "driverId": "van_hoepen",
+            "name": "Laurens Van Hoepen",
+            "code": "VHO",
+            "seasons": [
+                "2026"
+            ],
+            "points": 90
+        },
+        {
+            "driverId": "inthraphuvasak",
+            "name": "Tasanapol Inthraphuvasak",
+            "code": "TIN",
+            "seasons": [
+                "2026"
+            ],
+            "points": 71
+        },
+        {
+            "driverId": "miyata",
+            "name": "Ritomo Miyata",
+            "code": "MIY",
+            "seasons": [
+                "2026"
+            ],
+            "points": 70
+        },
+        {
+            "driverId": "villagomez",
+            "name": "Rafael Villagómez",
+            "code": "VIL",
+            "seasons": [
+                "2026"
+            ],
+            "points": 42
+        },
+        {
+            "driverId": "bennett",
+            "name": "John Bennett",
+            "code": "BEN",
+            "seasons": [
+                "2026"
+            ],
+            "points": 38
+        },
+        {
+            "driverId": "goethe",
+            "name": "Oliver Goethe",
+            "code": "GOE",
+            "seasons": [
+                "2026"
+            ],
+            "points": 37
+        },
+        {
+            "driverId": "bilinski",
+            "name": "Roman Bilinski",
+            "code": "BIL",
+            "seasons": [
+                "2026"
+            ],
+            "points": 36
+        },
+        {
+            "driverId": "montoya",
+            "name": "Sebastián Montoya",
+            "code": "MON",
+            "seasons": [
+                "2026"
+            ],
+            "points": 30
+        },
+        {
+            "driverId": "fittipaldi",
+            "name": "Emerson Fittipaldi",
+            "code": "FIT",
+            "seasons": [
+                "2026"
+            ],
+            "points": 28
+        },
+        {
+            "driverId": "herta",
+            "name": "Colton Herta",
+            "code": "HER",
+            "seasons": [
+                "2026"
+            ],
+            "points": 26
+        },
+        {
+            "driverId": "boya",
+            "name": "Mari Boya",
+            "code": "BOY",
+            "seasons": [
+                "2026"
+            ],
+            "points": 21
+        },
+        {
+            "driverId": "varrone",
+            "name": "Nico Varrone",
+            "code": "VAR",
+            "seasons": [
+                "2026"
+            ],
+            "points": 15
+        },
+        {
+            "driverId": "shields",
+            "name": "Cian Shields",
+            "code": "SHI",
+            "seasons": [
+                "2026"
+            ],
+            "points": 10
+        },
+        {
+            "driverId": "yamakoshi",
+            "name": "Yamakoshi",
+            "code": "",
+            "seasons": [
+                "2026"
+            ],
+            "points": 2
+        }
+    ],
+    "teams": [
+        {
+            "constructorId": "campos",
+            "name": "Campos",
+            "seasons": [
+                "2026"
+            ],
+            "points": 333
+        },
+        {
+            "constructorId": "invicta",
+            "name": "Invicta",
+            "seasons": [
+                "2026"
+            ],
+            "points": 297
+        },
+        {
+            "constructorId": "rodin",
+            "name": "Rodin Motorsport",
+            "seasons": [
+                "2026"
+            ],
+            "points": 296
+        },
+        {
+            "constructorId": "mp",
+            "name": "MP Motorsport",
+            "seasons": [
+                "2026"
+            ],
+            "points": 200
+        },
+        {
+            "constructorId": "dams",
+            "name": "Dams Lucas Oil",
+            "seasons": [
+                "2026"
+            ],
+            "points": 173
+        },
+        {
+            "constructorId": "art",
+            "name": "Art Grand Prix",
+            "seasons": [
+                "2026"
+            ],
+            "points": 161
+        },
+        {
+            "constructorId": "trident",
+            "name": "Trident",
+            "seasons": [
+                "2026"
+            ],
+            "points": 128
+        },
+        {
+            "constructorId": "hitech",
+            "name": "Hitech TGR",
+            "seasons": [
+                "2026"
+            ],
+            "points": 96
+        },
+        {
+            "constructorId": "var",
+            "name": "Van Amersfoort Racing",
+            "seasons": [
+                "2026"
+            ],
+            "points": 59
+        },
+        {
+            "constructorId": "prema",
+            "name": "Prema",
+            "seasons": [
+                "2026"
+            ],
+            "points": 51
+        },
+        {
+            "constructorId": "aix",
+            "name": "AIX Racing",
+            "seasons": [
+                "2026"
+            ],
+            "points": 38
+        }
+    ]
+}

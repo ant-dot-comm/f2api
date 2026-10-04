@@ -1,0 +1,58 @@
+{
+    "constructorId": "dams",
+    "name": "Dams Lucas Oil",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 50,
+        "starts": 49,
+        "points": 173,
+        "wins": {
+            "total": 2,
+            "feature": 1,
+            "sprint": 1
+        },
+        "podiums": {
+            "total": 8,
+            "feature": 4,
+            "sprint": 4
+        },
+        "poles": 2,
+        "fastestLaps": 1,
+        "dnfs": 5,
+        "bestFinish": 1,
+        "avgFinish": 8.91,
+        "titles": 0,
+        "bestChampionship": 5
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 50,
+            "starts": 49,
+            "points": 173,
+            "wins": {
+                "total": 2,
+                "feature": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 8,
+                "feature": 4,
+                "sprint": 4
+            },
+            "poles": 2,
+            "fastestLaps": 1,
+            "dnfs": 5,
+            "bestFinish": 1,
+            "avgFinish": 8.91,
+            "championshipPosition": 5,
+            "complete": false
+        }
+    },
+    "drivers": [
+        "beganovic",
+        "bilinski"
+    ]
+}

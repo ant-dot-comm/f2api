@@ -1,0 +1,58 @@
+{
+    "constructorId": "rodin",
+    "name": "Rodin Motorsport",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 50,
+        "starts": 49,
+        "points": 296,
+        "wins": {
+            "total": 2,
+            "feature": 2
+        },
+        "podiums": {
+            "total": 13,
+            "sprint": 5,
+            "feature": 7,
+            "feature2": 1
+        },
+        "poles": 2,
+        "fastestLaps": 5,
+        "dnfs": 4,
+        "bestFinish": 1,
+        "avgFinish": 7.49,
+        "titles": 0,
+        "bestChampionship": 3
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 50,
+            "starts": 49,
+            "points": 296,
+            "wins": {
+                "total": 2,
+                "feature": 2
+            },
+            "podiums": {
+                "total": 13,
+                "sprint": 5,
+                "feature": 7,
+                "feature2": 1
+            },
+            "poles": 2,
+            "fastestLaps": 5,
+            "dnfs": 4,
+            "bestFinish": 1,
+            "avgFinish": 7.49,
+            "championshipPosition": 3,
+            "complete": false
+        }
+    },
+    "drivers": [
+        "dunne",
+        "stenshorne"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "constructorId": "trident",
+    "name": "Trident",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 50,
+        "starts": 50,
+        "points": 128,
+        "wins": {
+            "total": 1,
+            "sprint": 1
+        },
+        "podiums": {
+            "total": 7,
+            "feature": 1,
+            "sprint": 6
+        },
+        "poles": 1,
+        "fastestLaps": 2,
+        "dnfs": 11,
+        "bestFinish": 1,
+        "avgFinish": 9.92,
+        "titles": 0,
+        "bestChampionship": 7
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 50,
+            "starts": 50,
+            "points": 128,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 7,
+                "feature": 1,
+                "sprint": 6
+            },
+            "poles": 1,
+            "fastestLaps": 2,
+            "dnfs": 11,
+            "bestFinish": 1,
+            "avgFinish": 9.92,
+            "championshipPosition": 7,
+            "complete": false
+        }
+    },
+    "drivers": [
+        "bennett",
+        "van_hoepen"
+    ]
+}

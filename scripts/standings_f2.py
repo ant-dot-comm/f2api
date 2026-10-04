@@ -68,7 +68,7 @@ def by_round(values, groups):
     return out
 
 
-def parse_standings(url, resolve, name_field):
+def parse_standings(url, resolve, id_field, name_field):
     """Return (standings list, unmatched names). `resolve(name)->id` maps the row
     label to a driverId/constructorId."""
     import re
@@ -82,10 +82,10 @@ def parse_standings(url, resolve, name_field):
         _id = resolve(name)
         if _id is None:
             unmatched.append(name)
-        entry = {"position": pos, f"{name_field}Id": _id, name_field: name,
+        entry = {"position": pos, id_field: _id, name_field: name,
                  "points": total, "byRound": by_round(values, groups)}
         out.append(entry)
-    return out, unmatched
+    return out, unmatched, len(groups)
 
 
 def build(season):
@@ -105,22 +105,23 @@ def build(season):
     def resolve_team(name):
         return team2id.get(name.upper())
 
-    drivers, d_unmatched = parse_standings(
-        STANDINGS_URL.format(year=season, kind="drivers"), resolve_driver, "driver")
-    teams, t_unmatched = parse_standings(
-        STANDINGS_URL.format(year=season, kind="teams"), resolve_team, "team")
+    drivers, d_unmatched, scheduled = parse_standings(
+        STANDINGS_URL.format(year=season, kind="drivers"), resolve_driver, "driverId", "driver")
+    teams, t_unmatched, _ = parse_standings(
+        STANDINGS_URL.format(year=season, kind="teams"), resolve_team, "constructorId", "team")
 
     # Fallback ids for anyone not in the roster (replacement drivers / renamed teams)
     for e in drivers:
         if e["driverId"] is None:
             e["driverId"] = C.slug(C.surname_of(e["driver"]))
     for e in teams:
-        if e["teamId"] is None:
-            e["teamId"] = C.slug(e["team"])
+        if e["constructorId"] is None:
+            e["constructorId"] = C.slug(e["team"])
 
     last_round = max((int(r["round"]) for e in drivers for r in e["byRound"]), default=0)
     meta = {"season": str(season), "series": "f2", "updated": C.today_iso(),
-            "lastRound": last_round}
+            "lastRound": last_round, "scheduledRounds": scheduled,
+            "complete": last_round >= scheduled}
     d_doc = {**meta, "source": STANDINGS_URL.format(year=season, kind="drivers"),
              "Standings": drivers}
     t_doc = {**meta, "source": STANDINGS_URL.format(year=season, kind="teams"),

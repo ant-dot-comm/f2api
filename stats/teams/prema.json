@@ -1,0 +1,52 @@
+{
+    "constructorId": "prema",
+    "name": "Prema",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 50,
+        "starts": 49,
+        "points": 51,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 1,
+            "sprint": 1
+        },
+        "poles": 0,
+        "fastestLaps": 1,
+        "dnfs": 8,
+        "bestFinish": 2,
+        "avgFinish": 12.27,
+        "titles": 0,
+        "bestChampionship": 10
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 50,
+            "starts": 49,
+            "points": 51,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 8,
+            "bestFinish": 2,
+            "avgFinish": 12.27,
+            "championshipPosition": 10,
+            "complete": false
+        }
+    },
+    "drivers": [
+        "boya",
+        "montoya"
+    ]
+}

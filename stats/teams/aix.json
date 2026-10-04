@@ -1,0 +1,52 @@
+{
+    "constructorId": "aix",
+    "name": "AIX Racing",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 50,
+        "starts": 50,
+        "points": 38,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 1,
+            "sprint": 1
+        },
+        "poles": 0,
+        "fastestLaps": 2,
+        "dnfs": 8,
+        "bestFinish": 2,
+        "avgFinish": 15.48,
+        "titles": 0,
+        "bestChampionship": 11
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 50,
+            "starts": 50,
+            "points": 38,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 8,
+            "bestFinish": 2,
+            "avgFinish": 15.48,
+            "championshipPosition": 11,
+            "complete": false
+        }
+    },
+    "drivers": [
+        "fittipaldi",
+        "shields"
+    ]
+}

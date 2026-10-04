@@ -1,0 +1,55 @@
+{
+    "constructorId": "var",
+    "name": "Van Amersfoort Racing",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 50,
+        "starts": 50,
+        "points": 59,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 3,
+            "sprint": 2,
+            "feature": 1
+        },
+        "poles": 0,
+        "fastestLaps": 1,
+        "dnfs": 9,
+        "bestFinish": 2,
+        "avgFinish": 12.76,
+        "titles": 0,
+        "bestChampionship": 9
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 50,
+            "starts": 50,
+            "points": 59,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 9,
+            "bestFinish": 2,
+            "avgFinish": 12.76,
+            "championshipPosition": 9,
+            "complete": false
+        }
+    },
+    "drivers": [
+        "varrone",
+        "villagomez",
+        "yamakoshi"
+    ]
+}

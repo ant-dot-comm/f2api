@@ -1,0 +1,56 @@
+{
+    "constructorId": "hitech",
+    "name": "Hitech TGR",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 48,
+        "starts": 48,
+        "points": 96,
+        "wins": {
+            "total": 1,
+            "sprint": 1
+        },
+        "podiums": {
+            "total": 2,
+            "sprint": 1,
+            "feature": 1
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 4,
+        "bestFinish": 1,
+        "avgFinish": 11.8,
+        "titles": 0,
+        "bestChampionship": 8
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 48,
+            "starts": 48,
+            "points": 96,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 1,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 4,
+            "bestFinish": 1,
+            "avgFinish": 11.8,
+            "championshipPosition": 8,
+            "complete": false
+        }
+    },
+    "drivers": [
+        "herta",
+        "miyata"
+    ]
+}

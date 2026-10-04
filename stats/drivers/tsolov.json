@@ -1,0 +1,359 @@
+{
+    "driverId": "tsolov",
+    "name": "Nikola Tsolov",
+    "code": "TSO",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 25,
+        "starts": 25,
+        "points": 200,
+        "wins": {
+            "total": 6,
+            "feature": 4,
+            "sprint": 2
+        },
+        "podiums": {
+            "total": 9,
+            "feature": 5,
+            "sprint": 3,
+            "feature2": 1
+        },
+        "poles": 0,
+        "fastestLaps": 3,
+        "dnfs": 4,
+        "bestFinish": 1,
+        "avgFinish": 5.95,
+        "titles": 0,
+        "bestChampionship": 2
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 25,
+            "starts": 25,
+            "points": 200,
+            "wins": {
+                "total": 6,
+                "feature": 4,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 9,
+                "feature": 5,
+                "sprint": 3,
+                "feature2": 1
+            },
+            "poles": 0,
+            "fastestLaps": 3,
+            "dnfs": 4,
+            "bestFinish": 1,
+            "avgFinish": 5.95,
+            "championshipPosition": 2,
+            "complete": false
+        }
+    },
+    "results": [
+        {
+            "season": "2026",
+            "round": "1",
+            "raceName": "Australian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "6",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "1",
+            "raceName": "Australian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "5",
+            "position": "1",
+            "status": "Finished",
+            "points": "25"
+        },
+        {
+            "season": "2026",
+            "round": "2",
+            "raceName": "Miami Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "1",
+            "position": "1",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2026",
+            "round": "2",
+            "raceName": "Miami Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "10",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "3",
+            "raceName": "Canadian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "7",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "3",
+            "raceName": "Canadian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "2",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "4",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "9",
+            "position": "10",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2026",
+            "round": "4",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "2",
+            "position": "1",
+            "status": "Finished",
+            "points": "26"
+        },
+        {
+            "season": "2026",
+            "round": "5",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "5",
+            "position": "3",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2026",
+            "round": "5",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "5",
+            "position": "4",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2026",
+            "round": "6",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "8",
+            "position": "8",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2026",
+            "round": "6",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "3",
+            "position": "1",
+            "status": "Finished",
+            "points": "25"
+        },
+        {
+            "season": "2026",
+            "round": "7",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "6",
+            "position": "1",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2026",
+            "round": "7",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "5",
+            "position": "1",
+            "status": "Finished",
+            "points": "25"
+        },
+        {
+            "season": "2026",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "7",
+            "position": "4",
+            "status": "Finished",
+            "points": "5"
+        },
+        {
+            "season": "2026",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "4",
+            "position": "3",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2026",
+            "round": "9",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "4",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "9",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "12",
+            "position": "7",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2026",
+            "round": "10",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "8",
+            "position": "5",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2026",
+            "round": "10",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "9",
+            "position": "7",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2026",
+            "round": "11",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "6",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "11",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "5",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "1",
+            "position": "5",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2026",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "10",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race3",
+            "type": "feature2",
+            "constructorId": "campos",
+            "grid": "11",
+            "position": "2",
+            "status": "Finished",
+            "points": "19"
+        }
+    ]
+}

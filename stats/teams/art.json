@@ -1,0 +1,56 @@
+{
+    "constructorId": "art",
+    "name": "Art Grand Prix",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 48,
+        "starts": 48,
+        "points": 161,
+        "wins": {
+            "total": 1,
+            "sprint": 1
+        },
+        "podiums": {
+            "total": 4,
+            "sprint": 1,
+            "feature": 3
+        },
+        "poles": 2,
+        "fastestLaps": 1,
+        "dnfs": 7,
+        "bestFinish": 1,
+        "avgFinish": 9.27,
+        "titles": 0,
+        "bestChampionship": 6
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 48,
+            "starts": 48,
+            "points": 161,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 4,
+                "sprint": 1,
+                "feature": 3
+            },
+            "poles": 2,
+            "fastestLaps": 1,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 9.27,
+            "championshipPosition": 6,
+            "complete": false
+        }
+    },
+    "drivers": [
+        "inthraphuvasak",
+        "maini"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "constructorId": "campos",
+    "name": "Campos",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 50,
+        "starts": 50,
+        "points": 333,
+        "wins": {
+            "total": 9,
+            "feature": 5,
+            "sprint": 4
+        },
+        "podiums": {
+            "total": 14,
+            "sprint": 6,
+            "feature": 7,
+            "feature2": 1
+        },
+        "poles": 1,
+        "fastestLaps": 5,
+        "dnfs": 6,
+        "bestFinish": 1,
+        "avgFinish": 6.66,
+        "titles": 0,
+        "bestChampionship": 1
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 50,
+            "starts": 50,
+            "points": 333,
+            "wins": {
+                "total": 9,
+                "feature": 5,
+                "sprint": 4
+            },
+            "podiums": {
+                "total": 14,
+                "sprint": 6,
+                "feature": 7,
+                "feature2": 1
+            },
+            "poles": 1,
+            "fastestLaps": 5,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 6.66,
+            "championshipPosition": 1,
+            "complete": false
+        }
+    },
+    "drivers": [
+        "leon",
+        "tsolov"
+    ]
+}

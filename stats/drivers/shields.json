@@ -1,0 +1,349 @@
+{
+    "driverId": "shields",
+    "name": "Cian Shields",
+    "code": "SHI",
+    "series": "f2",
+    "seasons": [
+        "2026"
+    ],
+    "career": {
+        "entries": 25,
+        "starts": 25,
+        "points": 10,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 2,
+        "dnfs": 4,
+        "bestFinish": 5,
+        "avgFinish": 16.86,
+        "titles": 0,
+        "bestChampionship": 22
+    },
+    "bySeasons": {
+        "2026": {
+            "entries": 25,
+            "starts": 25,
+            "points": 10,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 4,
+            "bestFinish": 5,
+            "avgFinish": 16.86,
+            "championshipPosition": 22,
+            "complete": false
+        }
+    },
+    "results": [
+        {
+            "season": "2026",
+            "round": "1",
+            "raceName": "Australian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "aix",
+            "grid": "20",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "1",
+            "raceName": "Australian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "aix",
+            "grid": "20",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "2",
+            "raceName": "Miami Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "aix",
+            "grid": "21",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "2",
+            "raceName": "Miami Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "aix",
+            "grid": "21",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "3",
+            "raceName": "Canadian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "aix",
+            "grid": "17",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "3",
+            "raceName": "Canadian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "aix",
+            "grid": "17",
+            "position": "5",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2026",
+            "round": "4",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "aix",
+            "grid": "20",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "4",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "aix",
+            "grid": "20",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "5",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "aix",
+            "grid": "21",
+            "position": "22",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "5",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "aix",
+            "grid": "21",
+            "position": "20",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "6",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "aix",
+            "grid": "19",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "6",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "aix",
+            "grid": "19",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "7",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "aix",
+            "grid": "22",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "7",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "aix",
+            "grid": "22",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "aix",
+            "grid": "21",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "aix",
+            "grid": "21",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "9",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "aix",
+            "grid": "19",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "9",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "aix",
+            "grid": "19",
+            "position": "20",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "10",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "aix",
+            "grid": "21",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "10",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "aix",
+            "grid": "21",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "11",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "aix",
+            "grid": "17",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "11",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "aix",
+            "grid": "17",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "aix",
+            "grid": "22",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "aix",
+            "grid": "22",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2026",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race3",
+            "type": "feature2",
+            "constructorId": "aix",
+            "grid": "21",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

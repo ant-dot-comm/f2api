@@ -3,6 +3,8 @@
     "series": "f2",
     "updated": "2026-10-03",
     "lastRound": 12,
+    "scheduledRounds": 14,
+    "complete": false,
     "source": "https://www.fiaformula2.com/en/standings/2026/drivers",
     "Standings": [
         {
