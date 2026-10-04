@@ -35,7 +35,7 @@ def fetch_text(url):
 def fetch_html(url):
     """Parsed lxml root for a URL (server-rendered HTML; no JS needed)."""
     from lxml import html
-    return html.fromstring(fetch(url))
+    return html.fromstring(fetch(url).decode("utf-8", "replace"))
 
 
 def download_pdf(url):
