@@ -4,31 +4,51 @@
     "code": "MIN",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 25,
-        "starts": 25,
-        "points": 163,
+        "entries": 27,
+        "starts": 27,
+        "points": 169,
         "wins": {
             "total": 2,
             "feature": 1,
             "sprint": 1
         },
         "podiums": {
-            "total": 9,
-            "feature": 4,
-            "sprint": 5
+            "total": 10,
+            "sprint": 6,
+            "feature": 4
         },
         "poles": 0,
         "fastestLaps": 0,
-        "dnfs": 1,
+        "dnfs": 2,
         "bestFinish": 1,
-        "avgFinish": 5.92,
+        "avgFinish": 5.8,
         "titles": 0,
         "bestChampionship": 4
     },
     "bySeasons": {
+        "2024": {
+            "entries": 2,
+            "starts": 2,
+            "points": 6,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 3,
+            "avgFinish": 3.0,
+            "championshipPosition": 27,
+            "complete": true
+        },
         "2026": {
             "entries": 25,
             "starts": 25,
@@ -53,6 +73,30 @@
         }
     },
     "results": [
+        {
+            "season": "2024",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "3",
+            "position": "3",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2024",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "8",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
         {
             "season": "2026",
             "round": "1",

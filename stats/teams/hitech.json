@@ -3,30 +3,53 @@
     "name": "Hitech TGR",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 48,
-        "starts": 48,
-        "points": 96,
+        "entries": 104,
+        "starts": 104,
+        "points": 298,
         "wins": {
-            "total": 1,
+            "total": 2,
+            "feature": 1,
             "sprint": 1
         },
         "podiums": {
-            "total": 2,
-            "sprint": 1,
-            "feature": 1
+            "total": 11,
+            "feature": 5,
+            "sprint": 6
         },
-        "poles": 0,
-        "fastestLaps": 0,
-        "dnfs": 4,
+        "poles": 4,
+        "fastestLaps": 2,
+        "dnfs": 13,
         "bestFinish": 1,
-        "avgFinish": 11.8,
+        "avgFinish": 10.65,
         "titles": 0,
-        "bestChampionship": 8
+        "bestChampionship": 4
     },
     "bySeasons": {
+        "2024": {
+            "entries": 56,
+            "starts": 56,
+            "points": 202,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 9,
+                "feature": 4,
+                "sprint": 5
+            },
+            "poles": 4,
+            "fastestLaps": 2,
+            "dnfs": 9,
+            "bestFinish": 1,
+            "avgFinish": 9.57,
+            "championshipPosition": 4,
+            "complete": true
+        },
         "2026": {
             "entries": 48,
             "starts": 48,
@@ -50,6 +73,8 @@
         }
     },
     "drivers": [
+        "aron",
+        "cordeel",
         "herta",
         "miyata"
     ]

@@ -3,28 +3,54 @@
     "name": "AIX Racing",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 50,
-        "starts": 50,
-        "points": 38,
+        "entries": 106,
+        "starts": 106,
+        "points": 143,
         "wins": {
-            "total": 0
+            "total": 3,
+            "sprint": 2,
+            "feature": 1
         },
         "podiums": {
-            "total": 1,
-            "sprint": 1
+            "total": 6,
+            "feature": 2,
+            "sprint": 4
         },
         "poles": 0,
         "fastestLaps": 2,
-        "dnfs": 8,
-        "bestFinish": 2,
-        "avgFinish": 15.48,
+        "dnfs": 17,
+        "bestFinish": 1,
+        "avgFinish": 13.81,
         "titles": 0,
-        "bestChampionship": 11
+        "bestChampionship": 9
     },
     "bySeasons": {
+        "2024": {
+            "entries": 56,
+            "starts": 56,
+            "points": 105,
+            "wins": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 5,
+                "feature": 2,
+                "sprint": 3
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 9,
+            "bestFinish": 1,
+            "avgFinish": 12.32,
+            "championshipPosition": 9,
+            "complete": true
+        },
         "2026": {
             "entries": 50,
             "starts": 50,
@@ -46,7 +72,10 @@
         }
     },
     "drivers": [
+        "barnard",
+        "durksen",
         "fittipaldi",
+        "koolen",
         "shields"
     ]
 }

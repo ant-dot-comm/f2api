@@ -1,0 +1,76 @@
+{
+    "season": "2024",
+    "series": "f2",
+    "source": "FIA Driver/Team Championship PDF (Yas Marina 2024)",
+    "lastRound": 14,
+    "scheduledRounds": 14,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "constructorId": "invicta",
+            "team": "Invicta Racing",
+            "points": "288.5"
+        },
+        {
+            "position": "2",
+            "constructorId": "campos",
+            "team": "Campos Racing",
+            "points": "254"
+        },
+        {
+            "position": "3",
+            "constructorId": "mp",
+            "team": "MP Motorsport",
+            "points": "220.5"
+        },
+        {
+            "position": "4",
+            "constructorId": "hitech",
+            "team": "Hitech Pulse-Eight",
+            "points": "202"
+        },
+        {
+            "position": "5",
+            "constructorId": "prema",
+            "team": "PREMA Racing",
+            "points": "194"
+        },
+        {
+            "position": "6",
+            "constructorId": "dams",
+            "team": "DAMS Lucas Oil",
+            "points": "178"
+        },
+        {
+            "position": "7",
+            "constructorId": "art",
+            "team": "ART Grand Prix",
+            "points": "173"
+        },
+        {
+            "position": "8",
+            "constructorId": "rodin",
+            "team": "Rodin Motorsport",
+            "points": "171"
+        },
+        {
+            "position": "9",
+            "constructorId": "aix",
+            "team": "AIX Racing",
+            "points": "105"
+        },
+        {
+            "position": "10",
+            "constructorId": "trident",
+            "team": "Trident",
+            "points": "105"
+        },
+        {
+            "position": "11",
+            "constructorId": "var",
+            "team": "Van Amersfoort Racing",
+            "points": "78"
+        }
+    ]
+}

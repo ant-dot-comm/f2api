@@ -1,0 +1,97 @@
+{
+    "driverId": "esterson",
+    "name": "M. Esterson",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2024"
+    ],
+    "career": {
+        "entries": 4,
+        "starts": 4,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 0,
+        "bestFinish": 14,
+        "avgFinish": 16.0,
+        "titles": 0,
+        "bestChampionship": 31
+    },
+    "bySeasons": {
+        "2024": {
+            "entries": 4,
+            "starts": 4,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 0,
+            "bestFinish": 14,
+            "avgFinish": 16.0,
+            "championshipPosition": 31,
+            "complete": true
+        }
+    },
+    "results": [
+        {
+            "season": "2024",
+            "round": "13",
+            "raceName": "Qatar Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "13",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "13",
+            "raceName": "Qatar Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "13",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "17",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "17",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

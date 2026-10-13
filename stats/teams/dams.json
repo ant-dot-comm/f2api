@@ -3,31 +3,53 @@
     "name": "Dams Lucas Oil",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 50,
-        "starts": 49,
-        "points": 173,
+        "entries": 106,
+        "starts": 105,
+        "points": 351,
         "wins": {
-            "total": 2,
-            "feature": 1,
+            "total": 3,
+            "feature": 2,
             "sprint": 1
         },
         "podiums": {
-            "total": 8,
-            "feature": 4,
-            "sprint": 4
+            "total": 15,
+            "sprint": 7,
+            "feature": 8
         },
         "poles": 2,
-        "fastestLaps": 1,
-        "dnfs": 5,
+        "fastestLaps": 2,
+        "dnfs": 13,
         "bestFinish": 1,
-        "avgFinish": 8.91,
+        "avgFinish": 9.02,
         "titles": 0,
         "bestChampionship": 5
     },
     "bySeasons": {
+        "2024": {
+            "entries": 56,
+            "starts": 56,
+            "points": 178,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 7,
+                "sprint": 3,
+                "feature": 4
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 9.12,
+            "championshipPosition": 6,
+            "complete": true
+        },
         "2026": {
             "entries": 50,
             "starts": 49,
@@ -53,6 +75,8 @@
     },
     "drivers": [
         "beganovic",
-        "bilinski"
+        "bilinski",
+        "correa",
+        "crawford"
     ]
 }

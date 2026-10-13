@@ -3,32 +3,55 @@
     "name": "Campos",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 50,
-        "starts": 50,
-        "points": 333,
+        "entries": 106,
+        "starts": 106,
+        "points": 587,
         "wins": {
-            "total": 9,
-            "feature": 5,
-            "sprint": 4
+            "total": 14,
+            "feature": 9,
+            "sprint": 5
         },
         "podiums": {
-            "total": 14,
-            "sprint": 6,
-            "feature": 7,
+            "total": 26,
+            "sprint": 10,
+            "feature": 15,
             "feature2": 1
         },
-        "poles": 1,
-        "fastestLaps": 5,
-        "dnfs": 6,
+        "poles": 2,
+        "fastestLaps": 6,
+        "dnfs": 19,
         "bestFinish": 1,
-        "avgFinish": 6.66,
+        "avgFinish": 7.54,
         "titles": 0,
         "bestChampionship": 1
     },
     "bySeasons": {
+        "2024": {
+            "entries": 56,
+            "starts": 56,
+            "points": 254,
+            "wins": {
+                "total": 5,
+                "feature": 4,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 12,
+                "sprint": 4,
+                "feature": 8
+            },
+            "poles": 1,
+            "fastestLaps": 1,
+            "dnfs": 13,
+            "bestFinish": 1,
+            "avgFinish": 8.44,
+            "championshipPosition": 2,
+            "complete": true
+        },
         "2026": {
             "entries": 50,
             "starts": 50,
@@ -54,7 +77,9 @@
         }
     },
     "drivers": [
+        "hadjar",
         "leon",
+        "marti",
         "tsolov"
     ]
 }

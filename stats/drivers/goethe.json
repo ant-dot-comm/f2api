@@ -4,12 +4,13 @@
     "code": "GOE",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 25,
-        "starts": 25,
-        "points": 37,
+        "entries": 33,
+        "starts": 33,
+        "points": 51,
         "wins": {
             "total": 0
         },
@@ -20,13 +21,31 @@
         },
         "poles": 0,
         "fastestLaps": 1,
-        "dnfs": 6,
+        "dnfs": 9,
         "bestFinish": 3,
-        "avgFinish": 11.74,
+        "avgFinish": 11.79,
         "titles": 0,
         "bestChampionship": 15
     },
     "bySeasons": {
+        "2024": {
+            "entries": 8,
+            "starts": 8,
+            "points": 14,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 3,
+            "bestFinish": 4,
+            "avgFinish": 12.0,
+            "championshipPosition": 23,
+            "complete": true
+        },
         "2026": {
             "entries": 25,
             "starts": 25,
@@ -49,6 +68,102 @@
         }
     },
     "results": [
+        {
+            "season": "2024",
+            "round": "11",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "mp",
+            "grid": "11",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "11",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "mp",
+            "grid": "12",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "mp",
+            "grid": "17",
+            "position": "21",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "mp",
+            "grid": "17",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "13",
+            "raceName": "Qatar Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "mp",
+            "grid": "3",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "13",
+            "raceName": "Qatar Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "mp",
+            "grid": "8",
+            "position": "4",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2024",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "mp",
+            "grid": "11",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "mp",
+            "grid": "10",
+            "position": "9",
+            "status": "Finished",
+            "points": "2"
+        },
         {
             "season": "2026",
             "round": "1",

@@ -3,29 +3,52 @@
     "name": "Van Amersfoort Racing",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 50,
-        "starts": 50,
-        "points": 59,
+        "entries": 106,
+        "starts": 106,
+        "points": 137,
         "wins": {
-            "total": 0
-        },
-        "podiums": {
-            "total": 3,
-            "sprint": 2,
+            "total": 1,
             "feature": 1
         },
+        "podiums": {
+            "total": 5,
+            "sprint": 3,
+            "feature": 2
+        },
         "poles": 0,
-        "fastestLaps": 1,
-        "dnfs": 9,
-        "bestFinish": 2,
+        "fastestLaps": 3,
+        "dnfs": 17,
+        "bestFinish": 1,
         "avgFinish": 12.76,
         "titles": 0,
         "bestChampionship": 9
     },
     "bySeasons": {
+        "2024": {
+            "entries": 56,
+            "starts": 56,
+            "points": 78,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 1,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 12.77,
+            "championshipPosition": 11,
+            "complete": true
+        },
         "2026": {
             "entries": 50,
             "starts": 50,
@@ -48,6 +71,8 @@
         }
     },
     "drivers": [
+        "bennett",
+        "fittipaldi",
         "varrone",
         "villagomez",
         "yamakoshi"

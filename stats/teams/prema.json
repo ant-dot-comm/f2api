@@ -3,28 +3,54 @@
     "name": "Prema",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 50,
-        "starts": 49,
-        "points": 51,
+        "entries": 102,
+        "starts": 101,
+        "points": 245,
         "wins": {
-            "total": 0
+            "total": 5,
+            "sprint": 4,
+            "feature": 1
         },
         "podiums": {
-            "total": 1,
-            "sprint": 1
+            "total": 8,
+            "sprint": 6,
+            "feature": 2
         },
         "poles": 0,
-        "fastestLaps": 1,
-        "dnfs": 8,
-        "bestFinish": 2,
-        "avgFinish": 12.27,
+        "fastestLaps": 6,
+        "dnfs": 15,
+        "bestFinish": 1,
+        "avgFinish": 10.55,
         "titles": 0,
-        "bestChampionship": 10
+        "bestChampionship": 5
     },
     "bySeasons": {
+        "2024": {
+            "entries": 52,
+            "starts": 52,
+            "points": 194,
+            "wins": {
+                "total": 5,
+                "sprint": 4,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 7,
+                "sprint": 5,
+                "feature": 2
+            },
+            "poles": 0,
+            "fastestLaps": 5,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 8.98,
+            "championshipPosition": 5,
+            "complete": true
+        },
         "2026": {
             "entries": 50,
             "starts": 49,
@@ -46,7 +72,10 @@
         }
     },
     "drivers": [
+        "antonelli",
+        "bearman",
         "boya",
+        "mini",
         "montoya"
     ]
 }

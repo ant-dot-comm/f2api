@@ -3,33 +3,56 @@
     "name": "Invicta",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 50,
-        "starts": 50,
-        "points": 297,
+        "entries": 106,
+        "starts": 106,
+        "points": 585.5,
         "wins": {
-            "total": 7,
-            "sprint": 3,
-            "feature": 3,
+            "total": 10,
+            "feature": 5,
+            "sprint": 4,
             "feature2": 1
         },
         "podiums": {
-            "total": 11,
-            "sprint": 3,
-            "feature": 7,
+            "total": 24,
+            "feature": 14,
+            "sprint": 9,
             "feature2": 1
         },
-        "poles": 5,
-        "fastestLaps": 6,
-        "dnfs": 6,
+        "poles": 8,
+        "fastestLaps": 9,
+        "dnfs": 10,
         "bestFinish": 1,
-        "avgFinish": 7.3,
-        "titles": 0,
-        "bestChampionship": 2
+        "avgFinish": 7.63,
+        "titles": 1,
+        "bestChampionship": 1
     },
     "bySeasons": {
+        "2024": {
+            "entries": 56,
+            "starts": 56,
+            "points": 288.5,
+            "wins": {
+                "total": 3,
+                "feature": 2,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 13,
+                "feature": 7,
+                "sprint": 6
+            },
+            "poles": 3,
+            "fastestLaps": 3,
+            "dnfs": 4,
+            "bestFinish": 1,
+            "avgFinish": 7.92,
+            "championshipPosition": 1,
+            "complete": true
+        },
         "2026": {
             "entries": 50,
             "starts": 50,
@@ -56,7 +79,9 @@
         }
     },
     "drivers": [
+        "bortoleto",
         "camara",
-        "durksen"
+        "durksen",
+        "maini"
     ]
 }

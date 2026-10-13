@@ -58,6 +58,7 @@ EVENTS = {
 
 LAP = re.compile(r'^(?:\d+:)?\d{1,2}:\d\d\.\d{3}$')   # mm:ss.xxx or h:mm:ss.xxx
 INT = re.compile(r'^\d+$')
+PTS = re.compile(r'^\d+(?:\.\d+)?$')                  # points: integer or half (12.5)
 
 
 # --------------------------------------------------------------------------- #
@@ -145,7 +146,7 @@ def parse_classification(path):
                 continue
             time_i, fast_i = laps_t[0], laps_t[-1]
             on = t[fast_i + 1] if fast_i + 1 < len(t) and INT.match(t[fast_i + 1]) else "0"
-            pts = t[fast_i + 2] if fast_i + 2 < len(t) and INT.match(t[fast_i + 2]) else "0"
+            pts = t[fast_i + 2] if fast_i + 2 < len(t) and PTS.match(t[fast_i + 2]) else "0"
             mid = t[time_i + 1:fast_i]                 # [gap?, int?, kmh]
             rows.append({
                 "number": t[1], "grid": "", "position": t[0], "laps": t[time_i - 1],

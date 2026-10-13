@@ -1,0 +1,73 @@
+{
+    "driverId": "fornaroli",
+    "name": "L. Fornaroli",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2024"
+    ],
+    "career": {
+        "entries": 2,
+        "starts": 2,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 0,
+        "bestFinish": 11,
+        "avgFinish": 12.0,
+        "titles": 0,
+        "bestChampionship": 29
+    },
+    "bySeasons": {
+        "2024": {
+            "entries": 2,
+            "starts": 2,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 0,
+            "bestFinish": 11,
+            "avgFinish": 12.0,
+            "championshipPosition": 29,
+            "complete": true
+        }
+    },
+    "results": [
+        {
+            "season": "2024",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "rodin",
+            "grid": "12",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "rodin",
+            "grid": "11",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

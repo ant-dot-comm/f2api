@@ -3,31 +3,55 @@
     "name": "Rodin Motorsport",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 50,
-        "starts": 49,
-        "points": 296,
+        "entries": 106,
+        "starts": 105,
+        "points": 467,
         "wins": {
-            "total": 2,
-            "feature": 2
+            "total": 4,
+            "sprint": 1,
+            "feature": 3
         },
         "podiums": {
-            "total": 13,
-            "sprint": 5,
-            "feature": 7,
+            "total": 20,
+            "sprint": 8,
+            "feature": 11,
             "feature2": 1
         },
-        "poles": 2,
-        "fastestLaps": 5,
-        "dnfs": 4,
+        "poles": 3,
+        "fastestLaps": 7,
+        "dnfs": 9,
         "bestFinish": 1,
-        "avgFinish": 7.49,
+        "avgFinish": 8.75,
         "titles": 0,
         "bestChampionship": 3
     },
     "bySeasons": {
+        "2024": {
+            "entries": 56,
+            "starts": 56,
+            "points": 171,
+            "wins": {
+                "total": 2,
+                "sprint": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 7,
+                "sprint": 3,
+                "feature": 4
+            },
+            "poles": 1,
+            "fastestLaps": 2,
+            "dnfs": 5,
+            "bestFinish": 1,
+            "avgFinish": 9.86,
+            "championshipPosition": 8,
+            "complete": true
+        },
         "2026": {
             "entries": 50,
             "starts": 49,
@@ -53,6 +77,9 @@
     },
     "drivers": [
         "dunne",
+        "fornaroli",
+        "maloney",
+        "miyata",
         "stenshorne"
     ]
 }

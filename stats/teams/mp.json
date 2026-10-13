@@ -3,31 +3,53 @@
     "name": "MP Motorsport",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 50,
-        "starts": 50,
-        "points": 200,
+        "entries": 105,
+        "starts": 105,
+        "points": 420.5,
         "wins": {
-            "total": 2,
-            "feature": 1,
-            "sprint": 1
+            "total": 4,
+            "sprint": 3,
+            "feature": 1
         },
         "podiums": {
-            "total": 11,
-            "feature": 5,
-            "sprint": 6
+            "total": 21,
+            "sprint": 12,
+            "feature": 9
         },
-        "poles": 0,
-        "fastestLaps": 1,
-        "dnfs": 7,
+        "poles": 1,
+        "fastestLaps": 8,
+        "dnfs": 16,
         "bestFinish": 1,
-        "avgFinish": 8.49,
+        "avgFinish": 8.2,
         "titles": 0,
-        "bestChampionship": 4
+        "bestChampionship": 3
     },
     "bySeasons": {
+        "2024": {
+            "entries": 55,
+            "starts": 55,
+            "points": 220.5,
+            "wins": {
+                "total": 2,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 10,
+                "sprint": 6,
+                "feature": 4
+            },
+            "poles": 1,
+            "fastestLaps": 7,
+            "dnfs": 9,
+            "bestFinish": 1,
+            "avgFinish": 7.93,
+            "championshipPosition": 3,
+            "complete": true
+        },
         "2026": {
             "entries": 50,
             "starts": 50,
@@ -52,7 +74,10 @@
         }
     },
     "drivers": [
+        "colapinto",
         "goethe",
-        "mini"
+        "hauger",
+        "mini",
+        "verschoor"
     ]
 }

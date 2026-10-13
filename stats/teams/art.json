@@ -3,30 +3,54 @@
     "name": "Art Grand Prix",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 48,
-        "starts": 48,
-        "points": 161,
+        "entries": 104,
+        "starts": 104,
+        "points": 334,
         "wins": {
-            "total": 1,
-            "sprint": 1
+            "total": 4,
+            "feature": 1,
+            "sprint": 3
         },
         "podiums": {
-            "total": 4,
-            "sprint": 1,
-            "feature": 3
+            "total": 11,
+            "feature": 6,
+            "sprint": 5
         },
-        "poles": 2,
-        "fastestLaps": 1,
-        "dnfs": 7,
+        "poles": 3,
+        "fastestLaps": 5,
+        "dnfs": 18,
         "bestFinish": 1,
-        "avgFinish": 9.27,
+        "avgFinish": 9.01,
         "titles": 0,
         "bestChampionship": 6
     },
     "bySeasons": {
+        "2024": {
+            "entries": 56,
+            "starts": 56,
+            "points": 173,
+            "wins": {
+                "total": 3,
+                "feature": 1,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 7,
+                "feature": 3,
+                "sprint": 4
+            },
+            "poles": 1,
+            "fastestLaps": 4,
+            "dnfs": 11,
+            "bestFinish": 1,
+            "avgFinish": 8.78,
+            "championshipPosition": 7,
+            "complete": true
+        },
         "2026": {
             "entries": 48,
             "starts": 48,
@@ -50,7 +74,10 @@
         }
     },
     "drivers": [
+        "browning",
         "inthraphuvasak",
-        "maini"
+        "maini",
+        "martins",
+        "o_sullivan"
     ]
 }

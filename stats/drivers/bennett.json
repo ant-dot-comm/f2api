@@ -4,12 +4,13 @@
     "code": "BEN",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 25,
-        "starts": 25,
-        "points": 38,
+        "entries": 29,
+        "starts": 29,
+        "points": 42,
         "wins": {
             "total": 1,
             "sprint": 1
@@ -22,11 +23,29 @@
         "fastestLaps": 1,
         "dnfs": 8,
         "bestFinish": 1,
-        "avgFinish": 11.29,
+        "avgFinish": 11.52,
         "titles": 0,
         "bestChampionship": 14
     },
     "bySeasons": {
+        "2024": {
+            "entries": 4,
+            "starts": 4,
+            "points": 4,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 0,
+            "bestFinish": 8,
+            "avgFinish": 12.5,
+            "championshipPosition": 28,
+            "complete": true
+        },
         "2026": {
             "entries": 25,
             "starts": 25,
@@ -49,6 +68,54 @@
         }
     },
     "results": [
+        {
+            "season": "2024",
+            "round": "13",
+            "raceName": "Qatar Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "var",
+            "grid": "19",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "13",
+            "raceName": "Qatar Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "var",
+            "grid": "19",
+            "position": "8",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2024",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "var",
+            "grid": "18",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "var",
+            "grid": "18",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
         {
             "season": "2026",
             "round": "1",

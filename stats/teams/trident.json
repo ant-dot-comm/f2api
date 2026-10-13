@@ -3,30 +3,54 @@
     "name": "Trident",
     "series": "f2",
     "seasons": [
+        "2024",
         "2026"
     ],
     "career": {
-        "entries": 50,
-        "starts": 50,
-        "points": 128,
+        "entries": 106,
+        "starts": 106,
+        "points": 233,
         "wins": {
-            "total": 1,
-            "sprint": 1
+            "total": 3,
+            "sprint": 2,
+            "feature": 1
         },
         "podiums": {
-            "total": 7,
-            "feature": 1,
-            "sprint": 6
+            "total": 12,
+            "sprint": 8,
+            "feature": 4
         },
-        "poles": 1,
-        "fastestLaps": 2,
-        "dnfs": 11,
+        "poles": 3,
+        "fastestLaps": 3,
+        "dnfs": 20,
         "bestFinish": 1,
-        "avgFinish": 9.92,
+        "avgFinish": 11.4,
         "titles": 0,
         "bestChampionship": 7
     },
     "bySeasons": {
+        "2024": {
+            "entries": 56,
+            "starts": 56,
+            "points": 105,
+            "wins": {
+                "total": 2,
+                "sprint": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 5,
+                "sprint": 2,
+                "feature": 3
+            },
+            "poles": 2,
+            "fastestLaps": 1,
+            "dnfs": 9,
+            "bestFinish": 1,
+            "avgFinish": 12.62,
+            "championshipPosition": 10,
+            "complete": true
+        },
         "2026": {
             "entries": 50,
             "starts": 50,
@@ -51,6 +75,10 @@
     },
     "drivers": [
         "bennett",
-        "van_hoepen"
+        "esterson",
+        "mansell",
+        "stanek",
+        "van_hoepen",
+        "verschoor"
     ]
 }
