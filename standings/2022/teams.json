@@ -1,0 +1,76 @@
+{
+    "season": "2022",
+    "series": "f2",
+    "source": "FIA Driver/Team Championship PDF + f1pedia.com",
+    "lastRound": 14,
+    "scheduledRounds": 14,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "constructorId": "mp",
+            "team": "MP Motorsport",
+            "points": "305"
+        },
+        {
+            "position": "2",
+            "constructorId": "carlin",
+            "team": "Carlin",
+            "points": "297"
+        },
+        {
+            "position": "3",
+            "constructorId": "art",
+            "team": "ART Grand Prix",
+            "points": "281"
+        },
+        {
+            "position": "4",
+            "constructorId": "prema",
+            "team": "PREMA Racing",
+            "points": "241"
+        },
+        {
+            "position": "5",
+            "constructorId": "hitech",
+            "team": "Hitech Grand Prix",
+            "points": "207"
+        },
+        {
+            "position": "6",
+            "constructorId": "dams",
+            "team": "DAMS",
+            "points": "161"
+        },
+        {
+            "position": "7",
+            "constructorId": "virtuosi",
+            "team": "Virtuosi Racing",
+            "points": "134"
+        },
+        {
+            "position": "8",
+            "constructorId": "charouz",
+            "team": "Charouz Racing System",
+            "points": "130"
+        },
+        {
+            "position": "9",
+            "constructorId": "trident",
+            "team": "Trident",
+            "points": "108"
+        },
+        {
+            "position": "10",
+            "constructorId": "var",
+            "team": "Van Amersfoort Racing",
+            "points": "73"
+        },
+        {
+            "position": "11",
+            "constructorId": "campos",
+            "team": "Campos Racing",
+            "points": "67"
+        }
+    ]
+}
