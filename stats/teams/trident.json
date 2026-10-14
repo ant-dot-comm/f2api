@@ -1,8 +1,23 @@
 {
     "constructorId": "trident",
-    "name": "Trident",
+    "name": "Trident Racing",
     "series": "f2",
     "seasons": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
         "2021",
         "2022",
         "2023",
@@ -11,28 +26,357 @@
         "2026"
     ],
     "career": {
-        "entries": 313,
-        "starts": 313,
-        "points": 421,
+        "entries": 958,
+        "starts": 958,
+        "points": 1116,
         "wins": {
-            "total": 5,
-            "sprint": 3,
-            "feature": 2
+            "total": 16,
+            "feature": 6,
+            "sprint": 10
         },
         "podiums": {
-            "total": 19,
-            "sprint": 12,
-            "feature": 7
+            "total": 47,
+            "feature": 17,
+            "sprint": 30
         },
-        "poles": 3,
-        "fastestLaps": 8,
-        "dnfs": 54,
+        "poles": 7,
+        "fastestLaps": 24,
+        "dnfs": 205,
         "bestFinish": 1,
-        "avgFinish": 12.64,
+        "avgFinish": 12.74,
         "titles": 0,
-        "bestChampionship": 7
+        "bestChampionship": 6,
+        "eras": [
+            "f2",
+            "gp2"
+        ]
     },
     "bySeasons": {
+        "2006": {
+            "entries": 42,
+            "starts": 42,
+            "points": 45,
+            "wins": {
+                "total": 3,
+                "feature": 2,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 3,
+                "feature": 2,
+                "sprint": 1
+            },
+            "poles": 2,
+            "fastestLaps": 2,
+            "dnfs": 20,
+            "bestFinish": 1,
+            "avgFinish": 9.64,
+            "championshipPosition": 6,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2007": {
+            "entries": 42,
+            "starts": 42,
+            "points": 35,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 3,
+                "feature": 1,
+                "sprint": 2
+            },
+            "poles": 1,
+            "fastestLaps": 0,
+            "dnfs": 14,
+            "bestFinish": 1,
+            "avgFinish": 11.11,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2008": {
+            "entries": 40,
+            "starts": 40,
+            "points": 27,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 12,
+            "bestFinish": 1,
+            "avgFinish": 9.29,
+            "championshipPosition": 9,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2009": {
+            "entries": 40,
+            "starts": 40,
+            "points": 3,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 10,
+            "bestFinish": 5,
+            "avgFinish": 13.73,
+            "championshipPosition": 13,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2010": {
+            "entries": 40,
+            "starts": 40,
+            "points": 14,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 12,
+            "bestFinish": 3,
+            "avgFinish": 12.46,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2011": {
+            "entries": 36,
+            "starts": 36,
+            "points": 22,
+            "wins": {
+                "total": 2,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 10,
+            "bestFinish": 1,
+            "avgFinish": 13.62,
+            "championshipPosition": 8,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2012": {
+            "entries": 48,
+            "starts": 48,
+            "points": 34,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 1,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 5,
+            "bestFinish": 3,
+            "avgFinish": 14.53,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2013": {
+            "entries": 44,
+            "starts": 44,
+            "points": 49,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 2,
+                "feature": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 9,
+            "bestFinish": 1,
+            "avgFinish": 15.83,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2014": {
+            "entries": 44,
+            "starts": 44,
+            "points": 169,
+            "wins": {
+                "total": 2,
+                "feature": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 6,
+                "feature": 2,
+                "sprint": 4
+            },
+            "poles": 1,
+            "fastestLaps": 0,
+            "dnfs": 11,
+            "bestFinish": 1,
+            "avgFinish": 10.33,
+            "championshipPosition": 6,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2015": {
+            "entries": 42,
+            "starts": 42,
+            "points": 111,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 4,
+                "sprint": 2,
+                "feature": 2
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 4,
+            "bestFinish": 2,
+            "avgFinish": 12.39,
+            "championshipPosition": 7,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2016": {
+            "entries": 44,
+            "starts": 44,
+            "points": 111,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 4,
+                "sprint": 3,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 3,
+            "dnfs": 11,
+            "bestFinish": 1,
+            "avgFinish": 12.33,
+            "championshipPosition": 8,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2017": {
+            "entries": 44,
+            "starts": 44,
+            "points": 9,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 6,
+            "bestFinish": 9,
+            "avgFinish": 14.11,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2018": {
+            "entries": 48,
+            "starts": 48,
+            "points": 37,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 9,
+            "bestFinish": 5,
+            "avgFinish": 11.87,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2019": {
+            "entries": 42,
+            "starts": 42,
+            "points": 23,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 11,
+            "bestFinish": 5,
+            "avgFinish": 12.29,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2020": {
+            "entries": 48,
+            "starts": 48,
+            "points": 6,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 9,
+            "bestFinish": 8,
+            "avgFinish": 15.1,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
         "2021": {
             "entries": 46,
             "starts": 46,
@@ -48,13 +392,15 @@
             "fastestLaps": 0,
             "dnfs": 8,
             "bestFinish": 2,
-            "avgFinish": 13.0,
+            "avgFinish": 13.21,
             "championshipPosition": 9,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2022": {
-            "entries": 55,
-            "starts": 55,
+            "entries": 56,
+            "starts": 56,
             "points": 108,
             "wins": {
                 "total": 1,
@@ -67,11 +413,13 @@
             },
             "poles": 0,
             "fastestLaps": 3,
-            "dnfs": 7,
+            "dnfs": 4,
             "bestFinish": 1,
-            "avgFinish": 11.3,
+            "avgFinish": 11.88,
             "championshipPosition": 9,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2023": {
             "entries": 52,
@@ -87,11 +435,13 @@
             },
             "poles": 0,
             "fastestLaps": 2,
-            "dnfs": 6,
+            "dnfs": 7,
             "bestFinish": 1,
-            "avgFinish": 13.09,
+            "avgFinish": 12.87,
             "championshipPosition": 10,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2024": {
             "entries": 56,
@@ -111,9 +461,11 @@
             "fastestLaps": 1,
             "dnfs": 9,
             "bestFinish": 1,
-            "avgFinish": 12.62,
-            "championshipPosition": 10,
-            "complete": true
+            "avgFinish": 12.57,
+            "championshipPosition": 9,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2025": {
             "entries": 54,
@@ -129,9 +481,11 @@
             "fastestLaps": 0,
             "dnfs": 13,
             "bestFinish": 9,
-            "avgFinish": 15.95,
+            "avgFinish": 15.83,
             "championshipPosition": 11,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2026": {
             "entries": 50,
@@ -152,25 +506,69 @@
             "bestFinish": 1,
             "avgFinish": 9.92,
             "championshipPosition": 7,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "drivers": [
+        "alesi",
+        "arjun_maini",
+        "armand",
         "aron",
         "bennett",
+        "berthon",
+        "binder",
+        "boccolacci",
+        "boschung",
+        "bruni",
+        "campana",
+        "canamasas",
+        "ceccon",
+        "cecotto",
+        "coletti",
+        "conway",
         "esterson",
+        "ferrucci",
+        "ghiotto",
+        "gonzalez",
+        "hernandez",
+        "hirate",
+        "hoepen",
+        "ilott",
         "inthraphuvasak",
+        "jefferies",
+        "jeffri",
+        "jong",
+        "leal",
+        "leo",
+        "lorandi",
+        "lundgaard",
+        "maldonado",
+        "malja",
         "maloney",
         "mansell",
+        "marciello",
+        "marino_sato",
         "meguetounif",
+        "nissany",
         "novalak",
-        "sato",
+        "piscopo",
+        "raimondo",
+        "richelmi",
+        "rigon",
+        "risatti",
         "stanek",
         "stenshorne",
+        "teixeira",
+        "tung",
+        "tveter",
         "van_hoepen",
         "verschoor",
         "viscaal",
         "wharton",
-        "williams"
+        "williams",
+        "zaugg",
+        "zuber"
     ]
 }

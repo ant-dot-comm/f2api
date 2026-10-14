@@ -1,0 +1,82 @@
+{
+    "constructorId": "hwa_team",
+    "name": "BWT HWA Racelab",
+    "series": "f2",
+    "seasons": [
+        "2020",
+        "2021"
+    ],
+    "career": {
+        "entries": 94,
+        "starts": 94,
+        "points": 22,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 1,
+        "dnfs": 23,
+        "bestFinish": 4,
+        "avgFinish": 15.27,
+        "titles": 0,
+        "bestChampionship": 10,
+        "eras": [
+            "f2"
+        ]
+    },
+    "bySeasons": {
+        "2020": {
+            "entries": 48,
+            "starts": 48,
+            "points": 13,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 9,
+            "bestFinish": 6,
+            "avgFinish": 15.33,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2021": {
+            "entries": 46,
+            "starts": 46,
+            "points": 9,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 14,
+            "bestFinish": 4,
+            "avgFinish": 15.19,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        }
+    },
+    "drivers": [
+        "aitken",
+        "alesi",
+        "deledda",
+        "hughes",
+        "markelov",
+        "nannini",
+        "pourchaire",
+        "sargeant"
+    ]
+}

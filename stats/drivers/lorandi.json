@@ -1,0 +1,174 @@
+{
+    "driverId": "lorandi",
+    "name": "Alessio Lorandi",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2018"
+    ],
+    "career": {
+        "entries": 10,
+        "starts": 10,
+        "points": 6,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 2,
+        "bestFinish": 7,
+        "avgFinish": 12.88,
+        "titles": 0,
+        "bestChampionship": 20,
+        "eras": [
+            "f2"
+        ]
+    },
+    "bySeasons": {
+        "2018": {
+            "entries": 10,
+            "starts": 10,
+            "points": 6,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 2,
+            "bestFinish": 7,
+            "avgFinish": 12.88,
+            "championshipPosition": 20,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        }
+    },
+    "results": [
+        {
+            "season": "2018",
+            "round": "8",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "8",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "17",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "9",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "13",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "9",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "19",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "10",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "15",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "10",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "16",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "11",
+            "raceName": "Russian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "11",
+            "raceName": "Russian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "13",
+            "position": "7",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2018",
+            "round": "12",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "13",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "12",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "20",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

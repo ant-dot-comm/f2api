@@ -1,0 +1,247 @@
+{
+    "constructorId": "rapax",
+    "name": "Rapax",
+    "series": "f2",
+    "seasons": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+    ],
+    "career": {
+        "entries": 342,
+        "starts": 342,
+        "points": 788,
+        "wins": {
+            "total": 13,
+            "feature": 7,
+            "sprint": 6
+        },
+        "podiums": {
+            "total": 37,
+            "sprint": 20,
+            "feature": 17
+        },
+        "poles": 2,
+        "fastestLaps": 10,
+        "dnfs": 48,
+        "bestFinish": 1,
+        "avgFinish": 11.35,
+        "titles": 1,
+        "bestChampionship": 1,
+        "eras": [
+            "f2",
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2010": {
+            "entries": 40,
+            "starts": 40,
+            "points": 115,
+            "wins": {
+                "total": 6,
+                "feature": 6
+            },
+            "podiums": {
+                "total": 11,
+                "sprint": 4,
+                "feature": 7
+            },
+            "poles": 0,
+            "fastestLaps": 4,
+            "dnfs": 10,
+            "bestFinish": 1,
+            "avgFinish": 6.63,
+            "championshipPosition": 1,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2011": {
+            "entries": 36,
+            "starts": 36,
+            "points": 15,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 12,
+            "bestFinish": 1,
+            "avgFinish": 12.33,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2012": {
+            "entries": 48,
+            "starts": 48,
+            "points": 44,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 14.8,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2013": {
+            "entries": 44,
+            "starts": 44,
+            "points": 155,
+            "wins": {
+                "total": 3,
+                "sprint": 3
+            },
+            "podiums": {
+                "total": 7,
+                "sprint": 4,
+                "feature": 3
+            },
+            "poles": 1,
+            "fastestLaps": 2,
+            "dnfs": 2,
+            "bestFinish": 1,
+            "avgFinish": 11.83,
+            "championshipPosition": 6,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2014": {
+            "entries": 44,
+            "starts": 44,
+            "points": 56,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 1,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 2,
+            "bestFinish": 2,
+            "avgFinish": 13.93,
+            "championshipPosition": 8,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2015": {
+            "entries": 42,
+            "starts": 42,
+            "points": 159,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 5,
+                "sprint": 2,
+                "feature": 3
+            },
+            "poles": 1,
+            "fastestLaps": 2,
+            "dnfs": 2,
+            "bestFinish": 1,
+            "avgFinish": 10.18,
+            "championshipPosition": 6,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2016": {
+            "entries": 44,
+            "starts": 44,
+            "points": 107,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 4,
+                "sprint": 3,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 6,
+            "bestFinish": 2,
+            "avgFinish": 10.42,
+            "championshipPosition": 9,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2017": {
+            "entries": 44,
+            "starts": 44,
+            "points": 137,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 5,
+                "sprint": 3,
+                "feature": 2
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 9.43,
+            "championshipPosition": 5,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        }
+    },
+    "drivers": [
+        "arthur_pic",
+        "binder",
+        "canamasas",
+        "cecotto",
+        "coletti",
+        "deletraz",
+        "dillmann",
+        "ellinas",
+        "giovesi",
+        "jong",
+        "leal",
+        "leimer",
+        "maldonado",
+        "malja",
+        "merhi",
+        "quaife_hobbs",
+        "razia",
+        "sirotkin",
+        "teixeira",
+        "trummer",
+        "visoiu",
+        "vries"
+    ]
+}

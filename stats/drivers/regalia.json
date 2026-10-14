@@ -1,0 +1,150 @@
+{
+    "driverId": "regalia",
+    "name": "Facundo Regalia",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2014"
+    ],
+    "career": {
+        "entries": 8,
+        "starts": 8,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 4,
+        "bestFinish": 17,
+        "avgFinish": 20.5,
+        "titles": 0,
+        "bestChampionship": null,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2014": {
+            "entries": 8,
+            "starts": 8,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 4,
+            "bestFinish": 17,
+            "avgFinish": 20.5,
+            "championshipPosition": null,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2014",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hilmer_motorsport",
+            "grid": "26",
+            "position": "20",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "hilmer_motorsport",
+            "grid": "19",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "2",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hilmer_motorsport",
+            "grid": "25",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "2",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "hilmer_motorsport",
+            "grid": "21",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "3",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hilmer_motorsport",
+            "grid": "26",
+            "position": "21",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "3",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "hilmer_motorsport",
+            "grid": "23",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "4",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hilmer_motorsport",
+            "grid": "25",
+            "position": "24",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "4",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "hilmer_motorsport",
+            "grid": "23",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        }
+    ]
+}

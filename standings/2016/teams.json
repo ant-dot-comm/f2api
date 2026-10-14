@@ -1,0 +1,77 @@
+{
+    "season": "2016",
+    "series": "gp2",
+    "championship": "GP2 Series",
+    "source": "motorsportmagazine.com",
+    "lastRound": 11,
+    "scheduledRounds": 11,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "constructorId": "prema",
+            "team": "Prema Racing",
+            "points": "430"
+        },
+        {
+            "position": "2",
+            "constructorId": "racing_engineering",
+            "team": "Racing Engineering",
+            "points": "258"
+        },
+        {
+            "position": "3",
+            "constructorId": "russian_time",
+            "team": "Russian Time",
+            "points": "256"
+        },
+        {
+            "position": "4",
+            "constructorId": "art",
+            "team": "ART Grand Prix",
+            "points": "251"
+        },
+        {
+            "position": "5",
+            "constructorId": "dams",
+            "team": "DAMS",
+            "points": "147"
+        },
+        {
+            "position": "6",
+            "constructorId": "adrian_campos_motorsport",
+            "team": "Pertamina Campos Racing",
+            "points": "114"
+        },
+        {
+            "position": "7",
+            "constructorId": "mp",
+            "team": "MP Motorsport",
+            "points": "113"
+        },
+        {
+            "position": "8",
+            "constructorId": "trident",
+            "team": "Trident Racing",
+            "points": "111"
+        },
+        {
+            "position": "9",
+            "constructorId": "rapax",
+            "team": "Rapax",
+            "points": "107"
+        },
+        {
+            "position": "10",
+            "constructorId": "carlin",
+            "team": "Carlin",
+            "points": "38"
+        },
+        {
+            "position": "11",
+            "constructorId": "arden",
+            "team": "Arden International",
+            "points": "12"
+        }
+    ]
+}

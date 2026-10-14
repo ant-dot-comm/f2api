@@ -3,124 +3,36 @@
     "name": "Invicta",
     "series": "f2",
     "seasons": [
-        "2021",
-        "2023",
-        "2024",
-        "2025",
         "2026"
     ],
     "career": {
-        "entries": 257,
-        "starts": 257,
-        "points": 1365.5,
+        "entries": 50,
+        "starts": 50,
+        "points": 297,
         "wins": {
-            "total": 22,
-            "feature": 12,
-            "sprint": 9,
+            "total": 7,
+            "sprint": 3,
+            "feature": 3,
             "feature2": 1
         },
         "podiums": {
-            "total": 56,
-            "sprint": 23,
-            "feature": 32,
+            "total": 11,
+            "sprint": 3,
+            "feature": 7,
             "feature2": 1
         },
-        "poles": 15,
-        "fastestLaps": 13,
-        "dnfs": 27,
+        "poles": 5,
+        "fastestLaps": 6,
+        "dnfs": 6,
         "bestFinish": 1,
-        "avgFinish": 8.0,
-        "titles": 2,
-        "bestChampionship": 1
+        "avgFinish": 7.3,
+        "titles": 0,
+        "bestChampionship": 2,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
-        "2021": {
-            "entries": 45,
-            "starts": 45,
-            "points": 288,
-            "wins": {
-                "total": 4,
-                "feature": 2,
-                "sprint": 2
-            },
-            "podiums": {
-                "total": 13,
-                "sprint": 7,
-                "feature": 6
-            },
-            "poles": 1,
-            "fastestLaps": 1,
-            "dnfs": 5,
-            "bestFinish": 1,
-            "avgFinish": 6.97,
-            "championshipPosition": 2,
-            "complete": true
-        },
-        "2023": {
-            "entries": 52,
-            "starts": 52,
-            "points": 176,
-            "wins": {
-                "total": 3,
-                "feature": 3
-            },
-            "podiums": {
-                "total": 5,
-                "feature": 4,
-                "sprint": 1
-            },
-            "poles": 3,
-            "fastestLaps": 3,
-            "dnfs": 8,
-            "bestFinish": 1,
-            "avgFinish": 11.02,
-            "championshipPosition": 5,
-            "complete": true
-        },
-        "2024": {
-            "entries": 56,
-            "starts": 56,
-            "points": 288.5,
-            "wins": {
-                "total": 3,
-                "feature": 2,
-                "sprint": 1
-            },
-            "podiums": {
-                "total": 13,
-                "feature": 7,
-                "sprint": 6
-            },
-            "poles": 3,
-            "fastestLaps": 3,
-            "dnfs": 4,
-            "bestFinish": 1,
-            "avgFinish": 7.92,
-            "championshipPosition": 1,
-            "complete": true
-        },
-        "2025": {
-            "entries": 54,
-            "starts": 54,
-            "points": 316,
-            "wins": {
-                "total": 5,
-                "sprint": 3,
-                "feature": 2
-            },
-            "podiums": {
-                "total": 14,
-                "feature": 8,
-                "sprint": 6
-            },
-            "poles": 3,
-            "fastestLaps": 0,
-            "dnfs": 4,
-            "bestFinish": 1,
-            "avgFinish": 6.9,
-            "championshipPosition": 1,
-            "complete": true
-        },
         "2026": {
             "entries": 50,
             "starts": 50,
@@ -143,19 +55,13 @@
             "bestFinish": 1,
             "avgFinish": 7.3,
             "championshipPosition": 2,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "drivers": [
-        "bortoleto",
         "camara",
-        "cordeel",
-        "doohan",
-        "drugovich",
-        "durksen",
-        "fornaroli",
-        "maini",
-        "stanek",
-        "zhou"
+        "durksen"
     ]
 }

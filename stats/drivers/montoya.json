@@ -15,17 +15,20 @@
             "total": 0
         },
         "podiums": {
-            "total": 3,
-            "feature": 1,
+            "total": 4,
+            "feature": 2,
             "sprint": 2
         },
         "poles": 0,
         "fastestLaps": 3,
-        "dnfs": 9,
+        "dnfs": 8,
         "bestFinish": 2,
-        "avgFinish": 10.33,
+        "avgFinish": 10.3,
         "titles": 0,
-        "bestChampionship": 12
+        "bestChampionship": 12,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2025": {
@@ -36,17 +39,19 @@
                 "total": 0
             },
             "podiums": {
-                "total": 2,
-                "feature": 1,
+                "total": 3,
+                "feature": 2,
                 "sprint": 1
             },
             "poles": 0,
             "fastestLaps": 2,
-            "dnfs": 5,
+            "dnfs": 4,
             "bestFinish": 2,
-            "avgFinish": 9.05,
+            "avgFinish": 9.04,
             "championshipPosition": 12,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2026": {
             "entries": 25,
@@ -65,7 +70,9 @@
             "bestFinish": 2,
             "avgFinish": 11.75,
             "championshipPosition": 17,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "results": [
@@ -76,10 +83,10 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "prema",
-            "grid": "9",
+            "grid": "8",
             "position": "6",
             "status": "Finished",
-            "points": "8"
+            "points": "3"
         },
         {
             "season": "2025",
@@ -88,7 +95,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "18",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -160,10 +167,10 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "",
-            "position": "14",
+            "grid": "6",
+            "position": "6",
             "status": "Finished",
-            "points": "0"
+            "points": "3"
         },
         {
             "season": "2025",
@@ -172,8 +179,8 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "prema",
-            "grid": "",
-            "position": "6",
+            "grid": "5",
+            "position": "3",
             "status": "Finished",
             "points": "8"
         },
@@ -184,7 +191,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "9",
+            "grid": "8",
             "position": "11",
             "status": "Finished",
             "points": "0"
@@ -208,7 +215,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "",
+            "grid": "11",
             "position": "5",
             "status": "Finished",
             "points": "4"
@@ -220,7 +227,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "prema",
-            "grid": "",
+            "grid": "10",
             "position": "4",
             "status": "Finished",
             "points": "13"
@@ -269,8 +276,8 @@
             "type": "feature",
             "constructorId": "prema",
             "grid": "16",
-            "position": "NC",
-            "status": "DNF",
+            "position": "21",
+            "status": "Finished",
             "points": "0"
         },
         {
@@ -280,7 +287,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "18",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -292,7 +299,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "prema",
-            "grid": "18",
+            "grid": "21",
             "position": "15",
             "status": "Finished",
             "points": "0"
@@ -304,7 +311,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "14",
+            "grid": "21",
             "position": "10",
             "status": "Finished",
             "points": "0"
@@ -316,7 +323,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "prema",
-            "grid": "14",
+            "grid": "21",
             "position": "9",
             "status": "Finished",
             "points": "2"
@@ -328,7 +335,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "19",
+            "grid": "3",
             "position": "15",
             "status": "Finished",
             "points": "0"
@@ -340,7 +347,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "prema",
-            "grid": "19",
+            "grid": "8",
             "position": "9",
             "status": "Finished",
             "points": "2"
@@ -377,7 +384,7 @@
             "type": "sprint",
             "constructorId": "prema",
             "grid": "6",
-            "position": "13",
+            "position": "12",
             "status": "Finished",
             "points": "0"
         },

@@ -1,0 +1,246 @@
+{
+    "constructorId": "isport_international",
+    "name": "iSport International",
+    "series": "f2",
+    "seasons": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "career": {
+        "entries": 334,
+        "starts": 334,
+        "points": 775.5,
+        "wins": {
+            "total": 19,
+            "sprint": 13,
+            "feature": 6
+        },
+        "podiums": {
+            "total": 59,
+            "feature": 31,
+            "sprint": 28
+        },
+        "poles": 12,
+        "fastestLaps": 21,
+        "dnfs": 72,
+        "bestFinish": 1,
+        "avgFinish": 8.22,
+        "titles": 1,
+        "bestChampionship": 1,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2005": {
+            "entries": 46,
+            "starts": 46,
+            "points": 69.5,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 5,
+                "feature": 2,
+                "sprint": 3
+            },
+            "poles": 1,
+            "fastestLaps": 5,
+            "dnfs": 11,
+            "bestFinish": 2,
+            "avgFinish": 11.11,
+            "championshipPosition": 4,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2006": {
+            "entries": 42,
+            "starts": 42,
+            "points": 101,
+            "wins": {
+                "total": 4,
+                "sprint": 3,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 8,
+                "sprint": 4,
+                "feature": 4
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 10,
+            "bestFinish": 1,
+            "avgFinish": 6.03,
+            "championshipPosition": 3,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2007": {
+            "entries": 42,
+            "starts": 42,
+            "points": 118,
+            "wins": {
+                "total": 6,
+                "sprint": 4,
+                "feature": 2
+            },
+            "podiums": {
+                "total": 13,
+                "sprint": 5,
+                "feature": 8
+            },
+            "poles": 5,
+            "fastestLaps": 6,
+            "dnfs": 13,
+            "bestFinish": 1,
+            "avgFinish": 6.83,
+            "championshipPosition": 1,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2008": {
+            "entries": 40,
+            "starts": 40,
+            "points": 95,
+            "wins": {
+                "total": 3,
+                "feature": 1,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 9,
+                "feature": 5,
+                "sprint": 4
+            },
+            "poles": 3,
+            "fastestLaps": 1,
+            "dnfs": 11,
+            "bestFinish": 1,
+            "avgFinish": 6.17,
+            "championshipPosition": 2,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2009": {
+            "entries": 40,
+            "starts": 40,
+            "points": 42,
+            "wins": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 4,
+                "sprint": 3,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 10,
+            "bestFinish": 1,
+            "avgFinish": 8.8,
+            "championshipPosition": 6,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2010": {
+            "entries": 40,
+            "starts": 40,
+            "points": 78,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 7,
+                "feature": 3,
+                "sprint": 4
+            },
+            "poles": 2,
+            "fastestLaps": 2,
+            "dnfs": 2,
+            "bestFinish": 1,
+            "avgFinish": 8.61,
+            "championshipPosition": 5,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2011": {
+            "entries": 36,
+            "starts": 36,
+            "points": 70,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 5,
+                "sprint": 2,
+                "feature": 3
+            },
+            "poles": 1,
+            "fastestLaps": 4,
+            "dnfs": 5,
+            "bestFinish": 2,
+            "avgFinish": 7.58,
+            "championshipPosition": 4,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2012": {
+            "entries": 48,
+            "starts": 48,
+            "points": 202,
+            "wins": {
+                "total": 2,
+                "sprint": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 8,
+                "sprint": 3,
+                "feature": 5
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 10,
+            "bestFinish": 1,
+            "avgFinish": 9.68,
+            "championshipPosition": 6,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "artam",
+        "bird",
+        "chandhok",
+        "ericsson",
+        "garde",
+        "glock",
+        "gommendy",
+        "nunes",
+        "palmer",
+        "senna",
+        "speed",
+        "turvey",
+        "valsecchi",
+        "viso",
+        "zuber"
+    ]
+}

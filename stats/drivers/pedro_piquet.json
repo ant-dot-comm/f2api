@@ -1,0 +1,342 @@
+{
+    "driverId": "pedro_piquet",
+    "name": "Pedro Piquet",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2020"
+    ],
+    "career": {
+        "entries": 24,
+        "starts": 24,
+        "points": 3,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 0,
+        "bestFinish": 7,
+        "avgFinish": 13.67,
+        "titles": 0,
+        "bestChampionship": 20,
+        "eras": [
+            "f2"
+        ]
+    },
+    "bySeasons": {
+        "2020": {
+            "entries": 24,
+            "starts": 24,
+            "points": 3,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 0,
+            "bestFinish": 7,
+            "avgFinish": 13.67,
+            "championshipPosition": 20,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        }
+    },
+    "results": [
+        {
+            "season": "2020",
+            "round": "1",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "13",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "1",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "15",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "2",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "18",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "2",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "18",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "3",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "14",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "3",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "13",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "11",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "14",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "21",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "13",
+            "position": "21",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "6",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "14",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2020",
+            "round": "6",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "17",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "7",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "12",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "7",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "11",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "8",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "12",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "8",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "18",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "9",
+            "raceName": "Tuscan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "13",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "9",
+            "raceName": "Tuscan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "16",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "10",
+            "raceName": "Russian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "17",
+            "position": "9",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "10",
+            "raceName": "Russian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "12",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "11",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "11",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "11",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "13",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "12",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "10",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "12",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "13",
+            "position": "10",
+            "status": "Finished",
+            "points": "1"
+        }
+    ]
+}

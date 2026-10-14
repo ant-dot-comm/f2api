@@ -1,10 +1,11 @@
 {
     "season": "2024",
     "series": "f2",
+    "championship": "FIA Formula 2 Championship",
     "Drivers": {
         "antonelli": {
             "driverId": "antonelli",
-            "name": "A. Antonelli",
+            "name": "Andrea Kimi Antonelli",
             "entries": [
                 {
                     "number": "4",
@@ -22,18 +23,19 @@
                         "10",
                         "11",
                         "12",
-                        "13"
+                        "13",
+                        "14"
                     ]
                 }
             ]
         },
         "aron": {
             "driverId": "aron",
-            "name": "P. Aron",
+            "name": "Paul Aron",
             "entries": [
                 {
                     "number": "17",
-                    "constructorId": "hitech",
+                    "constructorId": "hitech_racing",
                     "rounds": [
                         "1",
                         "2",
@@ -55,7 +57,7 @@
         },
         "barnard": {
             "driverId": "barnard",
-            "name": "T. Barnard",
+            "name": "Taylor Barnard",
             "entries": [
                 {
                     "number": "25",
@@ -77,13 +79,14 @@
         },
         "bearman": {
             "driverId": "bearman",
-            "name": "O. Bearman",
+            "name": "Oliver Bearman",
             "entries": [
                 {
                     "number": "3",
                     "constructorId": "prema",
                     "rounds": [
                         "1",
+                        "2",
                         "3",
                         "4",
                         "5",
@@ -101,7 +104,7 @@
         },
         "beganovic": {
             "driverId": "beganovic",
-            "name": "D. Beganovic",
+            "name": "Dino Beganovic",
             "entries": [
                 {
                     "number": "8",
@@ -115,7 +118,7 @@
         },
         "bennett": {
             "driverId": "bennett",
-            "name": "J. Bennett",
+            "name": "John Bennett",
             "entries": [
                 {
                     "number": "14",
@@ -129,11 +132,11 @@
         },
         "bortoleto": {
             "driverId": "bortoleto",
-            "name": "G. Bortoleto",
+            "name": "Gabriel Bortoleto",
             "entries": [
                 {
                     "number": "10",
-                    "constructorId": "invicta",
+                    "constructorId": "virtuosi",
                     "rounds": [
                         "1",
                         "2",
@@ -155,7 +158,7 @@
         },
         "browning": {
             "driverId": "browning",
-            "name": "L. Browning",
+            "name": "Luke Browning",
             "entries": [
                 {
                     "number": "2",
@@ -170,7 +173,7 @@
         },
         "colapinto": {
             "driverId": "colapinto",
-            "name": "F. Colapinto",
+            "name": "Franco Colapinto",
             "entries": [
                 {
                     "number": "12",
@@ -192,11 +195,11 @@
         },
         "cordeel": {
             "driverId": "cordeel",
-            "name": "A. Cordeel",
+            "name": "Amaury Cordeel",
             "entries": [
                 {
                     "number": "16",
-                    "constructorId": "hitech",
+                    "constructorId": "hitech_racing",
                     "rounds": [
                         "1",
                         "2",
@@ -218,7 +221,7 @@
         },
         "correa": {
             "driverId": "correa",
-            "name": "J. Correa",
+            "name": "Juan Manuel Correa",
             "entries": [
                 {
                     "number": "8",
@@ -242,7 +245,7 @@
         },
         "crawford": {
             "driverId": "crawford",
-            "name": "J. Crawford",
+            "name": "Jak Crawford",
             "entries": [
                 {
                     "number": "7",
@@ -268,7 +271,7 @@
         },
         "durksen": {
             "driverId": "durksen",
-            "name": "J. Durksen",
+            "name": "Joshua Durksen",
             "entries": [
                 {
                     "number": "24",
@@ -294,7 +297,7 @@
         },
         "esterson": {
             "driverId": "esterson",
-            "name": "M. Esterson",
+            "name": "Max Esterson",
             "entries": [
                 {
                     "number": "22",
@@ -308,7 +311,7 @@
         },
         "fittipaldi": {
             "driverId": "fittipaldi",
-            "name": "E. Fittipaldi",
+            "name": "Enzo Fittipaldi",
             "entries": [
                 {
                     "number": "14",
@@ -332,7 +335,7 @@
         },
         "fornaroli": {
             "driverId": "fornaroli",
-            "name": "L. Fornaroli",
+            "name": "Leonardo Fornaroli",
             "entries": [
                 {
                     "number": "5",
@@ -345,7 +348,7 @@
         },
         "goethe": {
             "driverId": "goethe",
-            "name": "O. Goethe",
+            "name": "Oliver Goethe",
             "entries": [
                 {
                     "number": "12",
@@ -361,11 +364,11 @@
         },
         "hadjar": {
             "driverId": "hadjar",
-            "name": "I. Hadjar",
+            "name": "Isack Hadjar",
             "entries": [
                 {
                     "number": "20",
-                    "constructorId": "campos",
+                    "constructorId": "adrian_campos_motorsport",
                     "rounds": [
                         "1",
                         "2",
@@ -387,7 +390,7 @@
         },
         "hauger": {
             "driverId": "hauger",
-            "name": "D. Hauger",
+            "name": "Dennis Hauger",
             "entries": [
                 {
                     "number": "11",
@@ -411,7 +414,7 @@
         },
         "koolen": {
             "driverId": "koolen",
-            "name": "N. Koolen",
+            "name": "Niels Koolen",
             "entries": [
                 {
                     "number": "25",
@@ -425,11 +428,11 @@
         },
         "maini": {
             "driverId": "maini",
-            "name": "K. Maini",
+            "name": "Kush Maini",
             "entries": [
                 {
                     "number": "9",
-                    "constructorId": "invicta",
+                    "constructorId": "virtuosi",
                     "rounds": [
                         "1",
                         "2",
@@ -451,7 +454,7 @@
         },
         "maloney": {
             "driverId": "maloney",
-            "name": "Z. Maloney",
+            "name": "Zane Maloney",
             "entries": [
                 {
                     "number": "5",
@@ -476,7 +479,7 @@
         },
         "mansell": {
             "driverId": "mansell",
-            "name": "C. Mansell",
+            "name": "Christian Mansell",
             "entries": [
                 {
                     "number": "23",
@@ -491,11 +494,11 @@
         },
         "marti": {
             "driverId": "marti",
-            "name": "J. Marti",
+            "name": "Josep Maria Marti",
             "entries": [
                 {
                     "number": "21",
-                    "constructorId": "campos",
+                    "constructorId": "adrian_campos_motorsport",
                     "rounds": [
                         "1",
                         "2",
@@ -517,7 +520,7 @@
         },
         "martins": {
             "driverId": "martins",
-            "name": "V. Martins",
+            "name": "Victor Martins",
             "entries": [
                 {
                     "number": "1",
@@ -543,7 +546,7 @@
         },
         "mini": {
             "driverId": "mini",
-            "name": "G. Mini",
+            "name": "Gabriele Mini",
             "entries": [
                 {
                     "number": "3",
@@ -556,7 +559,7 @@
         },
         "miyata": {
             "driverId": "miyata",
-            "name": "R. Miyata",
+            "name": "Ritomo Miyata",
             "entries": [
                 {
                     "number": "6",
@@ -582,7 +585,7 @@
         },
         "o_sullivan": {
             "driverId": "o_sullivan",
-            "name": "Z. O'Sullivan",
+            "name": "Zak O'Sullivan",
             "entries": [
                 {
                     "number": "2",
@@ -605,7 +608,7 @@
         },
         "shields": {
             "driverId": "shields",
-            "name": "C. Shields",
+            "name": "Cian Shields",
             "entries": [
                 {
                     "number": "25",
@@ -619,7 +622,7 @@
         },
         "stanek": {
             "driverId": "stanek",
-            "name": "R. Stanek",
+            "name": "Roman Stanek",
             "entries": [
                 {
                     "number": "23",
@@ -642,7 +645,7 @@
         },
         "verschoor": {
             "driverId": "verschoor",
-            "name": "R. Verschoor",
+            "name": "Richard Verschoor",
             "entries": [
                 {
                     "number": "22",
@@ -674,7 +677,7 @@
         },
         "villagomez": {
             "driverId": "villagomez",
-            "name": "R. Villagomez",
+            "name": "Rafael Villagomez",
             "entries": [
                 {
                     "number": "15",

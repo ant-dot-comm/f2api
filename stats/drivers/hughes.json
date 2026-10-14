@@ -1,15 +1,16 @@
 {
     "driverId": "hughes",
-    "name": "J. Hughes",
+    "name": "Jake Hughes",
     "code": "",
     "series": "f2",
     "seasons": [
+        "2020",
         "2021",
         "2022"
     ],
     "career": {
-        "entries": 24,
-        "starts": 24,
+        "entries": 26,
+        "starts": 26,
         "points": 34,
         "wins": {
             "total": 0
@@ -19,13 +20,36 @@
         },
         "poles": 0,
         "fastestLaps": 0,
-        "dnfs": 5,
+        "dnfs": 6,
         "bestFinish": 4,
-        "avgFinish": 11.72,
+        "avgFinish": 12.15,
         "titles": 0,
-        "bestChampionship": 16
+        "bestChampionship": 16,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
+        "2020": {
+            "entries": 2,
+            "starts": 2,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 12,
+            "avgFinish": 12.0,
+            "championshipPosition": 23,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
         "2021": {
             "entries": 8,
             "starts": 8,
@@ -42,7 +66,9 @@
             "bestFinish": 4,
             "avgFinish": 12.0,
             "championshipPosition": 18,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2022": {
             "entries": 16,
@@ -58,32 +84,34 @@
             "fastestLaps": 0,
             "dnfs": 2,
             "bestFinish": 4,
-            "avgFinish": 11.62,
+            "avgFinish": 12.21,
             "championshipPosition": 16,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
         {
-            "season": "2021",
-            "round": "5",
-            "raceName": "Italian Grand Prix",
+            "season": "2020",
+            "round": "10",
+            "raceName": "Russian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hwa",
-            "grid": "16",
+            "constructorId": "hwa_team",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
         },
         {
-            "season": "2021",
-            "round": "5",
-            "raceName": "Italian Grand Prix",
+            "season": "2020",
+            "round": "10",
+            "raceName": "Russian Grand Prix",
             "race": "race2",
-            "type": "sprint",
-            "constructorId": "hwa",
-            "grid": "",
+            "type": "feature",
+            "constructorId": "hwa_team",
+            "grid": "15",
             "position": "12",
             "status": "Finished",
             "points": "0"
@@ -92,9 +120,33 @@
             "season": "2021",
             "round": "5",
             "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hwa_team",
+            "grid": "16",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "5",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hwa_team",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "5",
+            "raceName": "Italian Grand Prix",
             "race": "race3",
             "type": "feature",
-            "constructorId": "hwa",
+            "constructorId": "hwa_team",
             "grid": "16",
             "position": "13",
             "status": "Finished",
@@ -106,7 +158,7 @@
             "raceName": "Russian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hwa",
+            "constructorId": "hwa_team",
             "grid": "5",
             "position": "4",
             "status": "Finished",
@@ -116,9 +168,9 @@
             "season": "2021",
             "round": "6",
             "raceName": "Russian Grand Prix",
-            "race": "race3",
-            "type": "feature",
-            "constructorId": "hwa",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hwa_team",
             "grid": "6",
             "position": "18",
             "status": "Finished",
@@ -130,20 +182,8 @@
             "raceName": "Abu Dhabi Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hwa",
-            "grid": "18",
-            "position": "13",
-            "status": "Finished",
-            "points": "0"
-        },
-        {
-            "season": "2021",
-            "round": "8",
-            "raceName": "Abu Dhabi Grand Prix",
-            "race": "race2",
-            "type": "sprint",
-            "constructorId": "hwa",
-            "grid": "13",
+            "constructorId": "hwa_team",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -152,9 +192,21 @@
             "season": "2021",
             "round": "8",
             "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hwa_team",
+            "grid": "21",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "8",
+            "raceName": "Abu Dhabi Grand Prix",
             "race": "race3",
             "type": "feature",
-            "constructorId": "hwa",
+            "constructorId": "hwa_team",
             "grid": "18",
             "position": "NC",
             "status": "DNF",
@@ -167,7 +219,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "3",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -191,9 +243,9 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "11",
+            "grid": "",
             "position": "NC",
-            "status": "DSQ",
+            "status": "DNF",
             "points": "0"
         },
         {
@@ -203,7 +255,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "11",
+            "grid": "9",
             "position": "4",
             "status": "Finished",
             "points": "12"
@@ -215,7 +267,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "17",
+            "grid": "20",
             "position": "18",
             "status": "Finished",
             "points": "0"
@@ -239,9 +291,9 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "19",
-            "position": "NC",
-            "status": "DNF",
+            "grid": "2",
+            "position": "20",
+            "status": "Finished",
             "points": "0"
         },
         {
@@ -251,7 +303,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "19",
+            "grid": "8",
             "position": "16",
             "status": "Finished",
             "points": "0"
@@ -263,7 +315,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "",
+            "grid": "1",
             "position": "18",
             "status": "Finished",
             "points": "0"
@@ -275,7 +327,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "",
+            "grid": "10",
             "position": "13",
             "status": "Finished",
             "points": "0"
@@ -311,7 +363,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "14",
+            "grid": "13",
             "position": "11",
             "status": "Finished",
             "points": "0"
@@ -335,7 +387,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "",
+            "grid": "18",
             "position": "16",
             "status": "Finished",
             "points": "0"
@@ -347,7 +399,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "",
+            "grid": "19",
             "position": "5",
             "status": "Finished",
             "points": "10"

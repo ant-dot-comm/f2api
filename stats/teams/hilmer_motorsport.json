@@ -1,0 +1,115 @@
+{
+    "constructorId": "hilmer_motorsport",
+    "name": "Hilmer Motorsport",
+    "series": "f2",
+    "seasons": [
+        "2013",
+        "2014",
+        "2015"
+    ],
+    "career": {
+        "entries": 112,
+        "starts": 112,
+        "points": 207,
+        "wins": {
+            "total": 4,
+            "feature": 1,
+            "sprint": 3
+        },
+        "podiums": {
+            "total": 7,
+            "sprint": 5,
+            "feature": 2
+        },
+        "poles": 0,
+        "fastestLaps": 3,
+        "dnfs": 25,
+        "bestFinish": 1,
+        "avgFinish": 13.24,
+        "titles": 0,
+        "bestChampionship": 7,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2013": {
+            "entries": 44,
+            "starts": 44,
+            "points": 155,
+            "wins": {
+                "total": 4,
+                "feature": 1,
+                "sprint": 3
+            },
+            "podiums": {
+                "total": 7,
+                "sprint": 5,
+                "feature": 2
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 11.31,
+            "championshipPosition": 7,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2014": {
+            "entries": 44,
+            "starts": 44,
+            "points": 33,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 10,
+            "bestFinish": 5,
+            "avgFinish": 14.59,
+            "championshipPosition": 12,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2015": {
+            "entries": 24,
+            "starts": 24,
+            "points": 19,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 7,
+            "bestFinish": 5,
+            "avgFinish": 14.65,
+            "championshipPosition": 13,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "abt",
+        "canamasas",
+        "cecotto",
+        "daly",
+        "frijns",
+        "lancaster",
+        "latifi",
+        "quaife_hobbs",
+        "regalia",
+        "trummer",
+        "varhaug",
+        "yelloly"
+    ]
+}

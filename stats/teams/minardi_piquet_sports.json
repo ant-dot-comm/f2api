@@ -1,0 +1,57 @@
+{
+    "constructorId": "minardi_piquet_sports",
+    "name": "Minardi Piquet Sports",
+    "series": "f2",
+    "seasons": [
+        "2007"
+    ],
+    "career": {
+        "entries": 42,
+        "starts": 42,
+        "points": 22,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 2,
+            "sprint": 2
+        },
+        "poles": 0,
+        "fastestLaps": 2,
+        "dnfs": 13,
+        "bestFinish": 2,
+        "avgFinish": 11.45,
+        "titles": 0,
+        "bestChampionship": 11,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2007": {
+            "entries": 42,
+            "starts": 42,
+            "points": 22,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 13,
+            "bestFinish": 2,
+            "avgFinish": 11.45,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "alexandre_negrao",
+        "rodriguez"
+    ]
+}

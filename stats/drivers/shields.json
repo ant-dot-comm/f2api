@@ -22,9 +22,12 @@
         "fastestLaps": 2,
         "dnfs": 10,
         "bestFinish": 5,
-        "avgFinish": 16.87,
+        "avgFinish": 16.65,
         "titles": 0,
-        "bestChampionship": 22
+        "bestChampionship": 22,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2024": {
@@ -41,9 +44,11 @@
             "fastestLaps": 0,
             "dnfs": 0,
             "bestFinish": 11,
-            "avgFinish": 16.5,
+            "avgFinish": 16.25,
             "championshipPosition": 30,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2025": {
             "entries": 27,
@@ -59,9 +64,11 @@
             "fastestLaps": 0,
             "dnfs": 6,
             "bestFinish": 11,
-            "avgFinish": 16.95,
+            "avgFinish": 16.52,
             "championshipPosition": 24,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2026": {
             "entries": 25,
@@ -79,7 +86,9 @@
             "bestFinish": 5,
             "avgFinish": 16.86,
             "championshipPosition": 22,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "results": [
@@ -114,8 +123,8 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "aix",
-            "grid": "21",
-            "position": "19",
+            "grid": "22",
+            "position": "18",
             "status": "Finished",
             "points": "0"
         },
@@ -126,7 +135,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "aix",
-            "grid": "20",
+            "grid": "21",
             "position": "18",
             "status": "Finished",
             "points": "0"
@@ -138,7 +147,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "aix",
-            "grid": "18",
+            "grid": "17",
             "position": "17",
             "status": "Finished",
             "points": "0"
@@ -174,7 +183,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "aix",
-            "grid": "22",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -186,7 +195,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "aix",
-            "grid": "22",
+            "grid": "21",
             "position": "19",
             "status": "Finished",
             "points": "0"
@@ -223,8 +232,8 @@
             "type": "sprint",
             "constructorId": "aix",
             "grid": "",
-            "position": "22",
-            "status": "Finished",
+            "position": "NC",
+            "status": "DNF",
             "points": "0"
         },
         {
@@ -234,9 +243,9 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "aix",
-            "grid": "",
-            "position": "NC",
-            "status": "DNF",
+            "grid": "19",
+            "position": "13",
+            "status": "Finished",
             "points": "0"
         },
         {
@@ -270,7 +279,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "aix",
-            "grid": "",
+            "grid": "22",
             "position": "12",
             "status": "Finished",
             "points": "0"
@@ -282,7 +291,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "aix",
-            "grid": "",
+            "grid": "22",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -366,7 +375,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "aix",
-            "grid": "15",
+            "grid": "19",
             "position": "15",
             "status": "Finished",
             "points": "0"
@@ -378,7 +387,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "aix",
-            "grid": "15",
+            "grid": "19",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -390,7 +399,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "aix",
-            "grid": "22",
+            "grid": "20",
             "position": "14",
             "status": "Finished",
             "points": "0"
@@ -402,7 +411,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "aix",
-            "grid": "22",
+            "grid": "21",
             "position": "18",
             "status": "Finished",
             "points": "0"
@@ -414,7 +423,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "aix",
-            "grid": "19",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"

@@ -1,0 +1,246 @@
+{
+    "driverId": "panciatici",
+    "name": "Nelson Panciatici",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2009"
+    ],
+    "career": {
+        "entries": 16,
+        "starts": 16,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 5,
+        "bestFinish": 11,
+        "avgFinish": 15.27,
+        "titles": 0,
+        "bestChampionship": null,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2009": {
+            "entries": 16,
+            "starts": 16,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 5,
+            "bestFinish": 11,
+            "avgFinish": 15.27,
+            "championshipPosition": null,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2009",
+            "round": "1",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "durango",
+            "grid": "12",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "1",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "durango",
+            "grid": "24",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "durango",
+            "grid": "25",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "durango",
+            "grid": "25",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "3",
+            "raceName": "Turkish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "durango",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "3",
+            "raceName": "Turkish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "durango",
+            "grid": "22",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "durango",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "durango",
+            "grid": "21",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "5",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "durango",
+            "grid": "18",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "5",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "durango",
+            "grid": "24",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "6",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "durango",
+            "grid": "14",
+            "position": "20",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "6",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "durango",
+            "grid": "22",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "7",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "durango",
+            "grid": "23",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "7",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "durango",
+            "grid": "23",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "durango",
+            "grid": "11",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "durango",
+            "grid": "23",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

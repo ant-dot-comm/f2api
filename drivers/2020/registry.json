@@ -1,0 +1,589 @@
+{
+    "season": "2020",
+    "series": "f2",
+    "championship": "FIA Formula 2 Championship",
+    "Drivers": {
+        "aitken": {
+            "driverId": "aitken",
+            "name": "Jack Aitken",
+            "entries": [
+                {
+                    "number": "9",
+                    "constructorId": "adrian_campos_motorsport",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11"
+                    ]
+                }
+            ]
+        },
+        "alesi": {
+            "driverId": "alesi",
+            "name": "Giuliano Alesi",
+            "entries": [
+                {
+                    "number": "17",
+                    "constructorId": "hwa_team",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ]
+                },
+                {
+                    "number": "14",
+                    "constructorId": "mp",
+                    "rounds": [
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "armstrong": {
+            "driverId": "armstrong",
+            "name": "Marcus Armstrong",
+            "entries": [
+                {
+                    "number": "5",
+                    "constructorId": "art",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "boschung": {
+            "driverId": "boschung",
+            "name": "Ralph Boschung",
+            "entries": [
+                {
+                    "number": "9",
+                    "constructorId": "adrian_campos_motorsport",
+                    "rounds": [
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "daruvala": {
+            "driverId": "daruvala",
+            "name": "Jehan Daruvala",
+            "entries": [
+                {
+                    "number": "8",
+                    "constructorId": "carlin",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "deletraz": {
+            "driverId": "deletraz",
+            "name": "Louis Deletraz",
+            "entries": [
+                {
+                    "number": "11",
+                    "constructorId": "charouz_racing",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "drugovich": {
+            "driverId": "drugovich",
+            "name": "Felipe Drugovich",
+            "entries": [
+                {
+                    "number": "15",
+                    "constructorId": "mp",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "gelael": {
+            "driverId": "gelael",
+            "name": "Sean Gelael",
+            "entries": [
+                {
+                    "number": "1",
+                    "constructorId": "dams",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "ghiotto": {
+            "driverId": "ghiotto",
+            "name": "Luca Ghiotto",
+            "entries": [
+                {
+                    "number": "25",
+                    "constructorId": "hitech_racing",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "guanyu": {
+            "driverId": "guanyu",
+            "name": "Zhou Guanyu",
+            "entries": [
+                {
+                    "number": "3",
+                    "constructorId": "virtuosi",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "hughes": {
+            "driverId": "hughes",
+            "name": "Jake Hughes",
+            "entries": [
+                {
+                    "number": "17",
+                    "constructorId": "hwa_team",
+                    "rounds": [
+                        "10"
+                    ]
+                }
+            ]
+        },
+        "ilott": {
+            "driverId": "ilott",
+            "name": "Callum Ilott",
+            "entries": [
+                {
+                    "number": "4",
+                    "constructorId": "virtuosi",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "lundgaard": {
+            "driverId": "lundgaard",
+            "name": "Christian Lundgaard",
+            "entries": [
+                {
+                    "number": "6",
+                    "constructorId": "art",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "marino_sato": {
+            "driverId": "marino_sato",
+            "name": "Marino Sato",
+            "entries": [
+                {
+                    "number": "23",
+                    "constructorId": "trident",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "markelov": {
+            "driverId": "markelov",
+            "name": "Artem Markelov",
+            "entries": [
+                {
+                    "number": "16",
+                    "constructorId": "hwa_team",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "matsushita": {
+            "driverId": "matsushita",
+            "name": "Nobuharu Matsushita",
+            "entries": [
+                {
+                    "number": "14",
+                    "constructorId": "mp",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ]
+                }
+            ]
+        },
+        "mazepin": {
+            "driverId": "mazepin",
+            "name": "Nikita Mazepin",
+            "entries": [
+                {
+                    "number": "24",
+                    "constructorId": "hitech_racing",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "nissany": {
+            "driverId": "nissany",
+            "name": "Roy Nissany",
+            "entries": [
+                {
+                    "number": "22",
+                    "constructorId": "trident",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "pedro_piquet": {
+            "driverId": "pedro_piquet",
+            "name": "Pedro Piquet",
+            "entries": [
+                {
+                    "number": "12",
+                    "constructorId": "charouz_racing",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "pourchaire": {
+            "driverId": "pourchaire",
+            "name": "Theo Pourchaire",
+            "entries": [
+                {
+                    "number": "17",
+                    "constructorId": "hwa_team",
+                    "rounds": [
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "samaia": {
+            "driverId": "samaia",
+            "name": "Guilherme Samaia",
+            "entries": [
+                {
+                    "number": "10",
+                    "constructorId": "adrian_campos_motorsport",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "schumacher": {
+            "driverId": "schumacher",
+            "name": "Mick Schumacher",
+            "entries": [
+                {
+                    "number": "20",
+                    "constructorId": "prema",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "shwartzman": {
+            "driverId": "shwartzman",
+            "name": "Robert Shwartzman",
+            "entries": [
+                {
+                    "number": "21",
+                    "constructorId": "prema",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "ticktum": {
+            "driverId": "ticktum",
+            "name": "Dan Ticktum",
+            "entries": [
+                {
+                    "number": "2",
+                    "constructorId": "dams",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "tsunoda": {
+            "driverId": "tsunoda",
+            "name": "Yuki Tsunoda",
+            "entries": [
+                {
+                    "number": "7",
+                    "constructorId": "carlin",
+                    "rounds": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ]
+        },
+        "vips": {
+            "driverId": "vips",
+            "name": "Juri Vips",
+            "entries": [
+                {
+                    "number": "1",
+                    "constructorId": "dams",
+                    "rounds": [
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                }
+            ]
+        }
+    }
+}

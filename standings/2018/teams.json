@@ -1,0 +1,71 @@
+{
+    "season": "2018",
+    "series": "f2",
+    "championship": "FIA Formula 2 Championship",
+    "source": "motorsportmagazine.com",
+    "lastRound": 12,
+    "scheduledRounds": 12,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "constructorId": "carlin",
+            "team": "Carlin",
+            "points": "383"
+        },
+        {
+            "position": "2",
+            "constructorId": "art",
+            "team": "ART Grand Prix",
+            "points": "350"
+        },
+        {
+            "position": "3",
+            "constructorId": "dams",
+            "team": "DAMS",
+            "points": "303"
+        },
+        {
+            "position": "4",
+            "constructorId": "russian_time",
+            "team": "Russian Time",
+            "points": "234"
+        },
+        {
+            "position": "5",
+            "constructorId": "prema",
+            "team": "Pertamina Prema Theodore Racing",
+            "points": "231"
+        },
+        {
+            "position": "6",
+            "constructorId": "charouz_racing",
+            "team": "Charouz Racing System",
+            "points": "215"
+        },
+        {
+            "position": "7",
+            "constructorId": "adrian_campos_motorsport",
+            "team": "Campos Vexatec Racing",
+            "points": "132"
+        },
+        {
+            "position": "8",
+            "constructorId": "mp",
+            "team": "MP Motorsport",
+            "points": "61"
+        },
+        {
+            "position": "9",
+            "constructorId": "arden",
+            "team": "BWT Arden",
+            "points": "58"
+        },
+        {
+            "position": "10",
+            "constructorId": "trident",
+            "team": "Trident Racing",
+            "points": "37"
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 {
     "driverId": "esterson",
-    "name": "M. Esterson",
+    "name": "Max Esterson",
     "code": "",
     "series": "f2",
     "seasons": [
@@ -19,11 +19,14 @@
         },
         "poles": 0,
         "fastestLaps": 0,
-        "dnfs": 3,
+        "dnfs": 4,
         "bestFinish": 10,
-        "avgFinish": 16.64,
+        "avgFinish": 16.38,
         "titles": 0,
-        "bestChampionship": 23
+        "bestChampionship": 23,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2024": {
@@ -40,9 +43,11 @@
             "fastestLaps": 0,
             "dnfs": 0,
             "bestFinish": 14,
-            "avgFinish": 16.0,
+            "avgFinish": 15.75,
             "championshipPosition": 31,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2025": {
             "entries": 21,
@@ -56,11 +61,13 @@
             },
             "poles": 0,
             "fastestLaps": 0,
-            "dnfs": 3,
+            "dnfs": 4,
             "bestFinish": 10,
-            "avgFinish": 16.78,
+            "avgFinish": 16.53,
             "championshipPosition": 23,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
@@ -95,8 +102,8 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "17",
-            "position": "15",
+            "grid": "18",
+            "position": "14",
             "status": "Finished",
             "points": "0"
         },
@@ -107,7 +114,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "17",
+            "grid": "18",
             "position": "17",
             "status": "Finished",
             "points": "0"
@@ -119,7 +126,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "8",
+            "grid": "22",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -131,7 +138,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "17",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -203,8 +210,8 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "",
-            "position": "21",
+            "grid": "17",
+            "position": "13",
             "status": "Finished",
             "points": "0"
         },
@@ -215,9 +222,9 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "",
-            "position": "13",
-            "status": "Finished",
+            "grid": "17",
+            "position": "NC",
+            "status": "DNF",
             "points": "0"
         },
         {
@@ -227,7 +234,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "16",
+            "grid": "15",
             "position": "19",
             "status": "Finished",
             "points": "0"
@@ -251,7 +258,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "",
+            "grid": "19",
             "position": "10",
             "status": "Finished",
             "points": "0"
@@ -263,7 +270,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "",
+            "grid": "19",
             "position": "15",
             "status": "Finished",
             "points": "0"
@@ -323,7 +330,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "21",
+            "grid": "20",
             "position": "19",
             "status": "Finished",
             "points": "0"
@@ -335,7 +342,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "21",
+            "grid": "20",
             "position": "19",
             "status": "Finished",
             "points": "0"
@@ -347,7 +354,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "19",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -359,7 +366,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "19",
+            "grid": "22",
             "position": "15",
             "status": "Finished",
             "points": "0"

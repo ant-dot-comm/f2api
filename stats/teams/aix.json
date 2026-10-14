@@ -1,6 +1,6 @@
 {
     "constructorId": "aix",
-    "name": "AIX Racing",
+    "name": "PHM AIX Racing",
     "series": "f2",
     "seasons": [
         "2024",
@@ -23,11 +23,14 @@
         },
         "poles": 0,
         "fastestLaps": 3,
-        "dnfs": 25,
+        "dnfs": 27,
         "bestFinish": 1,
-        "avgFinish": 13.37,
+        "avgFinish": 13.31,
         "titles": 0,
-        "bestChampionship": 9
+        "bestChampionship": 9,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2024": {
@@ -48,9 +51,11 @@
             "fastestLaps": 0,
             "dnfs": 9,
             "bestFinish": 1,
-            "avgFinish": 12.32,
-            "championshipPosition": 9,
-            "complete": true
+            "avgFinish": 12.3,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2025": {
             "entries": 54,
@@ -67,11 +72,13 @@
             },
             "poles": 0,
             "fastestLaps": 1,
-            "dnfs": 8,
+            "dnfs": 10,
             "bestFinish": 1,
-            "avgFinish": 12.48,
+            "avgFinish": 12.32,
             "championshipPosition": 9,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2026": {
             "entries": 50,
@@ -90,7 +97,9 @@
             "bestFinish": 2,
             "avgFinish": 15.48,
             "championshipPosition": 11,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "drivers": [

@@ -20,13 +20,16 @@
             "feature": 1,
             "sprint": 1
         },
-        "poles": 1,
+        "poles": 0,
         "fastestLaps": 3,
         "dnfs": 11,
         "bestFinish": 3,
-        "avgFinish": 11.43,
+        "avgFinish": 11.39,
         "titles": 0,
-        "bestChampionship": 15
+        "bestChampionship": 15,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2024": {
@@ -43,9 +46,11 @@
             "fastestLaps": 0,
             "dnfs": 3,
             "bestFinish": 4,
-            "avgFinish": 12.0,
+            "avgFinish": 11.8,
             "championshipPosition": 23,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2025": {
             "entries": 27,
@@ -57,13 +62,15 @@
             "podiums": {
                 "total": 0
             },
-            "poles": 1,
+            "poles": 0,
             "fastestLaps": 2,
             "dnfs": 2,
             "bestFinish": 4,
-            "avgFinish": 11.08,
+            "avgFinish": 11.04,
             "championshipPosition": 15,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2026": {
             "entries": 25,
@@ -83,7 +90,9 @@
             "bestFinish": 3,
             "avgFinish": 11.74,
             "championshipPosition": 15,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "results": [
@@ -94,7 +103,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "mp",
-            "grid": "11",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -142,7 +151,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "mp",
-            "grid": "3",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -166,8 +175,8 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "mp",
-            "grid": "11",
-            "position": "10",
+            "grid": "12",
+            "position": "9",
             "status": "Finished",
             "points": "0"
         },
@@ -178,7 +187,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "mp",
-            "grid": "10",
+            "grid": "11",
             "position": "9",
             "status": "Finished",
             "points": "2"
@@ -190,7 +199,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "mp",
-            "grid": "13",
+            "grid": "14",
             "position": "11",
             "status": "Finished",
             "points": "0"
@@ -205,7 +214,7 @@
             "grid": "15",
             "position": "4",
             "status": "Finished",
-            "points": "5"
+            "points": "6"
         },
         {
             "season": "2025",
@@ -238,7 +247,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "mp",
-            "grid": "11",
+            "grid": "10",
             "position": "14",
             "status": "Finished",
             "points": "0"
@@ -274,8 +283,8 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "mp",
-            "grid": "",
-            "position": "11",
+            "grid": "13",
+            "position": "12",
             "status": "Finished",
             "points": "0"
         },
@@ -286,8 +295,8 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "mp",
-            "grid": "",
-            "position": "12",
+            "grid": "13",
+            "position": "10",
             "status": "Finished",
             "points": "0"
         },
@@ -298,7 +307,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "mp",
-            "grid": "13",
+            "grid": "12",
             "position": "18",
             "status": "Finished",
             "points": "0"
@@ -322,7 +331,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "mp",
-            "grid": "",
+            "grid": "16",
             "position": "11",
             "status": "Finished",
             "points": "0"
@@ -334,7 +343,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "mp",
-            "grid": "",
+            "grid": "16",
             "position": "17",
             "status": "Finished",
             "points": "0"
@@ -442,7 +451,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "mp",
-            "grid": "3",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -454,7 +463,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "mp",
-            "grid": "8",
+            "grid": "16",
             "position": "12",
             "status": "Finished",
             "points": "0"
@@ -466,7 +475,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "mp",
-            "grid": "10",
+            "grid": "13",
             "position": "14",
             "status": "Finished",
             "points": "0"
@@ -478,7 +487,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "mp",
-            "grid": "1",
+            "grid": "4",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -490,7 +499,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "mp",
-            "grid": "5",
+            "grid": "4",
             "position": "5",
             "status": "Finished",
             "points": "4"

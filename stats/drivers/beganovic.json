@@ -18,17 +18,20 @@
             "feature": 1
         },
         "podiums": {
-            "total": 11,
-            "sprint": 5,
+            "total": 12,
+            "sprint": 6,
             "feature": 6
         },
         "poles": 3,
         "fastestLaps": 4,
-        "dnfs": 4,
+        "dnfs": 5,
         "bestFinish": 1,
-        "avgFinish": 7.96,
+        "avgFinish": 8.0,
         "titles": 0,
-        "bestChampionship": 5
+        "bestChampionship": 5,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2024": {
@@ -39,15 +42,18 @@
                 "total": 0
             },
             "podiums": {
-                "total": 0
+                "total": 1,
+                "sprint": 1
             },
             "poles": 0,
             "fastestLaps": 0,
             "dnfs": 0,
-            "bestFinish": 4,
-            "avgFinish": 6.5,
+            "bestFinish": 3,
+            "avgFinish": 6.25,
             "championshipPosition": 20,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2025": {
             "entries": 27,
@@ -64,11 +70,13 @@
             },
             "poles": 1,
             "fastestLaps": 4,
-            "dnfs": 1,
+            "dnfs": 2,
             "bestFinish": 1,
-            "avgFinish": 8.77,
+            "avgFinish": 8.92,
             "championshipPosition": 7,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2026": {
             "entries": 25,
@@ -90,7 +98,9 @@
             "bestFinish": 1,
             "avgFinish": 7.27,
             "championshipPosition": 5,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "results": [
@@ -126,9 +136,9 @@
             "type": "sprint",
             "constructorId": "dams",
             "grid": "5",
-            "position": "4",
+            "position": "3",
             "status": "Finished",
-            "points": "5"
+            "points": "6"
         },
         {
             "season": "2024",
@@ -148,8 +158,8 @@
             "raceName": "Australian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
-            "grid": "7",
+            "constructorId": "hitech_racing",
+            "grid": "4",
             "position": "14",
             "status": "Finished",
             "points": "0"
@@ -160,7 +170,7 @@
             "raceName": "Bahrain Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "2",
             "position": "3",
             "status": "Finished",
@@ -172,7 +182,7 @@
             "raceName": "Bahrain Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "9",
             "position": "7",
             "status": "Finished",
@@ -184,7 +194,7 @@
             "raceName": "Saudi Arabian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "13",
             "position": "15",
             "status": "Finished",
@@ -196,8 +206,8 @@
             "raceName": "Saudi Arabian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
-            "grid": "13",
+            "constructorId": "hitech_racing",
+            "grid": "12",
             "position": "13",
             "status": "Finished",
             "points": "0"
@@ -208,7 +218,7 @@
             "raceName": "Emilia Romagna Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "10",
             "position": "12",
             "status": "Finished",
@@ -220,11 +230,11 @@
             "raceName": "Emilia Romagna Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "1",
             "position": "3",
             "status": "Finished",
-            "points": "15"
+            "points": "17"
         },
         {
             "season": "2025",
@@ -232,11 +242,11 @@
             "raceName": "Monaco Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
-            "grid": "2",
-            "position": "5",
+            "constructorId": "hitech_racing",
+            "grid": "18",
+            "position": "15",
             "status": "Finished",
-            "points": "4"
+            "points": "0"
         },
         {
             "season": "2025",
@@ -244,10 +254,10 @@
             "raceName": "Monaco Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
-            "grid": "9",
-            "position": "15",
-            "status": "Finished",
+            "constructorId": "hitech_racing",
+            "grid": "18",
+            "position": "NC",
+            "status": "DNF",
             "points": "0"
         },
         {
@@ -256,8 +266,8 @@
             "raceName": "Spanish Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
-            "grid": "12",
+            "constructorId": "hitech_racing",
+            "grid": "11",
             "position": "15",
             "status": "Finished",
             "points": "0"
@@ -268,7 +278,7 @@
             "raceName": "Spanish Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "12",
             "position": "15",
             "status": "Finished",
@@ -280,7 +290,7 @@
             "raceName": "Austrian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "",
             "position": "NC",
             "status": "DNF",
@@ -292,8 +302,8 @@
             "raceName": "Austrian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
-            "grid": "",
+            "constructorId": "hitech_racing",
+            "grid": "21",
             "position": "9",
             "status": "Finished",
             "points": "2"
@@ -304,7 +314,7 @@
             "raceName": "British Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "3",
             "position": "18",
             "status": "Finished",
@@ -316,7 +326,7 @@
             "raceName": "British Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "8",
             "position": "4",
             "status": "Finished",
@@ -328,7 +338,7 @@
             "raceName": "Belgian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "13",
             "position": "16",
             "status": "Finished",
@@ -340,7 +350,7 @@
             "raceName": "Belgian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "13",
             "position": "7",
             "status": "Finished",
@@ -352,7 +362,7 @@
             "raceName": "Hungarian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "14",
             "position": "8",
             "status": "Finished",
@@ -364,7 +374,7 @@
             "raceName": "Hungarian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "14",
             "position": "7",
             "status": "Finished",
@@ -376,8 +386,8 @@
             "raceName": "Italian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
-            "grid": "4",
+            "constructorId": "hitech_racing",
+            "grid": "1",
             "position": "6",
             "status": "Finished",
             "points": "3"
@@ -388,11 +398,11 @@
             "raceName": "Italian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
-            "grid": "7",
+            "constructorId": "hitech_racing",
+            "grid": "9",
             "position": "6",
             "status": "Finished",
-            "points": "8"
+            "points": "9"
         },
         {
             "season": "2025",
@@ -400,8 +410,8 @@
             "raceName": "Azerbaijan Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
-            "grid": "8",
+            "constructorId": "hitech_racing",
+            "grid": "2",
             "position": "1",
             "status": "Finished",
             "points": "11"
@@ -412,8 +422,8 @@
             "raceName": "Azerbaijan Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
-            "grid": "3",
+            "constructorId": "hitech_racing",
+            "grid": "9",
             "position": "3",
             "status": "Finished",
             "points": "15"
@@ -424,8 +434,8 @@
             "raceName": "Qatar Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
-            "grid": "11",
+            "constructorId": "hitech_racing",
+            "grid": "10",
             "position": "9",
             "status": "Finished",
             "points": "0"
@@ -436,7 +446,7 @@
             "raceName": "Qatar Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "11",
             "position": "9",
             "status": "Finished",
@@ -448,7 +458,7 @@
             "raceName": "Abu Dhabi Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "7",
             "position": "4",
             "status": "Finished",
@@ -460,7 +470,7 @@
             "raceName": "Abu Dhabi Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "hitech",
+            "constructorId": "hitech_racing",
             "grid": "4",
             "position": "4",
             "status": "Finished",

@@ -1,0 +1,182 @@
+{
+    "constructorId": "dave_price_racing",
+    "name": "Dave Price Racing",
+    "series": "f2",
+    "seasons": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "career": {
+        "entries": 250,
+        "starts": 250,
+        "points": 87,
+        "wins": {
+            "total": 3,
+            "sprint": 3
+        },
+        "podiums": {
+            "total": 9,
+            "sprint": 8,
+            "feature": 1
+        },
+        "poles": 0,
+        "fastestLaps": 2,
+        "dnfs": 97,
+        "bestFinish": 1,
+        "avgFinish": 12.32,
+        "titles": 0,
+        "bestChampionship": 8,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2005": {
+            "entries": 46,
+            "starts": 46,
+            "points": 22,
+            "wins": {
+                "total": 2,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 21,
+            "bestFinish": 1,
+            "avgFinish": 11.08,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2006": {
+            "entries": 42,
+            "starts": 42,
+            "points": 18,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 15,
+            "bestFinish": 3,
+            "avgFinish": 11.96,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2007": {
+            "entries": 42,
+            "starts": 42,
+            "points": 15,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 21,
+            "bestFinish": 2,
+            "avgFinish": 11.43,
+            "championshipPosition": 12,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2008": {
+            "entries": 40,
+            "starts": 40,
+            "points": 4,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 12,
+            "bestFinish": 4,
+            "avgFinish": 13.57,
+            "championshipPosition": 13,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2009": {
+            "entries": 40,
+            "starts": 40,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 18,
+            "bestFinish": 8,
+            "avgFinish": 14.59,
+            "championshipPosition": 14,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2010": {
+            "entries": 40,
+            "starts": 40,
+            "points": 28,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 3,
+                "feature": 1,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 10,
+            "bestFinish": 1,
+            "avgFinish": 11.47,
+            "championshipPosition": 8,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "bakkerud",
+        "cecotto",
+        "conway",
+        "crestani",
+        "herck",
+        "mondini",
+        "nunes",
+        "perera",
+        "petrov",
+        "piccione",
+        "pla",
+        "ricci",
+        "sharp",
+        "soucek"
+    ]
+}

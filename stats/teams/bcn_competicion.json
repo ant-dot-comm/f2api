@@ -1,0 +1,133 @@
+{
+    "constructorId": "bcn_competicion",
+    "name": "BCN Competicion",
+    "series": "f2",
+    "seasons": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "career": {
+        "entries": 170,
+        "starts": 170,
+        "points": 66,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 5,
+            "sprint": 4,
+            "feature": 1
+        },
+        "poles": 0,
+        "fastestLaps": 2,
+        "dnfs": 61,
+        "bestFinish": 2,
+        "avgFinish": 11.8,
+        "titles": 0,
+        "bestChampionship": 8,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2005": {
+            "entries": 46,
+            "starts": 46,
+            "points": 35,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 4,
+                "sprint": 3,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 16,
+            "bestFinish": 2,
+            "avgFinish": 10.03,
+            "championshipPosition": 8,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2006": {
+            "entries": 42,
+            "starts": 42,
+            "points": 22,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 17,
+            "bestFinish": 3,
+            "avgFinish": 10.72,
+            "championshipPosition": 9,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2007": {
+            "entries": 42,
+            "starts": 42,
+            "points": 4,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 12,
+            "bestFinish": 4,
+            "avgFinish": 12.77,
+            "championshipPosition": 13,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2008": {
+            "entries": 40,
+            "starts": 40,
+            "points": 5,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 16,
+            "bestFinish": 4,
+            "avgFinish": 13.92,
+            "championshipPosition": 12,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "filippi",
+        "glock",
+        "iaconelli",
+        "karjalainen",
+        "niemela",
+        "nocera",
+        "pavlovic",
+        "tung",
+        "valles",
+        "viso",
+        "yamamoto",
+        "yoshimoto"
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "driverId": "niemela",
+    "name": "Markus Niemela",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2007"
+    ],
+    "career": {
+        "entries": 8,
+        "starts": 8,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 4,
+        "bestFinish": 9,
+        "avgFinish": 12.5,
+        "titles": 0,
+        "bestChampionship": null,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2007": {
+            "entries": 8,
+            "starts": 8,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 4,
+            "bestFinish": 9,
+            "avgFinish": 12.5,
+            "championshipPosition": null,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2007",
+            "round": "7",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "bcn_competicion",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2007",
+            "round": "7",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "bcn_competicion",
+            "grid": "25",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2007",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "bcn_competicion",
+            "grid": "9",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2007",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "bcn_competicion",
+            "grid": "25",
+            "position": "9",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2007",
+            "round": "10",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "bcn_competicion",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2007",
+            "round": "10",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "bcn_competicion",
+            "grid": "24",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2007",
+            "round": "11",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "bcn_competicion",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2007",
+            "round": "11",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "bcn_competicion",
+            "grid": "24",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

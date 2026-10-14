@@ -1,6 +1,6 @@
 {
     "driverId": "sargeant",
-    "name": "L. Sargeant",
+    "name": "Logan Sargeant",
     "code": "",
     "series": "f2",
     "seasons": [
@@ -26,7 +26,10 @@
         "bestFinish": 1,
         "avgFinish": 6.83,
         "titles": 0,
-        "bestChampionship": 4
+        "bestChampionship": 4,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2021": {
@@ -45,7 +48,9 @@
             "bestFinish": 14,
             "avgFinish": 15.0,
             "championshipPosition": 29,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2022": {
             "entries": 28,
@@ -66,7 +71,9 @@
             "bestFinish": 1,
             "avgFinish": 6.09,
             "championshipPosition": 4,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
@@ -76,20 +83,8 @@
             "raceName": "Saudi Arabian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "hwa",
+            "constructorId": "hwa_team",
             "grid": "21",
-            "position": "NC",
-            "status": "DNF",
-            "points": "0"
-        },
-        {
-            "season": "2021",
-            "round": "7",
-            "raceName": "Saudi Arabian Grand Prix",
-            "race": "race2",
-            "type": "sprint",
-            "constructorId": "hwa",
-            "grid": "",
             "position": "16",
             "status": "Finished",
             "points": "0"
@@ -98,9 +93,21 @@
             "season": "2021",
             "round": "7",
             "raceName": "Saudi Arabian Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hwa_team",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "7",
+            "raceName": "Saudi Arabian Grand Prix",
             "race": "race3",
             "type": "feature",
-            "constructorId": "hwa",
+            "constructorId": "hwa_team",
             "grid": "21",
             "position": "14",
             "status": "Finished",
@@ -137,7 +144,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "carlin",
-            "grid": "16",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -149,7 +156,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "carlin",
-            "grid": "16",
+            "grid": "18",
             "position": "12",
             "status": "Finished",
             "points": "0"
@@ -185,7 +192,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "carlin",
-            "grid": "8",
+            "grid": "6",
             "position": "3",
             "status": "Finished",
             "points": "6"
@@ -197,7 +204,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "carlin",
-            "grid": "3",
+            "grid": "5",
             "position": "4",
             "status": "Finished",
             "points": "12"
@@ -209,7 +216,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "carlin",
-            "grid": "",
+            "grid": "13",
             "position": "10",
             "status": "Finished",
             "points": "0"
@@ -221,7 +228,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "carlin",
-            "grid": "",
+            "grid": "13",
             "position": "9",
             "status": "Finished",
             "points": "2"
@@ -272,7 +279,7 @@
             "grid": "1",
             "position": "1",
             "status": "Finished",
-            "points": "25"
+            "points": "27"
         },
         {
             "season": "2022",
@@ -281,7 +288,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "carlin",
-            "grid": "",
+            "grid": "8",
             "position": "7",
             "status": "Finished",
             "points": "2"
@@ -293,7 +300,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "carlin",
-            "grid": "",
+            "grid": "3",
             "position": "1",
             "status": "Finished",
             "points": "25"
@@ -320,7 +327,7 @@
             "grid": "1",
             "position": "NC",
             "status": "DNF",
-            "points": "0"
+            "points": "2"
         },
         {
             "season": "2022",
@@ -329,7 +336,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "carlin",
-            "grid": "6",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -353,7 +360,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "carlin",
-            "grid": "8",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"

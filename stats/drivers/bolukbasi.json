@@ -1,14 +1,14 @@
 {
     "driverId": "bolukbasi",
-    "name": "C. Bolukbasi",
+    "name": "Cem Bolukbasi",
     "code": "",
     "series": "f2",
     "seasons": [
         "2022"
     ],
     "career": {
-        "entries": 16,
-        "starts": 16,
+        "entries": 18,
+        "starts": 18,
         "points": 0,
         "wins": {
             "total": 0
@@ -18,16 +18,19 @@
         },
         "poles": 0,
         "fastestLaps": 0,
-        "dnfs": 4,
+        "dnfs": 6,
         "bestFinish": 11,
-        "avgFinish": 15.55,
+        "avgFinish": 15.67,
         "titles": 0,
-        "bestChampionship": 24
+        "bestChampionship": 24,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2022": {
-            "entries": 16,
-            "starts": 16,
+            "entries": 18,
+            "starts": 18,
             "points": 0,
             "wins": {
                 "total": 0
@@ -37,11 +40,13 @@
             },
             "poles": 0,
             "fastestLaps": 0,
-            "dnfs": 4,
+            "dnfs": 6,
             "bestFinish": 11,
-            "avgFinish": 15.55,
+            "avgFinish": 15.67,
             "championshipPosition": 24,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
@@ -51,7 +56,7 @@
             "raceName": "Bahrain Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "charouz",
+            "constructorId": "charouz_racing",
             "grid": "20",
             "position": "14",
             "status": "Finished",
@@ -63,10 +68,34 @@
             "raceName": "Bahrain Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "charouz",
+            "constructorId": "charouz_racing",
             "grid": "20",
-            "position": "15",
+            "position": "14",
             "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "2",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "2",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
             "points": "0"
         },
         {
@@ -75,7 +104,7 @@
             "raceName": "Spanish Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "charouz",
+            "constructorId": "charouz_racing",
             "grid": "20",
             "position": "18",
             "status": "Finished",
@@ -87,8 +116,8 @@
             "raceName": "Spanish Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "charouz",
-            "grid": "20",
+            "constructorId": "charouz_racing",
+            "grid": "21",
             "position": "20",
             "status": "Finished",
             "points": "0"
@@ -99,8 +128,8 @@
             "raceName": "Monaco Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "charouz",
-            "grid": "11",
+            "constructorId": "charouz_racing",
+            "grid": "19",
             "position": "12",
             "status": "Finished",
             "points": "0"
@@ -111,8 +140,8 @@
             "raceName": "Monaco Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "charouz",
-            "grid": "11",
+            "constructorId": "charouz_racing",
+            "grid": "20",
             "position": "11",
             "status": "Finished",
             "points": "0"
@@ -123,10 +152,10 @@
             "raceName": "Azerbaijan Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "charouz",
+            "constructorId": "charouz_racing",
             "grid": "21",
-            "position": "NC",
-            "status": "DNF",
+            "position": "18",
+            "status": "Finished",
             "points": "0"
         },
         {
@@ -135,8 +164,8 @@
             "raceName": "Azerbaijan Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "charouz",
-            "grid": "21",
+            "constructorId": "charouz_racing",
+            "grid": "20",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -147,7 +176,7 @@
             "raceName": "British Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "charouz",
+            "constructorId": "charouz_racing",
             "grid": "20",
             "position": "19",
             "status": "Finished",
@@ -159,8 +188,8 @@
             "raceName": "British Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "charouz",
-            "grid": "20",
+            "constructorId": "charouz_racing",
+            "grid": "19",
             "position": "18",
             "status": "Finished",
             "points": "0"
@@ -171,10 +200,10 @@
             "raceName": "Austrian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "charouz",
+            "constructorId": "charouz_racing",
             "grid": "",
-            "position": "",
-            "status": "Finished",
+            "position": "NC",
+            "status": "DNF",
             "points": "0"
         },
         {
@@ -183,8 +212,8 @@
             "raceName": "Austrian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "charouz",
-            "grid": "",
+            "constructorId": "charouz_racing",
+            "grid": "13",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -195,8 +224,8 @@
             "raceName": "French Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "charouz",
-            "grid": "22",
+            "constructorId": "charouz_racing",
+            "grid": "21",
             "position": "15",
             "status": "Finished",
             "points": "0"
@@ -207,7 +236,7 @@
             "raceName": "French Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "charouz",
+            "constructorId": "charouz_racing",
             "grid": "22",
             "position": "NC",
             "status": "DNF",
@@ -219,7 +248,7 @@
             "raceName": "Hungarian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "charouz",
+            "constructorId": "charouz_racing",
             "grid": "16",
             "position": "16",
             "status": "Finished",
@@ -231,7 +260,7 @@
             "raceName": "Hungarian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "charouz",
+            "constructorId": "charouz_racing",
             "grid": "16",
             "position": "13",
             "status": "Finished",

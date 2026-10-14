@@ -1,0 +1,384 @@
+{
+    "driverId": "crestani",
+    "name": "Fabrizio Crestani",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2010",
+        "2012",
+        "2013"
+    ],
+    "career": {
+        "entries": 24,
+        "starts": 24,
+        "points": 1,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 2,
+        "dnfs": 5,
+        "bestFinish": 10,
+        "avgFinish": 16.11,
+        "titles": 0,
+        "bestChampionship": 24,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2010": {
+            "entries": 6,
+            "starts": 6,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 10,
+            "avgFinish": 13.0,
+            "championshipPosition": null,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2012": {
+            "entries": 14,
+            "starts": 14,
+            "points": 1,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 4,
+            "bestFinish": 10,
+            "avgFinish": 16.6,
+            "championshipPosition": 24,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2013": {
+            "entries": 4,
+            "starts": 4,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 0,
+            "bestFinish": 17,
+            "avgFinish": 18.75,
+            "championshipPosition": null,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2010",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "22",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "10",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "10",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "13",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "10",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "13",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "10",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "10",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "1",
+            "raceName": "Malaysian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "10",
+            "position": "21",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "1",
+            "raceName": "Malaysian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "11",
+            "position": "10",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2012",
+            "round": "2",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "14",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "2",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "20",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "3",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "26",
+            "position": "23",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "3",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "15",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "4",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "17",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "4",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "17",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "5",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "5",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "22",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "6",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "6",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "21",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "7",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "11",
+            "position": "22",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2012",
+            "round": "7",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "12",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2013",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "17",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2013",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "12",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2013",
+            "round": "6",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "19",
+            "position": "21",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2013",
+            "round": "6",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "15",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

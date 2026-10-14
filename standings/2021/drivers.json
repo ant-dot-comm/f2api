@@ -1,7 +1,8 @@
 {
     "season": "2021",
     "series": "f2",
-    "source": "FIA Driver/Team Championship PDF + f1pedia.com",
+    "championship": "FIA Formula 2 Championship",
+    "source": "motorsportmagazine.com",
     "lastRound": 8,
     "scheduledRounds": 8,
     "complete": true,
@@ -20,8 +21,8 @@
         },
         {
             "position": "3",
-            "driverId": "zhou",
-            "driver": "Guanyu Zhou",
+            "driverId": "guanyu",
+            "driver": "Zhou Guanyu",
             "points": "183"
         },
         {
@@ -33,13 +34,13 @@
         {
             "position": "5",
             "driverId": "pourchaire",
-            "driver": "Théo Pourchaire",
+            "driver": "Theo Pourchaire",
             "points": "140"
         },
         {
             "position": "6",
             "driverId": "vips",
-            "driver": "Jüri Vips",
+            "driver": "Juri Vips",
             "points": "120"
         },
         {
@@ -128,7 +129,7 @@
         },
         {
             "position": "21",
-            "driverId": "sato",
+            "driverId": "marino_sato",
             "driver": "Marino Sato",
             "points": "1"
         },
@@ -171,7 +172,7 @@
         {
             "position": "28",
             "driverId": "novalak",
-            "driver": "Clément Novalak",
+            "driver": "Clement Novalak",
             "points": "0"
         },
         {

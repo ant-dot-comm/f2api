@@ -1,6 +1,6 @@
 {
     "driverId": "barnard",
-    "name": "T. Barnard",
+    "name": "Taylor Barnard",
     "code": "",
     "series": "f2",
     "seasons": [
@@ -24,7 +24,10 @@
         "bestFinish": 1,
         "avgFinish": 12.35,
         "titles": 0,
-        "bestChampionship": 21
+        "bestChampionship": 21,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2024": {
@@ -45,7 +48,9 @@
             "bestFinish": 1,
             "avgFinish": 12.35,
             "championshipPosition": 21,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
@@ -56,7 +61,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "aix",
-            "grid": "2",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -80,7 +85,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "aix",
-            "grid": "16",
+            "grid": "17",
             "position": "13",
             "status": "Finished",
             "points": "0"
@@ -92,7 +97,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "aix",
-            "grid": "17",
+            "grid": "18",
             "position": "13",
             "status": "Finished",
             "points": "0"
@@ -128,7 +133,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "aix",
-            "grid": "12",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -212,7 +217,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "aix",
-            "grid": "",
+            "grid": "6",
             "position": "8",
             "status": "Finished",
             "points": "4"

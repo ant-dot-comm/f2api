@@ -1,0 +1,102 @@
+{
+    "driverId": "raimondo",
+    "name": "Gianmarco Raimondo",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2013"
+    ],
+    "career": {
+        "entries": 4,
+        "starts": 4,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 0,
+        "bestFinish": 15,
+        "avgFinish": 18.75,
+        "titles": 0,
+        "bestChampionship": null,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2013": {
+            "entries": 4,
+            "starts": 4,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 0,
+            "bestFinish": 15,
+            "avgFinish": 18.75,
+            "championshipPosition": null,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2013",
+            "round": "10",
+            "raceName": "Singapore Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "21",
+            "position": "22",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2013",
+            "round": "10",
+            "raceName": "Singapore Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "25",
+            "position": "21",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2013",
+            "round": "11",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "17",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2013",
+            "round": "11",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "26",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

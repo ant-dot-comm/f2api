@@ -1,6 +1,6 @@
 {
     "driverId": "lindblad",
-    "name": "A. Lindblad",
+    "name": "Arvid Lindblad",
     "code": "",
     "series": "f2",
     "seasons": [
@@ -22,11 +22,14 @@
         },
         "poles": 1,
         "fastestLaps": 2,
-        "dnfs": 2,
+        "dnfs": 3,
         "bestFinish": 1,
-        "avgFinish": 7.21,
+        "avgFinish": 7.12,
         "titles": 0,
-        "bestChampionship": 6
+        "bestChampionship": 6,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2025": {
@@ -45,11 +48,13 @@
             },
             "poles": 1,
             "fastestLaps": 2,
-            "dnfs": 2,
+            "dnfs": 3,
             "bestFinish": 1,
-            "avgFinish": 7.21,
+            "avgFinish": 7.12,
             "championshipPosition": 6,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
@@ -59,11 +64,11 @@
             "raceName": "Australian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
-            "grid": "17",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "10",
             "position": "10",
             "status": "Finished",
-            "points": "1"
+            "points": "0"
         },
         {
             "season": "2025",
@@ -71,7 +76,7 @@
             "raceName": "Bahrain Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "16",
             "position": "5",
             "status": "Finished",
@@ -83,7 +88,7 @@
             "raceName": "Bahrain Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "16",
             "position": "8",
             "status": "Finished",
@@ -95,7 +100,7 @@
             "raceName": "Saudi Arabian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "6",
             "position": "1",
             "status": "Finished",
@@ -107,7 +112,7 @@
             "raceName": "Saudi Arabian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "5",
             "position": "7",
             "status": "Finished",
@@ -119,7 +124,7 @@
             "raceName": "Emilia Romagna Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "5",
             "position": "2",
             "status": "Finished",
@@ -131,11 +136,11 @@
             "raceName": "Emilia Romagna Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "6",
             "position": "4",
             "status": "Finished",
-            "points": "12"
+            "points": "13"
         },
         {
             "season": "2025",
@@ -143,11 +148,11 @@
             "raceName": "Monaco Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
-            "grid": "8",
-            "position": "7",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "5",
+            "position": "8",
             "status": "Finished",
-            "points": "2"
+            "points": "1"
         },
         {
             "season": "2025",
@@ -155,11 +160,11 @@
             "raceName": "Monaco Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
-            "grid": "3",
-            "position": "8",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "6",
+            "position": "5",
             "status": "Finished",
-            "points": "4"
+            "points": "5"
         },
         {
             "season": "2025",
@@ -167,8 +172,8 @@
             "raceName": "Spanish Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
-            "grid": "10",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "9",
             "position": "8",
             "status": "Finished",
             "points": "1"
@@ -179,11 +184,11 @@
             "raceName": "Spanish Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "1",
             "position": "1",
             "status": "Finished",
-            "points": "25"
+            "points": "27"
         },
         {
             "season": "2025",
@@ -191,7 +196,7 @@
             "raceName": "Austrian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "",
             "position": "NC",
             "status": "DNF",
@@ -203,8 +208,8 @@
             "raceName": "Austrian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
-            "grid": "",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "15",
             "position": "12",
             "status": "Finished",
             "points": "0"
@@ -215,7 +220,7 @@
             "raceName": "British Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "11",
             "position": "9",
             "status": "Finished",
@@ -227,7 +232,7 @@
             "raceName": "British Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "11",
             "position": "8",
             "status": "Finished",
@@ -239,8 +244,8 @@
             "raceName": "Belgian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
-            "grid": "6",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "5",
             "position": "17",
             "status": "Finished",
             "points": "0"
@@ -251,10 +256,10 @@
             "raceName": "Belgian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "5",
             "position": "NC",
-            "status": "DSQ",
+            "status": "DNF",
             "points": "0"
         },
         {
@@ -263,7 +268,7 @@
             "raceName": "Hungarian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "3",
             "position": "10",
             "status": "Finished",
@@ -275,7 +280,7 @@
             "raceName": "Hungarian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "8",
             "position": "6",
             "status": "Finished",
@@ -287,11 +292,11 @@
             "raceName": "Italian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
-            "grid": "3",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "5",
             "position": "2",
             "status": "Finished",
-            "points": "8"
+            "points": "9"
         },
         {
             "season": "2025",
@@ -299,8 +304,8 @@
             "raceName": "Italian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
-            "grid": "8",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "6",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -311,8 +316,8 @@
             "raceName": "Azerbaijan Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
-            "grid": "17",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "21",
             "position": "10",
             "status": "Finished",
             "points": "0"
@@ -323,8 +328,8 @@
             "raceName": "Azerbaijan Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
-            "grid": "17",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "14",
             "position": "6",
             "status": "Finished",
             "points": "8"
@@ -335,7 +340,7 @@
             "raceName": "Qatar Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "17",
             "position": "18",
             "status": "Finished",
@@ -347,7 +352,7 @@
             "raceName": "Qatar Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "17",
             "position": "4",
             "status": "Finished",
@@ -359,11 +364,11 @@
             "raceName": "Abu Dhabi Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "campos",
+            "constructorId": "adrian_campos_motorsport",
             "grid": "1",
             "position": "1",
             "status": "Finished",
-            "points": "10"
+            "points": "11"
         },
         {
             "season": "2025",
@@ -371,8 +376,8 @@
             "raceName": "Abu Dhabi Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "campos",
-            "grid": "10",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "9",
             "position": "9",
             "status": "Finished",
             "points": "2"

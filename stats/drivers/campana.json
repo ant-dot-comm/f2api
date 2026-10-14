@@ -1,0 +1,147 @@
+{
+    "driverId": "campana",
+    "name": "Sergio Campana",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2013",
+        "2014"
+    ],
+    "career": {
+        "entries": 6,
+        "starts": 6,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 2,
+        "bestFinish": 15,
+        "avgFinish": 18.5,
+        "titles": 0,
+        "bestChampionship": null,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2013": {
+            "entries": 2,
+            "starts": 2,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 0,
+            "bestFinish": 15,
+            "avgFinish": 19.5,
+            "championshipPosition": null,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2014": {
+            "entries": 4,
+            "starts": 4,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 2,
+            "bestFinish": 15,
+            "avgFinish": 17.5,
+            "championshipPosition": null,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2013",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "15",
+            "position": "24",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2013",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "21",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "25",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "10",
+            "raceName": "Russian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "26",
+            "position": "20",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "10",
+            "raceName": "Russian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "26",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        }
+    ]
+}

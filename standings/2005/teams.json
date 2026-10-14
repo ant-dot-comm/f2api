@@ -1,0 +1,89 @@
+{
+    "season": "2005",
+    "series": "gp2",
+    "championship": "GP2 Series",
+    "source": "motorsportmagazine.com",
+    "lastRound": 12,
+    "scheduledRounds": 12,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "constructorId": "art",
+            "team": "ART Grand Prix",
+            "points": "187"
+        },
+        {
+            "position": "2",
+            "constructorId": "arden",
+            "team": "Arden International",
+            "points": "126"
+        },
+        {
+            "position": "3",
+            "constructorId": "super_nova_racing",
+            "team": "Super Nova Racing",
+            "points": "102"
+        },
+        {
+            "position": "4",
+            "constructorId": "isport_international",
+            "team": "iSport International",
+            "points": "69.5"
+        },
+        {
+            "position": "5",
+            "constructorId": "racing_engineering",
+            "team": "Racing Engineering",
+            "points": "65.5"
+        },
+        {
+            "position": "6",
+            "constructorId": "dams",
+            "team": "DAMS",
+            "points": "36"
+        },
+        {
+            "position": "7",
+            "constructorId": "coloni",
+            "team": "Coloni Motorsport",
+            "points": "36"
+        },
+        {
+            "position": "8",
+            "constructorId": "bcn_competicion",
+            "team": "BCN Competicion",
+            "points": "35"
+        },
+        {
+            "position": "9",
+            "constructorId": "hitech_racing",
+            "team": "HiTech Piquet",
+            "points": "26"
+        },
+        {
+            "position": "10",
+            "constructorId": "piquet_sports",
+            "team": "Piquet Sports",
+            "points": "24"
+        },
+        {
+            "position": "11",
+            "constructorId": "dave_price_racing",
+            "team": "Dave Price Racing",
+            "points": "22"
+        },
+        {
+            "position": "12",
+            "constructorId": "durango",
+            "team": "Durango Formula",
+            "points": "21"
+        },
+        {
+            "position": "13",
+            "constructorId": "adrian_campos_motorsport",
+            "team": "Campos Racing",
+            "points": "7.5"
+        }
+    ]
+}

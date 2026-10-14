@@ -1,0 +1,167 @@
+{
+    "season": "2016",
+    "series": "gp2",
+    "championship": "GP2 Series",
+    "source": "motorsportmagazine.com",
+    "lastRound": 11,
+    "scheduledRounds": 11,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "driverId": "gasly",
+            "driver": "Pierre Gasly",
+            "points": "219"
+        },
+        {
+            "position": "2",
+            "driverId": "giovinazzi",
+            "driver": "Antonio Giovinazzi",
+            "points": "211"
+        },
+        {
+            "position": "3",
+            "driverId": "sirotkin",
+            "driver": "Sergey Sirotkin",
+            "points": "159"
+        },
+        {
+            "position": "4",
+            "driverId": "marciello",
+            "driver": "Raffaele Marciello",
+            "points": "159"
+        },
+        {
+            "position": "5",
+            "driverId": "nato",
+            "driver": "Norman Nato",
+            "points": "136"
+        },
+        {
+            "position": "6",
+            "driverId": "lynn",
+            "driver": "Alex Lynn",
+            "points": "124"
+        },
+        {
+            "position": "7",
+            "driverId": "king",
+            "driver": "Jordan King",
+            "points": "122"
+        },
+        {
+            "position": "8",
+            "driverId": "ghiotto",
+            "driver": "Luca Ghiotto",
+            "points": "111"
+        },
+        {
+            "position": "9",
+            "driverId": "rowland",
+            "driver": "Oliver Rowland",
+            "points": "107"
+        },
+        {
+            "position": "10",
+            "driverId": "markelov",
+            "driver": "Artem Markelov",
+            "points": "97"
+        },
+        {
+            "position": "11",
+            "driverId": "matsushita",
+            "driver": "Nobuharu Matsushita",
+            "points": "92"
+        },
+        {
+            "position": "12",
+            "driverId": "evans",
+            "driver": "Mitch Evans",
+            "points": "90"
+        },
+        {
+            "position": "13",
+            "driverId": "malja",
+            "driver": "Gustav Malja",
+            "points": "53"
+        },
+        {
+            "position": "14",
+            "driverId": "arthur_pic",
+            "driver": "Arthur Pic",
+            "points": "36"
+        },
+        {
+            "position": "15",
+            "driverId": "gelael",
+            "driver": "Sean Gelael",
+            "points": "24"
+        },
+        {
+            "position": "16",
+            "driverId": "latifi",
+            "driver": "Nicholas Latifi",
+            "points": "23"
+        },
+        {
+            "position": "17",
+            "driverId": "kirchhofer",
+            "driver": "Marvin Kirchhofer",
+            "points": "21"
+        },
+        {
+            "position": "18",
+            "driverId": "cecotto",
+            "driver": "Johnny Cecotto jr",
+            "points": "18"
+        },
+        {
+            "position": "19",
+            "driverId": "canamasas",
+            "driver": "Sergio Canamasas",
+            "points": "17"
+        },
+        {
+            "position": "20",
+            "driverId": "eriksson",
+            "driver": "Jimmy Eriksson",
+            "points": "10"
+        },
+        {
+            "position": "21",
+            "driverId": "jong",
+            "driver": "Daniel de Jong",
+            "points": "6"
+        },
+        {
+            "position": "22",
+            "driverId": "jeffri",
+            "driver": "Nabil Jeffri",
+            "points": "2"
+        },
+        {
+            "position": "23",
+            "driverId": "binder",
+            "driver": "Rene Binder",
+            "points": "0"
+        },
+        {
+            "position": "24",
+            "driverId": "armand",
+            "driver": "Philo Paz Armand",
+            "points": "0"
+        },
+        {
+            "position": "25",
+            "driverId": "bernstorff",
+            "driver": "Emil Bernstorff",
+            "points": "0"
+        },
+        {
+            "position": "26",
+            "driverId": "deletraz",
+            "driver": "Louis Deletraz",
+            "points": "0"
+        }
+    ]
+}

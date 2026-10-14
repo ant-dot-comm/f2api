@@ -1,10 +1,72 @@
 {
     "series": "f2",
-    "updated": "2026-10-13",
+    "updated": "2026-10-14",
     "drivers": [
         {
+            "driverId": "ghiotto",
+            "name": "Luca Ghiotto",
+            "code": "",
+            "seasons": [
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020",
+                "2022"
+            ],
+            "points": 720
+        },
+        {
+            "driverId": "camara",
+            "name": "Rafael Câmara",
+            "code": "CAM",
+            "seasons": [
+                "2017",
+                "2018",
+                "2019",
+                "2026"
+            ],
+            "points": 622
+        },
+        {
+            "driverId": "vries",
+            "name": "Nyck de Vries",
+            "code": "",
+            "seasons": [
+                "2017",
+                "2018",
+                "2019"
+            ],
+            "points": 582
+        },
+        {
+            "driverId": "vandoorne",
+            "name": "Stoffel Vandoorne",
+            "code": "",
+            "seasons": [
+                "2014",
+                "2015"
+            ],
+            "points": 570.5
+        },
+        {
+            "driverId": "markelov",
+            "name": "Artem Markelov",
+            "code": "",
+            "seasons": [
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020"
+            ],
+            "points": 568
+        },
+        {
             "driverId": "verschoor",
-            "name": "R. Verschoor",
+            "name": "Richard Verschoor",
             "code": "",
             "seasons": [
                 "2021",
@@ -17,9 +79,10 @@
         },
         {
             "driverId": "pourchaire",
-            "name": "Théo Pourchaire",
+            "name": "Theo Pourchaire",
             "code": "",
             "seasons": [
+                "2020",
                 "2021",
                 "2022",
                 "2023"
@@ -27,18 +90,126 @@
             "points": 507
         },
         {
-            "driverId": "drugovich",
-            "name": "F. Drugovich",
+            "driverId": "latifi",
+            "name": "Nicholas Latifi",
             "code": "",
             "seasons": [
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ],
+            "points": 506
+        },
+        {
+            "driverId": "drugovich",
+            "name": "Felipe Drugovich",
+            "code": "",
+            "seasons": [
+                "2020",
                 "2021",
                 "2022"
+            ],
+            "points": 491
+        },
+        {
+            "driverId": "matsushita",
+            "name": "Nobuharu Matsushita",
+            "code": "",
+            "seasons": [
+                "2015",
+                "2016",
+                "2017",
+                "2019",
+                "2020"
+            ],
+            "points": 477.5
+        },
+        {
+            "driverId": "guanyu",
+            "name": "Zhou Guanyu",
+            "code": "",
+            "seasons": [
+                "2019",
+                "2020",
+                "2021"
+            ],
+            "points": 474.5
+        },
+        {
+            "driverId": "nasr",
+            "name": "Felipe Nasr",
+            "code": "",
+            "seasons": [
+                "2012",
+                "2013",
+                "2014"
+            ],
+            "points": 473
+        },
+        {
+            "driverId": "palmer",
+            "name": "Jolyon Palmer",
+            "code": "",
+            "seasons": [
+                "2011",
+                "2012",
+                "2013",
+                "2014"
+            ],
+            "points": 473
+        },
+        {
+            "driverId": "evans",
+            "name": "Mitch Evans",
+            "code": "",
+            "seasons": [
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "points": 455
+        },
+        {
+            "driverId": "leimer",
+            "name": "Fabio Leimer",
+            "code": "",
+            "seasons": [
+                "2010",
+                "2011",
+                "2012",
+                "2013"
+            ],
+            "points": 376
+        },
+        {
+            "driverId": "daruvala",
+            "name": "Jehan Daruvala",
+            "code": "",
+            "seasons": [
+                "2020",
+                "2021",
+                "2022",
+                "2023"
             ],
             "points": 370
         },
         {
+            "driverId": "shwartzman",
+            "name": "Robert Shwartzman",
+            "code": "",
+            "seasons": [
+                "2020",
+                "2021"
+            ],
+            "points": 369
+        },
+        {
             "driverId": "crawford",
-            "name": "J. Crawford",
+            "name": "Jak Crawford",
             "code": "",
             "seasons": [
                 "2023",
@@ -49,7 +220,7 @@
         },
         {
             "driverId": "martins",
-            "name": "V. Martins",
+            "name": "Victor Martins",
             "code": "",
             "seasons": [
                 "2023",
@@ -57,6 +228,32 @@
                 "2025"
             ],
             "points": 354
+        },
+        {
+            "driverId": "coletti",
+            "name": "Stefano Coletti",
+            "code": "",
+            "seasons": [
+                "2009",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2017"
+            ],
+            "points": 343
+        },
+        {
+            "driverId": "marciello",
+            "name": "Raffaele Marciello",
+            "code": "",
+            "seasons": [
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+            ],
+            "points": 343
         },
         {
             "driverId": "fittipaldi",
@@ -82,8 +279,84 @@
             "points": 339
         },
         {
+            "driverId": "valsecchi",
+            "name": "Davide Valsecchi",
+            "code": "",
+            "seasons": [
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012"
+            ],
+            "points": 331
+        },
+        {
+            "driverId": "gasly",
+            "name": "Pierre Gasly",
+            "code": "",
+            "seasons": [
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "points": 329
+        },
+        {
+            "driverId": "king",
+            "name": "Jordan King",
+            "code": "",
+            "seasons": [
+                "2015",
+                "2016",
+                "2017",
+                "2019"
+            ],
+            "points": 323
+        },
+        {
+            "driverId": "cecotto",
+            "name": "Johnny Cecotto jr",
+            "code": "",
+            "seasons": [
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+            ],
+            "points": 322
+        },
+        {
+            "driverId": "calado",
+            "name": "James Calado",
+            "code": "",
+            "seasons": [
+                "2012",
+                "2013"
+            ],
+            "points": 317
+        },
+        {
+            "driverId": "deletraz",
+            "name": "Louis Deletraz",
+            "code": "",
+            "seasons": [
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020"
+            ],
+            "points": 316
+        },
+        {
             "driverId": "hauger",
-            "name": "D. Hauger",
+            "name": "Dennis Hauger",
             "code": "",
             "seasons": [
                 "2022",
@@ -101,6 +374,17 @@
                 "2023"
             ],
             "points": 309
+        },
+        {
+            "driverId": "sirotkin",
+            "name": "Sergey Sirotkin",
+            "code": "",
+            "seasons": [
+                "2015",
+                "2016",
+                "2017"
+            ],
+            "points": 307
         },
         {
             "driverId": "iwasa",
@@ -124,15 +408,45 @@
             "points": 303
         },
         {
-            "driverId": "daruvala",
-            "name": "Jehan Daruvala",
+            "driverId": "rowland",
+            "name": "Oliver Rowland",
             "code": "",
             "seasons": [
-                "2021",
-                "2022",
-                "2023"
+                "2015",
+                "2016",
+                "2017"
+            ],
+            "points": 301
+        },
+        {
+            "driverId": "albon",
+            "name": "Alexander Albon",
+            "code": "",
+            "seasons": [
+                "2017",
+                "2018"
             ],
             "points": 298
+        },
+        {
+            "driverId": "russell",
+            "name": "George Russell",
+            "code": "",
+            "seasons": [
+                "2018"
+            ],
+            "points": 287
+        },
+        {
+            "driverId": "rossi",
+            "name": "Alexander Rossi",
+            "code": "",
+            "seasons": [
+                "2013",
+                "2014",
+                "2015"
+            ],
+            "points": 285.5
         },
         {
             "driverId": "durksen",
@@ -146,6 +460,51 @@
             "points": 284
         },
         {
+            "driverId": "charles_leclerc",
+            "name": "Charles Leclerc",
+            "code": "",
+            "seasons": [
+                "2017"
+            ],
+            "points": 282
+        },
+        {
+            "driverId": "garde",
+            "name": "Giedo van der Garde",
+            "code": "",
+            "seasons": [
+                "2009",
+                "2010",
+                "2011",
+                "2012"
+            ],
+            "points": 282
+        },
+        {
+            "driverId": "ericsson",
+            "name": "Marcus Ericsson",
+            "code": "",
+            "seasons": [
+                "2010",
+                "2011",
+                "2012",
+                "2013"
+            ],
+            "points": 281
+        },
+        {
+            "driverId": "razia",
+            "name": "Luiz Razia",
+            "code": "",
+            "seasons": [
+                "2009",
+                "2010",
+                "2011",
+                "2012"
+            ],
+            "points": 277
+        },
+        {
             "driverId": "beganovic",
             "name": "Dino Beganovic",
             "code": "BEG",
@@ -155,6 +514,50 @@
                 "2026"
             ],
             "points": 275
+        },
+        {
+            "driverId": "ilott",
+            "name": "Callum Ilott",
+            "code": "",
+            "seasons": [
+                "2017",
+                "2019",
+                "2020"
+            ],
+            "points": 275
+        },
+        {
+            "driverId": "bird",
+            "name": "Sam Bird",
+            "code": "",
+            "seasons": [
+                "2010",
+                "2011",
+                "2013"
+            ],
+            "points": 274
+        },
+        {
+            "driverId": "aitken",
+            "name": "Jack Aitken",
+            "code": "",
+            "seasons": [
+                "2018",
+                "2019",
+                "2020",
+                "2021"
+            ],
+            "points": 270
+        },
+        {
+            "driverId": "schumacher",
+            "name": "Mick Schumacher",
+            "code": "",
+            "seasons": [
+                "2019",
+                "2020"
+            ],
+            "points": 268
         },
         {
             "driverId": "maini",
@@ -169,6 +572,17 @@
             "points": 258
         },
         {
+            "driverId": "ticktum",
+            "name": "Dan Ticktum",
+            "code": "",
+            "seasons": [
+                "2018",
+                "2020",
+                "2021"
+            ],
+            "points": 256.0
+        },
+        {
             "driverId": "piastri",
             "name": "Oscar Piastri",
             "code": "",
@@ -179,7 +593,7 @@
         },
         {
             "driverId": "lawson",
-            "name": "L. Lawson",
+            "name": "Liam Lawson",
             "code": "",
             "seasons": [
                 "2021",
@@ -188,12 +602,34 @@
             "points": 252
         },
         {
+            "driverId": "vips",
+            "name": "Juri Vips",
+            "code": "",
+            "seasons": [
+                "2020",
+                "2021",
+                "2022"
+            ],
+            "points": 250
+        },
+        {
             "driverId": "hadjar",
-            "name": "I. Hadjar",
+            "name": "Isack Hadjar",
             "code": "",
             "seasons": [
                 "2023",
                 "2024"
+            ],
+            "points": 247
+        },
+        {
+            "driverId": "nato",
+            "name": "Norman Nato",
+            "code": "",
+            "seasons": [
+                "2015",
+                "2016",
+                "2017"
             ],
             "points": 247
         },
@@ -209,8 +645,18 @@
             "points": 241
         },
         {
+            "driverId": "fuoco",
+            "name": "Antonio Fuoco",
+            "code": "",
+            "seasons": [
+                "2017",
+                "2018"
+            ],
+            "points": 239
+        },
+        {
             "driverId": "maloney",
-            "name": "Z. Maloney",
+            "name": "Zane Maloney",
             "code": "",
             "seasons": [
                 "2022",
@@ -220,18 +666,63 @@
             "points": 236
         },
         {
-            "driverId": "vips",
-            "name": "J. Vips",
+            "driverId": "lynn",
+            "name": "Alex Lynn",
             "code": "",
             "seasons": [
-                "2021",
-                "2022"
+                "2015",
+                "2016"
             ],
             "points": 234
         },
         {
+            "driverId": "pantano",
+            "name": "Giorgio Pantano",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007",
+                "2008"
+            ],
+            "points": 228
+        },
+        {
+            "driverId": "haryanto",
+            "name": "Rio Haryanto",
+            "code": "",
+            "seasons": [
+                "2012",
+                "2013",
+                "2014",
+                "2015"
+            ],
+            "points": 226
+        },
+        {
+            "driverId": "arthur_pic",
+            "name": "Arthur Pic",
+            "code": "",
+            "seasons": [
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "points": 220
+        },
+        {
+            "driverId": "norris",
+            "name": "Lando Norris",
+            "code": "",
+            "seasons": [
+                "2017",
+                "2018"
+            ],
+            "points": 219
+        },
+        {
             "driverId": "bortoleto",
-            "name": "G. Bortoleto",
+            "name": "Gabriel Bortoleto",
             "code": "",
             "seasons": [
                 "2024"
@@ -250,7 +741,7 @@
         },
         {
             "driverId": "fornaroli",
-            "name": "L. Fornaroli",
+            "name": "Leonardo Fornaroli",
             "code": "",
             "seasons": [
                 "2024",
@@ -259,17 +750,53 @@
             "points": 211
         },
         {
-            "driverId": "camara",
-            "name": "Rafael Câmara",
-            "code": "CAM",
+            "driverId": "giovinazzi",
+            "name": "Antonio Giovinazzi",
+            "code": "",
             "seasons": [
-                "2026"
+                "2016"
             ],
-            "points": 207
+            "points": 211
+        },
+        {
+            "driverId": "grassi",
+            "name": "Lucas di Grassi",
+            "code": "",
+            "seasons": [
+                "2006",
+                "2007",
+                "2008",
+                "2009"
+            ],
+            "points": 211
+        },
+        {
+            "driverId": "grosjean",
+            "name": "Romain Grosjean",
+            "code": "",
+            "seasons": [
+                "2008",
+                "2009",
+                "2010",
+                "2011"
+            ],
+            "points": 210
+        },
+        {
+            "driverId": "maldonado",
+            "name": "Pastor Maldonado",
+            "code": "",
+            "seasons": [
+                "2007",
+                "2008",
+                "2009",
+                "2010"
+            ],
+            "points": 208
         },
         {
             "driverId": "bearman",
-            "name": "O. Bearman",
+            "name": "Oliver Bearman",
             "code": "",
             "seasons": [
                 "2023",
@@ -278,26 +805,110 @@
             "points": 205
         },
         {
-            "driverId": "shwartzman",
-            "name": "Robert Shwartzman",
+            "driverId": "richelmi",
+            "name": "Stephane Richelmi",
             "code": "",
             "seasons": [
-                "2021"
+                "2011",
+                "2012",
+                "2013",
+                "2014"
             ],
-            "points": 192
+            "points": 201
         },
         {
-            "driverId": "zhou",
-            "name": "Guanyu Zhou",
+            "driverId": "filippi",
+            "name": "Luca Filippi",
             "code": "",
             "seasons": [
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012"
+            ],
+            "points": 200
+        },
+        {
+            "driverId": "tsunoda",
+            "name": "Yuki Tsunoda",
+            "code": "",
+            "seasons": [
+                "2020"
+            ],
+            "points": 200
+        },
+        {
+            "driverId": "lundgaard",
+            "name": "Christian Lundgaard",
+            "code": "",
+            "seasons": [
+                "2019",
+                "2020",
                 "2021"
             ],
-            "points": 183
+            "points": 199
+        },
+        {
+            "driverId": "armstrong",
+            "name": "Marcus Armstrong",
+            "code": "",
+            "seasons": [
+                "2020",
+                "2021",
+                "2022"
+            ],
+            "points": 194
+        },
+        {
+            "driverId": "gutierrez",
+            "name": "Esteban Gutierrez",
+            "code": "",
+            "seasons": [
+                "2011",
+                "2012"
+            ],
+            "points": 191
+        },
+        {
+            "driverId": "leal",
+            "name": "Julian Leal",
+            "code": "",
+            "seasons": [
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015"
+            ],
+            "points": 177
+        },
+        {
+            "driverId": "chilton",
+            "name": "Max Chilton",
+            "code": "",
+            "seasons": [
+                "2010",
+                "2011",
+                "2012"
+            ],
+            "points": 176
+        },
+        {
+            "driverId": "mazepin",
+            "name": "Nikita Mazepin",
+            "code": "",
+            "seasons": [
+                "2019",
+                "2020"
+            ],
+            "points": 175
         },
         {
             "driverId": "marti",
-            "name": "J. Marti",
+            "name": "Josep Maria Marti",
             "code": "",
             "seasons": [
                 "2024",
@@ -307,7 +918,7 @@
         },
         {
             "driverId": "browning",
-            "name": "L. Browning",
+            "name": "Luke Browning",
             "code": "",
             "seasons": [
                 "2024",
@@ -316,8 +927,23 @@
             "points": 169
         },
         {
+            "driverId": "boschung",
+            "name": "Ralph Boschung",
+            "code": "",
+            "seasons": [
+                "2017",
+                "2018",
+                "2019",
+                "2020",
+                "2021",
+                "2022",
+                "2023"
+            ],
+            "points": 167.5
+        },
+        {
             "driverId": "aron",
-            "name": "P. Aron",
+            "name": "Paul Aron",
             "code": "",
             "seasons": [
                 "2023",
@@ -326,17 +952,18 @@
             "points": 163
         },
         {
-            "driverId": "ticktum",
-            "name": "Dan Ticktum",
+            "driverId": "nelson_piquet",
+            "name": "Nelson Angelo Piquet",
             "code": "",
             "seasons": [
-                "2021"
+                "2005",
+                "2006"
             ],
-            "points": 159.5
+            "points": 148
         },
         {
             "driverId": "sargeant",
-            "name": "L. Sargeant",
+            "name": "Logan Sargeant",
             "code": "",
             "seasons": [
                 "2021",
@@ -345,29 +972,41 @@
             "points": 148
         },
         {
-            "driverId": "armstrong",
-            "name": "M. Armstrong",
+            "driverId": "glock",
+            "name": "Timo Glock",
             "code": "",
             "seasons": [
-                "2021",
-                "2022"
+                "2006",
+                "2007"
             ],
-            "points": 142
+            "points": 146
         },
         {
-            "driverId": "boschung",
-            "name": "Ralph Boschung",
+            "driverId": "dillmann",
+            "name": "Tom Dillmann",
             "code": "",
             "seasons": [
-                "2021",
-                "2022",
-                "2023"
+                "2012",
+                "2013",
+                "2014"
             ],
-            "points": 136.5
+            "points": 139
+        },
+        {
+            "driverId": "petrov",
+            "name": "Vitaly Petrov",
+            "code": "",
+            "seasons": [
+                "2006",
+                "2007",
+                "2008",
+                "2009"
+            ],
+            "points": 135
         },
         {
             "driverId": "lindblad",
-            "name": "A. Lindblad",
+            "name": "Arvid Lindblad",
             "code": "",
             "seasons": [
                 "2025"
@@ -376,7 +1015,7 @@
         },
         {
             "driverId": "stanek",
-            "name": "R. Stanek",
+            "name": "Roman Stanek",
             "code": "",
             "seasons": [
                 "2023",
@@ -395,6 +1034,16 @@
             "points": 133
         },
         {
+            "driverId": "premat",
+            "name": "Alexandre Premat",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006"
+            ],
+            "points": 133
+        },
+        {
             "driverId": "miyata",
             "name": "Ritomo Miyata",
             "code": "MIY",
@@ -404,6 +1053,31 @@
                 "2026"
             ],
             "points": 131
+        },
+        {
+            "driverId": "carroll",
+            "name": "Adam Carroll",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2011"
+            ],
+            "points": 129
+        },
+        {
+            "driverId": "berthon",
+            "name": "Nathanael Berthon",
+            "code": "",
+            "seasons": [
+                "2012",
+                "2013",
+                "2014",
+                "2015"
+            ],
+            "points": 125
         },
         {
             "driverId": "montoya",
@@ -416,13 +1090,44 @@
             "points": 121
         },
         {
+            "driverId": "rosberg",
+            "name": "Nico Rosberg",
+            "code": "",
+            "seasons": [
+                "2005"
+            ],
+            "points": 120
+        },
+        {
+            "driverId": "hamilton",
+            "name": "Lewis Hamilton",
+            "code": "",
+            "seasons": [
+                "2006"
+            ],
+            "points": 114
+        },
+        {
             "driverId": "antonelli",
-            "name": "A. Antonelli",
+            "name": "Andrea Kimi Antonelli",
             "code": "",
             "seasons": [
                 "2024"
             ],
             "points": 113
+        },
+        {
+            "driverId": "clos",
+            "name": "Dani Clos",
+            "code": "",
+            "seasons": [
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013"
+            ],
+            "points": 110
         },
         {
             "driverId": "stenshorne",
@@ -433,6 +1138,55 @@
                 "2026"
             ],
             "points": 109
+        },
+        {
+            "driverId": "bianchi",
+            "name": "Jules Bianchi",
+            "code": "",
+            "seasons": [
+                "2010",
+                "2011"
+            ],
+            "points": 105
+        },
+        {
+            "driverId": "kovalainen",
+            "name": "Heikki Kovalainen",
+            "code": "",
+            "seasons": [
+                "2005"
+            ],
+            "points": 105
+        },
+        {
+            "driverId": "hulkenberg",
+            "name": "Nico Hülkenberg",
+            "code": "",
+            "seasons": [
+                "2009"
+            ],
+            "points": 100
+        },
+        {
+            "driverId": "malja",
+            "name": "Gustav Malja",
+            "code": "",
+            "seasons": [
+                "2015",
+                "2016",
+                "2017"
+            ],
+            "points": 98
+        },
+        {
+            "driverId": "senna",
+            "name": "Bruno Senna",
+            "code": "",
+            "seasons": [
+                "2007",
+                "2008"
+            ],
+            "points": 98
         },
         {
             "driverId": "villagomez",
@@ -446,8 +1200,22 @@
             "points": 98
         },
         {
+            "driverId": "canamasas",
+            "name": "Sergio Canamasas",
+            "code": "",
+            "seasons": [
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+            ],
+            "points": 97
+        },
+        {
             "driverId": "colapinto",
-            "name": "F. Colapinto",
+            "name": "Franco Colapinto",
             "code": "",
             "seasons": [
                 "2023",
@@ -456,14 +1224,60 @@
             "points": 96
         },
         {
+            "driverId": "zuber",
+            "name": "Andreas Zuber",
+            "code": "",
+            "seasons": [
+                "2006",
+                "2007",
+                "2008",
+                "2009"
+            ],
+            "points": 95
+        },
+        {
+            "driverId": "perez",
+            "name": "Sergio Perez",
+            "code": "",
+            "seasons": [
+                "2009",
+                "2010"
+            ],
+            "points": 93
+        },
+        {
+            "driverId": "merhi",
+            "name": "Roberto Merhi",
+            "code": "",
+            "seasons": [
+                "2017",
+                "2018",
+                "2022"
+            ],
+            "points": 92
+        },
+        {
             "driverId": "van_hoepen",
             "name": "Laurens Van Hoepen",
             "code": "VHO",
             "seasons": [
-                "2025",
                 "2026"
             ],
             "points": 90
+        },
+        {
+            "driverId": "gelael",
+            "name": "Sean Gelael",
+            "code": "",
+            "seasons": [
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020"
+            ],
+            "points": 88
         },
         {
             "driverId": "goethe",
@@ -477,8 +1291,85 @@
             "points": 88
         },
         {
+            "driverId": "quaife_hobbs",
+            "name": "Adrian Quaife-Hobbs",
+            "code": "",
+            "seasons": [
+                "2013",
+                "2014"
+            ],
+            "points": 86
+        },
+        {
+            "driverId": "parente",
+            "name": "Alvaro Parente",
+            "code": "",
+            "seasons": [
+                "2008",
+                "2009",
+                "2010",
+                "2011"
+            ],
+            "points": 85
+        },
+        {
+            "driverId": "charles_pic",
+            "name": "Charles Pic",
+            "code": "",
+            "seasons": [
+                "2010",
+                "2011"
+            ],
+            "points": 80
+        },
+        {
+            "driverId": "correa",
+            "name": "Juan Manuel Correa",
+            "code": "",
+            "seasons": [
+                "2019",
+                "2022",
+                "2023",
+                "2024"
+            ],
+            "points": 80
+        },
+        {
+            "driverId": "lancaster",
+            "name": "Jon Lancaster",
+            "code": "",
+            "seasons": [
+                "2012",
+                "2013",
+                "2014",
+                "2015"
+            ],
+            "points": 79
+        },
+        {
+            "driverId": "hubert",
+            "name": "Anthoine Hubert",
+            "code": "",
+            "seasons": [
+                "2019"
+            ],
+            "points": 77
+        },
+        {
+            "driverId": "villa",
+            "name": "Javier Villa",
+            "code": "",
+            "seasons": [
+                "2006",
+                "2007",
+                "2008",
+                "2009"
+            ],
+            "points": 77
+        },
+        {
             "driverId": "cordeel",
-            "name": "A. Cordeel",
+            "name": "Amaury Cordeel",
             "code": "",
             "seasons": [
                 "2022",
@@ -487,6 +1378,28 @@
                 "2025"
             ],
             "points": 76
+        },
+        {
+            "driverId": "lapierre",
+            "name": "Nicolas Lapierre",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007"
+            ],
+            "points": 76
+        },
+        {
+            "driverId": "d_ambrosio",
+            "name": "Jerome d'Ambrosio",
+            "code": "",
+            "seasons": [
+                "2008",
+                "2009",
+                "2010"
+            ],
+            "points": 71
         },
         {
             "driverId": "inthraphuvasak",
@@ -499,8 +1412,18 @@
             "points": 71
         },
         {
+            "driverId": "bruni",
+            "name": "Gianmaria Bruni",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006"
+            ],
+            "points": 68
+        },
+        {
             "driverId": "novalak",
-            "name": "Clément Novalak",
+            "name": "Clement Novalak",
             "code": "",
             "seasons": [
                 "2021",
@@ -510,8 +1433,57 @@
             "points": 68
         },
         {
+            "driverId": "speed",
+            "name": "Scott Speed",
+            "code": "",
+            "seasons": [
+                "2005"
+            ],
+            "points": 67.5
+        },
+        {
+            "driverId": "lopez",
+            "name": "Jose Maria Lopez",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006"
+            ],
+            "points": 66
+        },
+        {
+            "driverId": "vietoris",
+            "name": "Christian Vietoris",
+            "code": "",
+            "seasons": [
+                "2010",
+                "2011"
+            ],
+            "points": 64
+        },
+        {
+            "driverId": "viso",
+            "name": "Ernesto Viso",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007"
+            ],
+            "points": 63
+        },
+        {
+            "driverId": "stanaway",
+            "name": "Richie Stanaway",
+            "code": "",
+            "seasons": [
+                "2015"
+            ],
+            "points": 60
+        },
+        {
             "driverId": "o_sullivan",
-            "name": "Z. O'Sullivan",
+            "name": "Zak O'Sullivan",
             "code": "",
             "seasons": [
                 "2024"
@@ -520,7 +1492,7 @@
         },
         {
             "driverId": "beckmann",
-            "name": "D. Beckmann",
+            "name": "David Beckmann",
             "code": "",
             "seasons": [
                 "2021",
@@ -529,16 +1501,51 @@
             "points": 57
         },
         {
-            "driverId": "lundgaard",
-            "name": "Christian Lundgaard",
+            "driverId": "chandhok",
+            "name": "Karun Chandhok",
             "code": "",
             "seasons": [
-                "2021"
+                "2007",
+                "2008",
+                "2009"
+            ],
+            "points": 57
+        },
+        {
+            "driverId": "buemi",
+            "name": "Sebastien Buemi",
+            "code": "",
+            "seasons": [
+                "2007",
+                "2008"
+            ],
+            "points": 56
+        },
+        {
+            "driverId": "rodriguez",
+            "name": "Roldan Rodriguez",
+            "code": "",
+            "seasons": [
+                "2007",
+                "2008",
+                "2009"
+            ],
+            "points": 53
+        },
+        {
+            "driverId": "trummer",
+            "name": "Simon Trummer",
+            "code": "",
+            "seasons": [
+                "2012",
+                "2013",
+                "2014",
+                "2015"
             ],
             "points": 50
         },
         {
-            "driverId": "leclerc",
+            "driverId": "arthur_leclerc",
             "name": "Arthur Leclerc",
             "code": "",
             "seasons": [
@@ -547,13 +1554,80 @@
             "points": 49
         },
         {
-            "driverId": "correa",
-            "name": "J. Correa",
+            "driverId": "jani",
+            "name": "Neel Jani",
             "code": "",
             "seasons": [
-                "2022",
-                "2023",
-                "2024"
+                "2005",
+                "2006"
+            ],
+            "points": 48
+        },
+        {
+            "driverId": "makino",
+            "name": "Tadasuke Makino",
+            "code": "",
+            "seasons": [
+                "2018"
+            ],
+            "points": 48
+        },
+        {
+            "driverId": "frijns",
+            "name": "Robin Frijns",
+            "code": "",
+            "seasons": [
+                "2013"
+            ],
+            "points": 47
+        },
+        {
+            "driverId": "sorensen",
+            "name": "Marco Sorensen",
+            "code": "",
+            "seasons": [
+                "2014",
+                "2015"
+            ],
+            "points": 47
+        },
+        {
+            "driverId": "turvey",
+            "name": "Oliver Turvey",
+            "code": "",
+            "seasons": [
+                "2010",
+                "2011"
+            ],
+            "points": 47
+        },
+        {
+            "driverId": "garcia",
+            "name": "Borja Garcia",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2007"
+            ],
+            "points": 45.5
+        },
+        {
+            "driverId": "kral",
+            "name": "Josef Kral",
+            "code": "",
+            "seasons": [
+                "2010",
+                "2011",
+                "2012"
+            ],
+            "points": 45
+        },
+        {
+            "driverId": "nakajima",
+            "name": "Kazuki Nakajima",
+            "code": "",
+            "seasons": [
+                "2007"
             ],
             "points": 44
         },
@@ -569,6 +1643,59 @@
             "points": 43
         },
         {
+            "driverId": "nissany",
+            "name": "Roy Nissany",
+            "code": "",
+            "seasons": [
+                "2018",
+                "2020",
+                "2021",
+                "2022",
+                "2023"
+            ],
+            "points": 42
+        },
+        {
+            "driverId": "gunther",
+            "name": "Max Gunther",
+            "code": "",
+            "seasons": [
+                "2018"
+            ],
+            "points": 41
+        },
+        {
+            "driverId": "conway",
+            "name": "Mike Conway",
+            "code": "",
+            "seasons": [
+                "2006",
+                "2007",
+                "2008"
+            ],
+            "points": 39
+        },
+        {
+            "driverId": "abt",
+            "name": "Daniel Abt",
+            "code": "",
+            "seasons": [
+                "2013",
+                "2014"
+            ],
+            "points": 38
+        },
+        {
+            "driverId": "andre_negrao",
+            "name": "Andre Negrao",
+            "code": "",
+            "seasons": [
+                "2014",
+                "2015"
+            ],
+            "points": 36
+        },
+        {
             "driverId": "bilinski",
             "name": "Roman Bilinski",
             "code": "BIL",
@@ -578,21 +1705,11 @@
             "points": 36
         },
         {
-            "driverId": "nissany",
-            "name": "Roy Nissany",
-            "code": "",
-            "seasons": [
-                "2021",
-                "2022",
-                "2023"
-            ],
-            "points": 36
-        },
-        {
             "driverId": "hughes",
-            "name": "J. Hughes",
+            "name": "Jake Hughes",
             "code": "",
             "seasons": [
+                "2020",
                 "2021",
                 "2022"
             ],
@@ -608,6 +1725,66 @@
             "points": 34
         },
         {
+            "driverId": "boccolacci",
+            "name": "Dorian Boccolacci",
+            "code": "",
+            "seasons": [
+                "2018",
+                "2019"
+            ],
+            "points": 33
+        },
+        {
+            "driverId": "alesi",
+            "name": "Giuliano Alesi",
+            "code": "",
+            "seasons": [
+                "2019",
+                "2020"
+            ],
+            "points": 32
+        },
+        {
+            "driverId": "piccione",
+            "name": "Clivio Piccione",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006"
+            ],
+            "points": 32
+        },
+        {
+            "driverId": "soucek",
+            "name": "Andy Soucek",
+            "code": "",
+            "seasons": [
+                "2007",
+                "2008"
+            ],
+            "points": 29
+        },
+        {
+            "driverId": "ceccon",
+            "name": "Kevin Ceccon",
+            "code": "",
+            "seasons": [
+                "2011",
+                "2013"
+            ],
+            "points": 28
+        },
+        {
+            "driverId": "ammermuller",
+            "name": "Michael Ammermuller",
+            "code": "",
+            "seasons": [
+                "2006",
+                "2007"
+            ],
+            "points": 26
+        },
+        {
             "driverId": "herta",
             "name": "Colton Herta",
             "code": "HER",
@@ -615,6 +1792,65 @@
                 "2026"
             ],
             "points": 26
+        },
+        {
+            "driverId": "izawa",
+            "name": "Takuya Izawa",
+            "code": "",
+            "seasons": [
+                "2014"
+            ],
+            "points": 26
+        },
+        {
+            "driverId": "yoshimoto",
+            "name": "Hiroki Yoshimoto",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006"
+            ],
+            "points": 26
+        },
+        {
+            "driverId": "alexandre_negrao",
+            "name": "Alexandre Sarnes Negrao",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007"
+            ],
+            "points": 25
+        },
+        {
+            "driverId": "melker",
+            "name": "Nigel Melker",
+            "code": "",
+            "seasons": [
+                "2012"
+            ],
+            "points": 25
+        },
+        {
+            "driverId": "arjun_maini",
+            "name": "Arjun Maini",
+            "code": "",
+            "seasons": [
+                "2018",
+                "2019"
+            ],
+            "points": 24
+        },
+        {
+            "driverId": "kobayashi",
+            "name": "Kamui Kobayashi",
+            "code": "",
+            "seasons": [
+                "2008",
+                "2009"
+            ],
+            "points": 23
         },
         {
             "driverId": "boya",
@@ -626,8 +1862,77 @@
             "points": 21
         },
         {
+            "driverId": "kirchhofer",
+            "name": "Marvin Kirchhofer",
+            "code": "",
+            "seasons": [
+                "2016"
+            ],
+            "points": 21
+        },
+        {
+            "driverId": "visoiu",
+            "name": "Robert Visoiu",
+            "code": "",
+            "seasons": [
+                "2015",
+                "2017"
+            ],
+            "points": 21
+        },
+        {
+            "driverId": "pla",
+            "name": "Olivier Pla",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007"
+            ],
+            "points": 20
+        },
+        {
+            "driverId": "valerio",
+            "name": "Alberto Valerio",
+            "code": "",
+            "seasons": [
+                "2008",
+                "2009",
+                "2010"
+            ],
+            "points": 20
+        },
+        {
+            "driverId": "mortara",
+            "name": "Edoardo Mortara",
+            "code": "",
+            "seasons": [
+                "2009"
+            ],
+            "points": 19
+        },
+        {
+            "driverId": "yelloly",
+            "name": "Nick Yelloly",
+            "code": "",
+            "seasons": [
+                "2015"
+            ],
+            "points": 19
+        },
+        {
+            "driverId": "zaugg",
+            "name": "Adrian Zaugg",
+            "code": "",
+            "seasons": [
+                "2007",
+                "2010"
+            ],
+            "points": 19
+        },
+        {
             "driverId": "barnard",
-            "name": "T. Barnard",
+            "name": "Taylor Barnard",
             "code": "",
             "seasons": [
                 "2024"
@@ -635,13 +1940,38 @@
             "points": 18
         },
         {
-            "driverId": "merhi",
-            "name": "R. Merhi",
+            "driverId": "fukuzumi",
+            "name": "Nirei Fukuzumi",
             "code": "",
             "seasons": [
-                "2022"
+                "2018"
             ],
-            "points": 15
+            "points": 17
+        },
+        {
+            "driverId": "binder",
+            "name": "Rene Binder",
+            "code": "",
+            "seasons": [
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+            ],
+            "points": 16
+        },
+        {
+            "driverId": "ricci",
+            "name": "Giacomo Ricci",
+            "code": "",
+            "seasons": [
+                "2008",
+                "2009",
+                "2010"
+            ],
+            "points": 16
         },
         {
             "driverId": "varrone",
@@ -653,8 +1983,29 @@
             "points": 15
         },
         {
+            "driverId": "herck",
+            "name": "Michael Herck",
+            "code": "",
+            "seasons": [
+                "2008",
+                "2009",
+                "2010",
+                "2011"
+            ],
+            "points": 13
+        },
+        {
+            "driverId": "onidi",
+            "name": "Fabio Onidi",
+            "code": "",
+            "seasons": [
+                "2012"
+            ],
+            "points": 13
+        },
+        {
             "driverId": "zendeli",
-            "name": "L. Zendeli",
+            "name": "Lirim Zendeli",
             "code": "",
             "seasons": [
                 "2021",
@@ -664,7 +2015,7 @@
         },
         {
             "driverId": "caldwell",
-            "name": "O. Caldwell",
+            "name": "Olli Caldwell",
             "code": "",
             "seasons": [
                 "2021",
@@ -673,8 +2024,93 @@
             "points": 12
         },
         {
+            "driverId": "jong",
+            "name": "Daniel de Jong",
+            "code": "",
+            "seasons": [
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "points": 12
+        },
+        {
+            "driverId": "valles",
+            "name": "Adrian Valles",
+            "code": "",
+            "seasons": [
+                "2006",
+                "2008"
+            ],
+            "points": 12
+        },
+        {
+            "driverId": "ferrucci",
+            "name": "Santino Ferrucci",
+            "code": "",
+            "seasons": [
+                "2017",
+                "2018"
+            ],
+            "points": 11
+        },
+        {
+            "driverId": "monfardini",
+            "name": "Ferdinando Monfardini",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006"
+            ],
+            "points": 11
+        },
+        {
+            "driverId": "nunes",
+            "name": "Diego Nunes",
+            "code": "",
+            "seasons": [
+                "2008",
+                "2009"
+            ],
+            "points": 11
+        },
+        {
+            "driverId": "tung",
+            "name": "Ho-Pin Tung",
+            "code": "",
+            "seasons": [
+                "2007",
+                "2008",
+                "2010"
+            ],
+            "points": 11
+        },
+        {
+            "driverId": "eriksson",
+            "name": "Jimmy Eriksson",
+            "code": "",
+            "seasons": [
+                "2016"
+            ],
+            "points": 10
+        },
+        {
+            "driverId": "gonzalez",
+            "name": "Rodolfo Gonzalez",
+            "code": "",
+            "seasons": [
+                "2009",
+                "2010",
+                "2011",
+                "2012"
+            ],
+            "points": 10
+        },
+        {
             "driverId": "mansell",
-            "name": "C. Mansell",
+            "name": "Christian Mansell",
             "code": "",
             "seasons": [
                 "2024"
@@ -693,18 +2129,124 @@
             "points": 10
         },
         {
-            "driverId": "sato",
-            "name": "M. Sato",
+            "driverId": "hirate",
+            "name": "Kohei Hirate",
             "code": "",
             "seasons": [
+                "2007"
+            ],
+            "points": 9
+        },
+        {
+            "driverId": "marino_sato",
+            "name": "Marino Sato",
+            "code": "",
+            "seasons": [
+                "2019",
+                "2020",
                 "2021",
                 "2022"
+            ],
+            "points": 8
+        },
+        {
+            "driverId": "perera",
+            "name": "Franck Perera",
+            "code": "",
+            "seasons": [
+                "2006",
+                "2009"
+            ],
+            "points": 8
+        },
+        {
+            "driverId": "ellinas",
+            "name": "Tio Ellinas",
+            "code": "",
+            "seasons": [
+                "2014"
             ],
             "points": 7
         },
         {
+            "driverId": "gommendy",
+            "name": "Tristan Gommendy",
+            "code": "",
+            "seasons": [
+                "2006"
+            ],
+            "points": 6
+        },
+        {
+            "driverId": "hartley",
+            "name": "Brendon Hartley",
+            "code": "",
+            "seasons": [
+                "2010",
+                "2011",
+                "2012"
+            ],
+            "points": 6
+        },
+        {
+            "driverId": "lorandi",
+            "name": "Alessio Lorandi",
+            "code": "",
+            "seasons": [
+                "2018"
+            ],
+            "points": 6
+        },
+        {
+            "driverId": "buurman",
+            "name": "Yelmer Buurman",
+            "code": "",
+            "seasons": [
+                "2008"
+            ],
+            "points": 5
+        },
+        {
+            "driverId": "fauzy",
+            "name": "Fairuz Fauzy",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006",
+                "2011"
+            ],
+            "points": 5
+        },
+        {
+            "driverId": "palou",
+            "name": "Alex Palou",
+            "code": "",
+            "seasons": [
+                "2017"
+            ],
+            "points": 5
+        },
+        {
+            "driverId": "porteiro",
+            "name": "Felix Porteiro",
+            "code": "",
+            "seasons": [
+                "2006"
+            ],
+            "points": 5
+        },
+        {
+            "driverId": "ucha",
+            "name": "Marcos Martinez Ucha",
+            "code": "",
+            "seasons": [
+                "2007"
+            ],
+            "points": 5
+        },
+        {
             "driverId": "williams",
-            "name": "C. Williams",
+            "name": "Calan Williams",
             "code": "",
             "seasons": [
                 "2022"
@@ -712,11 +2254,144 @@
             "points": 5
         },
         {
+            "driverId": "alvarez",
+            "name": "Juan Cruz Alvarez",
+            "code": "",
+            "seasons": [
+                "2005"
+            ],
+            "points": 4.5
+        },
+        {
+            "driverId": "daly",
+            "name": "Conor Daly",
+            "code": "",
+            "seasons": [
+                "2013",
+                "2014"
+            ],
+            "points": 4
+        },
+        {
+            "driverId": "hernandez",
+            "name": "Sergio Hernandez",
+            "code": "",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007"
+            ],
+            "points": 4
+        },
+        {
+            "driverId": "jeffri",
+            "name": "Nabil Jeffri",
+            "code": "",
+            "seasons": [
+                "2016",
+                "2017"
+            ],
+            "points": 4
+        },
+        {
+            "driverId": "jimenez",
+            "name": "Sergio Jimenez",
+            "code": "",
+            "seasons": [
+                "2007"
+            ],
+            "points": 4
+        },
+        {
+            "driverId": "aleshin",
+            "name": "Mikhail Aleshin",
+            "code": "",
+            "seasons": [
+                "2007",
+                "2011"
+            ],
+            "points": 3
+        },
+        {
+            "driverId": "lauda",
+            "name": "Matthias Lauda",
+            "code": "",
+            "seasons": [
+                "2005"
+            ],
+            "points": 3
+        },
+        {
+            "driverId": "pedro_piquet",
+            "name": "Pedro Piquet",
+            "code": "",
+            "seasons": [
+                "2020"
+            ],
+            "points": 3
+        },
+        {
+            "driverId": "rigon",
+            "name": "Davide Rigon",
+            "code": "",
+            "seasons": [
+                "2009",
+                "2011"
+            ],
+            "points": 3
+        },
+        {
+            "driverId": "yamamoto",
+            "name": "Sakon Yamamoto",
+            "code": "",
+            "seasons": [
+                "2007",
+                "2008"
+            ],
+            "points": 3
+        },
+        {
+            "driverId": "artam",
+            "name": "Can Artam",
+            "code": "",
+            "seasons": [
+                "2005"
+            ],
+            "points": 2
+        },
+        {
+            "driverId": "kimiya_sato",
+            "name": "Kimiya Sato",
+            "code": "",
+            "seasons": [
+                "2014"
+            ],
+            "points": 2
+        },
+        {
             "driverId": "meguetounif",
-            "name": "S. Meguetounif",
+            "name": "Sami Meguetounif",
             "code": "",
             "seasons": [
                 "2025"
+            ],
+            "points": 2
+        },
+        {
+            "driverId": "piscopo",
+            "name": "Edoardo Piscopo",
+            "code": "",
+            "seasons": [
+                "2010"
+            ],
+            "points": 2
+        },
+        {
+            "driverId": "sharp",
+            "name": "Ryan Sharp",
+            "code": "",
+            "seasons": [
+                "2005"
             ],
             "points": 2
         },
@@ -730,6 +2405,35 @@
             "points": 2
         },
         {
+            "driverId": "crestani",
+            "name": "Fabrizio Crestani",
+            "code": "",
+            "seasons": [
+                "2010",
+                "2012",
+                "2013"
+            ],
+            "points": 1
+        },
+        {
+            "driverId": "ghirelli",
+            "name": "Vittorio Ghirelli",
+            "code": "",
+            "seasons": [
+                "2013"
+            ],
+            "points": 1
+        },
+        {
+            "driverId": "hanley",
+            "name": "Ben Hanley",
+            "code": "",
+            "seasons": [
+                "2008"
+            ],
+            "points": 1
+        },
+        {
             "driverId": "nannini",
             "name": "Matteo Nannini",
             "code": "",
@@ -739,11 +2443,93 @@
             "points": 1
         },
         {
-            "driverId": "aitken",
-            "name": "Jack Aitken",
+            "driverId": "pizzonia",
+            "name": "Antonio Pizzonia",
             "code": "",
             "seasons": [
-                "2021"
+                "2007"
+            ],
+            "points": 1
+        },
+        {
+            "driverId": "raghunathan",
+            "name": "Mahaveer Raghunathan",
+            "code": "",
+            "seasons": [
+                "2019"
+            ],
+            "points": 1
+        },
+        {
+            "driverId": "risatti",
+            "name": "Ricardo Risatti",
+            "code": "",
+            "seasons": [
+                "2007"
+            ],
+            "points": 1
+        },
+        {
+            "driverId": "stoneman",
+            "name": "Dean Stoneman",
+            "code": "",
+            "seasons": [
+                "2015"
+            ],
+            "points": 1
+        },
+        {
+            "driverId": "albuquerque",
+            "name": "Filipe Albuquerque",
+            "code": "",
+            "seasons": [
+                "2007"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "amberg",
+            "name": "Zoel Amberg",
+            "code": "",
+            "seasons": [
+                "2015"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "arabadjiev",
+            "name": "Vlado Arabadjiev",
+            "code": "",
+            "seasons": [
+                "2010"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "armand",
+            "name": "Philo Paz Armand",
+            "code": "",
+            "seasons": [
+                "2016"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "asmer",
+            "name": "Marko Asmer",
+            "code": "",
+            "seasons": [
+                "2008"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "bakkerud",
+            "name": "Christian Bakkerud",
+            "code": "",
+            "seasons": [
+                "2007",
+                "2008"
             ],
             "points": 0
         },
@@ -757,8 +2543,17 @@
             "points": 0
         },
         {
+            "driverId": "bernstorff",
+            "name": "Emil Bernstorff",
+            "code": "",
+            "seasons": [
+                "2016"
+            ],
+            "points": 0
+        },
+        {
             "driverId": "bolukbasi",
-            "name": "C. Bolukbasi",
+            "name": "Cem Bolukbasi",
             "code": "",
             "seasons": [
                 "2022"
@@ -766,11 +2561,31 @@
             "points": 0
         },
         {
-            "driverId": "calderon",
-            "name": "T. Calderon",
+            "driverId": "buuren",
+            "name": "Meindert van Buuren",
             "code": "",
             "seasons": [
+                "2015"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "calderon",
+            "name": "Tatiana Calderon",
+            "code": "",
+            "seasons": [
+                "2019",
                 "2022"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "campana",
+            "name": "Sergio Campana",
+            "code": "",
+            "seasons": [
+                "2013",
+                "2014"
             ],
             "points": 0
         },
@@ -785,7 +2600,7 @@
         },
         {
             "driverId": "esterson",
-            "name": "M. Esterson",
+            "name": "Max Esterson",
             "code": "",
             "seasons": [
                 "2024",
@@ -794,17 +2609,99 @@
             "points": 0
         },
         {
-            "driverId": "ghiotto",
-            "name": "L. Ghiotto",
+            "driverId": "giovesi",
+            "name": "Kevin Giovesi",
             "code": "",
             "seasons": [
-                "2022"
+                "2013",
+                "2014"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "guerin",
+            "name": "Victor Guerin",
+            "code": "",
+            "seasons": [
+                "2012"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "hoepen",
+            "name": "Laurens van Hoepen",
+            "code": "",
+            "seasons": [
+                "2025"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "hua",
+            "name": "Ma Qing Hua",
+            "code": "",
+            "seasons": [
+                "2013"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "iaconelli",
+            "name": "Carlos Iaconelli",
+            "code": "",
+            "seasons": [
+                "2008"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "isaakyan",
+            "name": "Matevos Isaakyan",
+            "code": "",
+            "seasons": [
+                "2019"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "jakes",
+            "name": "James Jakes",
+            "code": "",
+            "seasons": [
+                "2010"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "jefferies",
+            "name": "Axcil Jefferies",
+            "code": "",
+            "seasons": [
+                "2014"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "kari",
+            "name": "Niko Kari",
+            "code": "",
+            "seasons": [
+                "2018"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "karjalainen",
+            "name": "Henri Karjalainen",
+            "code": "",
+            "seasons": [
+                "2007"
             ],
             "points": 0
         },
         {
             "driverId": "koolen",
-            "name": "N. Koolen",
+            "name": "Niels Koolen",
             "code": "",
             "seasons": [
                 "2024"
@@ -812,11 +2709,101 @@
             "points": 0
         },
         {
+            "driverId": "leo",
+            "name": "Federico Leo",
+            "code": "",
+            "seasons": [
+                "2010"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "mardenborough",
+            "name": "Jann Mardenborough",
+            "code": "",
+            "seasons": [
+                "2015"
+            ],
+            "points": 0
+        },
+        {
             "driverId": "mason",
-            "name": "Joshua Mason",
+            "name": "Josh Mason",
             "code": "",
             "seasons": [
                 "2023"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "mirocha",
+            "name": "Kevin Mirocha",
+            "code": "",
+            "seasons": [
+                "2011"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "mondini",
+            "name": "Giorgio Mondini",
+            "code": "",
+            "seasons": [
+                "2005"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "niederhauser",
+            "name": "Patric Niederhauser",
+            "code": "",
+            "seasons": [
+                "2015"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "niemela",
+            "name": "Markus Niemela",
+            "code": "",
+            "seasons": [
+                "2007"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "nocera",
+            "name": "Paolo Maria Nocera",
+            "code": "",
+            "seasons": [
+                "2008"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "o_ward",
+            "name": "Pato O'Ward",
+            "code": "",
+            "seasons": [
+                "2019"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "panciatici",
+            "name": "Nelson Panciatici",
+            "code": "",
+            "seasons": [
+                "2009"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "pavlovic",
+            "name": "Milos Pavlovic",
+            "code": "",
+            "seasons": [
+                "2008"
             ],
             "points": 0
         },
@@ -830,17 +2817,122 @@
             "points": 0
         },
         {
+            "driverId": "puglisi",
+            "name": "Marcello Puglisi",
+            "code": "",
+            "seasons": [
+                "2008"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "raimondo",
+            "name": "Gianmarco Raimondo",
+            "code": "",
+            "seasons": [
+                "2013"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "regalia",
+            "name": "Facundo Regalia",
+            "code": "",
+            "seasons": [
+                "2014"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "rosenzweig",
+            "name": "Jake Rosenzweig",
+            "code": "",
+            "seasons": [
+                "2012",
+                "2013"
+            ],
+            "points": 0
+        },
+        {
             "driverId": "samaia",
             "name": "Guilherme Samaia",
             "code": "",
             "seasons": [
+                "2020",
                 "2021"
             ],
             "points": 0
         },
         {
+            "driverId": "serenelli",
+            "name": "Giancarlo Serenelli",
+            "code": "",
+            "seasons": [
+                "2012"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "stockinger",
+            "name": "Marlon Stockinger",
+            "code": "",
+            "seasons": [
+                "2015"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "tahinci",
+            "name": "Jason Tahinci",
+            "code": "",
+            "seasons": [
+                "2006",
+                "2007"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "teixeira",
+            "name": "Ricardo Teixeira",
+            "code": "",
+            "seasons": [
+                "2009",
+                "2012",
+                "2013"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "tveter",
+            "name": "Ryan Tveter",
+            "code": "",
+            "seasons": [
+                "2019"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "varhaug",
+            "name": "Pal Varhaug",
+            "code": "",
+            "seasons": [
+                "2011",
+                "2013"
+            ],
+            "points": 0
+        },
+        {
+            "driverId": "vilander",
+            "name": "Toni Vilander",
+            "code": "",
+            "seasons": [
+                "2005"
+            ],
+            "points": 0
+        },
+        {
             "driverId": "wharton",
-            "name": "J. Wharton",
+            "name": "James Wharton",
             "code": "",
             "seasons": [
                 "2025"
@@ -850,34 +2942,25 @@
     ],
     "teams": [
         {
-            "constructorId": "prema",
-            "name": "Prema",
-            "seasons": [
-                "2021",
-                "2022",
-                "2023",
-                "2024",
-                "2025",
-                "2026"
-            ],
-            "points": 1415.5
-        },
-        {
-            "constructorId": "invicta",
-            "name": "Invicta",
-            "seasons": [
-                "2021",
-                "2023",
-                "2024",
-                "2025",
-                "2026"
-            ],
-            "points": 1365.5
-        },
-        {
             "constructorId": "art",
-            "name": "Art Grand Prix",
+            "name": "ART Grand Prix",
             "seasons": [
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020",
                 "2021",
                 "2022",
                 "2023",
@@ -885,12 +2968,100 @@
                 "2025",
                 "2026"
             ],
-            "points": 1285
+            "points": 4581
+        },
+        {
+            "constructorId": "dams",
+            "name": "DAMS",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020",
+                "2021",
+                "2022",
+                "2023",
+                "2024",
+                "2025",
+                "2026"
+            ],
+            "points": 3799.5
+        },
+        {
+            "constructorId": "prema",
+            "name": "Prema Racing",
+            "seasons": [
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020",
+                "2021",
+                "2022",
+                "2023",
+                "2024",
+                "2025",
+                "2026"
+            ],
+            "points": 2916.5
+        },
+        {
+            "constructorId": "carlin",
+            "name": "Carlin",
+            "seasons": [
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2018",
+                "2019",
+                "2020",
+                "2021",
+                "2022",
+                "2023"
+            ],
+            "points": 2533.5
+        },
+        {
+            "constructorId": "virtuosi",
+            "name": "UNI-Virtuosi",
+            "seasons": [
+                "2019",
+                "2020",
+                "2021",
+                "2022",
+                "2023",
+                "2024",
+                "2025"
+            ],
+            "points": 1902.0
         },
         {
             "constructorId": "mp",
             "name": "MP Motorsport",
             "seasons": [
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020",
                 "2021",
                 "2022",
                 "2023",
@@ -898,12 +3069,97 @@
                 "2025",
                 "2026"
             ],
-            "points": 1179.5
+            "points": 1861.5
         },
         {
-            "constructorId": "hitech",
-            "name": "Hitech TGR",
+            "constructorId": "adrian_campos_motorsport",
+            "name": "Campos Racing",
             "seasons": [
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020",
+                "2021",
+                "2022",
+                "2023",
+                "2024",
+                "2025"
+            ],
+            "points": 1773.0
+        },
+        {
+            "constructorId": "racing_engineering",
+            "name": "Racing Engineering",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+            ],
+            "points": 1725.0
+        },
+        {
+            "constructorId": "russian_time",
+            "name": "Russian Time",
+            "seasons": [
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018"
+            ],
+            "points": 1521
+        },
+        {
+            "constructorId": "hitech_racing",
+            "name": "HiTech Piquet",
+            "seasons": [
+                "2005",
+                "2020",
+                "2021",
+                "2022",
+                "2023",
+                "2024",
+                "2025"
+            ],
+            "points": 1318
+        },
+        {
+            "constructorId": "trident",
+            "name": "Trident Racing",
+            "seasons": [
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020",
                 "2021",
                 "2022",
                 "2023",
@@ -911,57 +3167,95 @@
                 "2025",
                 "2026"
             ],
-            "points": 1118
+            "points": 1116
+        },
+        {
+            "constructorId": "arden",
+            "name": "Arden International",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019"
+            ],
+            "points": 1022
+        },
+        {
+            "constructorId": "campos",
+            "name": "Barwa Addax Team",
+            "seasons": [
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2026"
+            ],
+            "points": 819
+        },
+        {
+            "constructorId": "rapax",
+            "name": "Rapax",
+            "seasons": [
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+            ],
+            "points": 788
+        },
+        {
+            "constructorId": "isport_international",
+            "name": "iSport International",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012"
+            ],
+            "points": 775.5
         },
         {
             "constructorId": "rodin",
             "name": "Rodin Motorsport",
             "seasons": [
-                "2021",
                 "2024",
                 "2025",
                 "2026"
             ],
-            "points": 1114.5
+            "points": 622
         },
         {
-            "constructorId": "campos",
-            "name": "Campos",
+            "constructorId": "charouz_racing",
+            "name": "Charouz Racing System",
             "seasons": [
+                "2018",
+                "2019",
+                "2020",
                 "2021",
                 "2022",
-                "2023",
-                "2024",
-                "2025",
-                "2026"
+                "2023"
             ],
-            "points": 1077.5
-        },
-        {
-            "constructorId": "dams",
-            "name": "Dams Lucas Oil",
-            "seasons": [
-                "2021",
-                "2022",
-                "2023",
-                "2024",
-                "2025",
-                "2026"
-            ],
-            "points": 998
-        },
-        {
-            "constructorId": "trident",
-            "name": "Trident",
-            "seasons": [
-                "2021",
-                "2022",
-                "2023",
-                "2024",
-                "2025",
-                "2026"
-            ],
-            "points": 421
+            "points": 620
         },
         {
             "constructorId": "var",
@@ -976,17 +3270,51 @@
             "points": 375
         },
         {
-            "constructorId": "carlin",
-            "name": "carlin",
+            "constructorId": "super_nova_racing",
+            "name": "Super Nova Racing",
             "seasons": [
-                "2022",
-                "2023"
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011"
+            ],
+            "points": 363
+        },
+        {
+            "constructorId": "caterham_racing",
+            "name": "Caterham Racing",
+            "seasons": [
+                "2012",
+                "2013",
+                "2014"
+            ],
+            "points": 303
+        },
+        {
+            "constructorId": "invicta",
+            "name": "Invicta",
+            "seasons": [
+                "2026"
             ],
             "points": 297
         },
         {
+            "constructorId": "piquet_sports",
+            "name": "Piquet Sports",
+            "seasons": [
+                "2005",
+                "2006",
+                "2008",
+                "2009"
+            ],
+            "points": 272
+        },
+        {
             "constructorId": "aix",
-            "name": "AIX Racing",
+            "name": "PHM AIX Racing",
             "seasons": [
                 "2024",
                 "2025",
@@ -995,37 +3323,136 @@
             "points": 250
         },
         {
-            "constructorId": "charouz",
-            "name": "charouz",
+            "constructorId": "hilmer_motorsport",
+            "name": "Hilmer Motorsport",
             "seasons": [
-                "2021",
-                "2022"
+                "2013",
+                "2014",
+                "2015"
             ],
-            "points": 158
+            "points": 207
         },
         {
-            "constructorId": "virtuosi",
-            "name": "virtuosi",
+            "constructorId": "coloni",
+            "name": "Coloni Motorsport",
             "seasons": [
-                "2022"
+                "2005",
+                "2009",
+                "2010",
+                "2011",
+                "2012"
             ],
-            "points": 134
+            "points": 186
         },
         {
-            "constructorId": "hwa",
-            "name": "hwa",
+            "constructorId": "fisichella_motorsport",
+            "name": "Fisichella Motorsport",
             "seasons": [
+                "2006",
+                "2007",
+                "2008",
+                "2009"
+            ],
+            "points": 118
+        },
+        {
+            "constructorId": "hitech",
+            "name": "Hitech TGR",
+            "seasons": [
+                "2026"
+            ],
+            "points": 96
+        },
+        {
+            "constructorId": "durango",
+            "name": "Durango Formula",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009"
+            ],
+            "points": 95
+        },
+        {
+            "constructorId": "dave_price_racing",
+            "name": "Dave Price Racing",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010"
+            ],
+            "points": 87
+        },
+        {
+            "constructorId": "ocean_racing_technology",
+            "name": "Ocean Racing Technology",
+            "seasons": [
+                "2009",
+                "2010",
+                "2011",
+                "2012"
+            ],
+            "points": 81
+        },
+        {
+            "constructorId": "bcn_competicion",
+            "name": "BCN Competicion",
+            "seasons": [
+                "2005",
+                "2006",
+                "2007",
+                "2008"
+            ],
+            "points": 66
+        },
+        {
+            "constructorId": "lazarus",
+            "name": "Venezuela GP Lazarus",
+            "seasons": [
+                "2012",
+                "2013",
+                "2014",
+                "2015"
+            ],
+            "points": 63
+        },
+        {
+            "constructorId": "status_grand_prix",
+            "name": "Status Grand Prix",
+            "seasons": [
+                "2015"
+            ],
+            "points": 60
+        },
+        {
+            "constructorId": "team_airasia",
+            "name": "Team AirAsia",
+            "seasons": [
+                "2011"
+            ],
+            "points": 49
+        },
+        {
+            "constructorId": "hwa_team",
+            "name": "BWT HWA Racelab",
+            "seasons": [
+                "2020",
                 "2021"
             ],
-            "points": 9
+            "points": 22
         },
         {
-            "constructorId": "phm",
-            "name": "phm",
+            "constructorId": "minardi_piquet_sports",
+            "name": "Minardi Piquet Sports",
             "seasons": [
-                "2023"
+                "2007"
             ],
-            "points": 0
+            "points": 22
         }
     ]
 }

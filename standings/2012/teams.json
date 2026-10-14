@@ -1,0 +1,89 @@
+{
+    "season": "2012",
+    "series": "gp2",
+    "championship": "GP2 Series",
+    "source": "motorsportmagazine.com",
+    "lastRound": 12,
+    "scheduledRounds": 12,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "constructorId": "dams",
+            "team": "DAMS",
+            "points": "342"
+        },
+        {
+            "position": "2",
+            "constructorId": "art",
+            "team": "Lotus GP",
+            "points": "336"
+        },
+        {
+            "position": "3",
+            "constructorId": "arden",
+            "team": "Arden International",
+            "points": "226"
+        },
+        {
+            "position": "4",
+            "constructorId": "racing_engineering",
+            "team": "Racing Engineering",
+            "points": "212"
+        },
+        {
+            "position": "5",
+            "constructorId": "carlin",
+            "team": "Carlin",
+            "points": "207"
+        },
+        {
+            "position": "6",
+            "constructorId": "isport_international",
+            "team": "iSport International",
+            "points": "202"
+        },
+        {
+            "position": "7",
+            "constructorId": "caterham_racing",
+            "team": "Caterham Racing",
+            "points": "166"
+        },
+        {
+            "position": "8",
+            "constructorId": "campos",
+            "team": "Barwa Addax Team",
+            "points": "131"
+        },
+        {
+            "position": "9",
+            "constructorId": "coloni",
+            "team": "Scuderia Coloni",
+            "points": "77"
+        },
+        {
+            "position": "10",
+            "constructorId": "rapax",
+            "team": "Rapax",
+            "points": "44"
+        },
+        {
+            "position": "11",
+            "constructorId": "trident",
+            "team": "Trident Racing",
+            "points": "34"
+        },
+        {
+            "position": "12",
+            "constructorId": "ocean_racing_technology",
+            "team": "Ocean Racing Technology",
+            "points": "26"
+        },
+        {
+            "position": "13",
+            "constructorId": "lazarus",
+            "team": "Venezuela GP Lazarus",
+            "points": "1"
+        }
+    ]
+}

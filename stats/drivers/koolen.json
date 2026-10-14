@@ -1,6 +1,6 @@
 {
     "driverId": "koolen",
-    "name": "N. Koolen",
+    "name": "Niels Koolen",
     "code": "",
     "series": "f2",
     "seasons": [
@@ -22,7 +22,10 @@
         "bestFinish": 19,
         "avgFinish": 19.33,
         "titles": 0,
-        "bestChampionship": 32
+        "bestChampionship": 32,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2024": {
@@ -41,7 +44,9 @@
             "bestFinish": 19,
             "avgFinish": 19.33,
             "championshipPosition": 32,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [

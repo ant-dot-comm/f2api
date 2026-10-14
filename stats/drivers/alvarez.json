@@ -1,0 +1,330 @@
+{
+    "driverId": "alvarez",
+    "name": "Juan Cruz Alvarez",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2005"
+    ],
+    "career": {
+        "entries": 23,
+        "starts": 23,
+        "points": 4.5,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 9,
+        "bestFinish": 5,
+        "avgFinish": 11.21,
+        "titles": 0,
+        "bestChampionship": 18,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2005": {
+            "entries": 23,
+            "starts": 23,
+            "points": 4.5,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 9,
+            "bestFinish": 5,
+            "avgFinish": 11.21,
+            "championshipPosition": 18,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2005",
+            "round": "1",
+            "raceName": "Emilia Romagna Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "20",
+            "position": "7",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "1",
+            "raceName": "Emilia Romagna Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "10",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "2",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "22",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "2",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "6",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "3",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "12",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "4",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "18",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "4",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "15",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "5",
+            "raceName": "French Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "5",
+            "raceName": "French Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "18",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "6",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "6",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "13",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "7",
+            "raceName": "German Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "7",
+            "raceName": "German Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "19",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "8",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "17",
+            "position": "7",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "8",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "11",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "9",
+            "raceName": "Turkish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "9",
+            "raceName": "Turkish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "11",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "10",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "12",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "10",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "18",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "11",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "4",
+            "position": "6",
+            "status": "Finished",
+            "points": "0.5"
+        },
+        {
+            "season": "2005",
+            "round": "11",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "21",
+            "position": "5",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2005",
+            "round": "12",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "10",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2005",
+            "round": "12",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "15",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+{
+    "driverId": "hulkenberg",
+    "name": "Nico Hülkenberg",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2009"
+    ],
+    "career": {
+        "entries": 20,
+        "starts": 20,
+        "points": 100,
+        "wins": {
+            "total": 5,
+            "sprint": 2,
+            "feature": 3
+        },
+        "podiums": {
+            "total": 10,
+            "sprint": 4,
+            "feature": 6
+        },
+        "poles": 3,
+        "fastestLaps": 5,
+        "dnfs": 1,
+        "bestFinish": 1,
+        "avgFinish": 4.68,
+        "titles": 1,
+        "bestChampionship": 1,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2009": {
+            "entries": 20,
+            "starts": 20,
+            "points": 100,
+            "wins": {
+                "total": 5,
+                "sprint": 2,
+                "feature": 3
+            },
+            "podiums": {
+                "total": 10,
+                "sprint": 4,
+                "feature": 6
+            },
+            "poles": 3,
+            "fastestLaps": 5,
+            "dnfs": 1,
+            "bestFinish": 1,
+            "avgFinish": 4.68,
+            "championshipPosition": 1,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2009",
+            "round": "1",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "9",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "1",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "4",
+            "position": "9",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "4",
+            "position": "3",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2009",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "3",
+            "position": "5",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2009",
+            "round": "3",
+            "raceName": "Turkish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "4",
+            "position": "4",
+            "status": "Finished",
+            "points": "3"
+        },
+        {
+            "season": "2009",
+            "round": "3",
+            "raceName": "Turkish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "1",
+            "position": "5",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2009",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "6",
+            "position": "5",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2009",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "7",
+            "position": "3",
+            "status": "Finished",
+            "points": "7"
+        },
+        {
+            "season": "2009",
+            "round": "5",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "8",
+            "position": "1",
+            "status": "Finished",
+            "points": "7"
+        },
+        {
+            "season": "2009",
+            "round": "5",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "1",
+            "position": "1",
+            "status": "Finished",
+            "points": "13"
+        },
+        {
+            "season": "2009",
+            "round": "6",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "8",
+            "position": "7",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "6",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "5",
+            "position": "1",
+            "status": "Finished",
+            "points": "11"
+        },
+        {
+            "season": "2009",
+            "round": "7",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "7",
+            "position": "1",
+            "status": "Finished",
+            "points": "7"
+        },
+        {
+            "season": "2009",
+            "round": "7",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "1",
+            "position": "2",
+            "status": "Finished",
+            "points": "11"
+        },
+        {
+            "season": "2009",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "2",
+            "position": "2",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2009",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "3",
+            "position": "3",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2009",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "3",
+            "position": "6",
+            "status": "Finished",
+            "points": "3"
+        },
+        {
+            "season": "2009",
+            "round": "10",
+            "raceName": "Portuguese Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "8",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "10",
+            "raceName": "Portuguese Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "3",
+            "position": "1",
+            "status": "Finished",
+            "points": "10"
+        }
+    ]
+}

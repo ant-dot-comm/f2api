@@ -1,0 +1,78 @@
+{
+    "driverId": "o_ward",
+    "name": "Pato O'Ward",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2019"
+    ],
+    "career": {
+        "entries": 2,
+        "starts": 2,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 0,
+        "bestFinish": 14,
+        "avgFinish": 16.5,
+        "titles": 0,
+        "bestChampionship": 26,
+        "eras": [
+            "f2"
+        ]
+    },
+    "bySeasons": {
+        "2019": {
+            "entries": 2,
+            "starts": 2,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 0,
+            "bestFinish": 14,
+            "avgFinish": 16.5,
+            "championshipPosition": 26,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        }
+    },
+    "results": [
+        {
+            "season": "2019",
+            "round": "6",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "mp",
+            "grid": "19",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "6",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "mp",
+            "grid": "17",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

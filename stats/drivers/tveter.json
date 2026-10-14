@@ -1,0 +1,78 @@
+{
+    "driverId": "tveter",
+    "name": "Ryan Tveter",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2019"
+    ],
+    "career": {
+        "entries": 2,
+        "starts": 2,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 0,
+        "bestFinish": 15,
+        "avgFinish": 16.0,
+        "titles": 0,
+        "bestChampionship": 27,
+        "eras": [
+            "f2"
+        ]
+    },
+    "bySeasons": {
+        "2019": {
+            "entries": 2,
+            "starts": 2,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 0,
+            "bestFinish": 15,
+            "avgFinish": 16.0,
+            "championshipPosition": 27,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        }
+    },
+    "results": [
+        {
+            "season": "2019",
+            "round": "6",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "15",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "6",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "19",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

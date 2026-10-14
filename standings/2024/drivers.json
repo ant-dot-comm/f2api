@@ -1,7 +1,8 @@
 {
     "season": "2024",
     "series": "f2",
-    "source": "FIA Driver/Team Championship PDF (Yas Marina 2024)",
+    "championship": "FIA Formula 2 Championship",
+    "source": "motorsportmagazine.com",
     "lastRound": 14,
     "scheduledRounds": 14,
     "complete": true,
@@ -9,193 +10,193 @@
         {
             "position": "1",
             "driverId": "bortoleto",
-            "driver": "G. Bortoleto",
+            "driver": "Gabriel Bortoleto",
             "points": "214.5"
         },
         {
             "position": "2",
             "driverId": "hadjar",
-            "driver": "I. Hadjar",
+            "driver": "Isack Hadjar",
             "points": "192"
         },
         {
             "position": "3",
             "driverId": "aron",
-            "driver": "P. Aron",
+            "driver": "Paul Aron",
             "points": "163"
         },
         {
             "position": "4",
             "driverId": "maloney",
-            "driver": "Z. Maloney",
+            "driver": "Zane Maloney",
             "points": "140"
         },
         {
             "position": "5",
             "driverId": "crawford",
-            "driver": "J. Crawford",
+            "driver": "Jak Crawford",
             "points": "125"
         },
         {
             "position": "6",
             "driverId": "antonelli",
-            "driver": "A. Antonelli",
+            "driver": "Andrea Kimi Antonelli",
             "points": "113"
         },
         {
             "position": "7",
             "driverId": "martins",
-            "driver": "V. Martins",
+            "driver": "Victor Martins",
             "points": "107"
         },
         {
             "position": "8",
             "driverId": "verschoor",
-            "driver": "R. Verschoor",
+            "driver": "Richard Verschoor",
             "points": "106"
         },
         {
             "position": "9",
             "driverId": "colapinto",
-            "driver": "F. Colapinto",
+            "driver": "Franco Colapinto",
             "points": "96"
         },
         {
             "position": "10",
             "driverId": "durksen",
-            "driver": "J. Durksen",
+            "driver": "Joshua Durksen",
             "points": "87"
         },
         {
             "position": "11",
             "driverId": "hauger",
-            "driver": "D. Hauger",
+            "driver": "Dennis Hauger",
             "points": "85.5"
         },
         {
             "position": "12",
             "driverId": "bearman",
-            "driver": "O. Bearman",
+            "driver": "Oliver Bearman",
             "points": "75"
         },
         {
             "position": "13",
             "driverId": "maini",
-            "driver": "K. Maini",
+            "driver": "Kush Maini",
             "points": "74"
         },
         {
             "position": "14",
             "driverId": "marti",
-            "driver": "J. Marti",
+            "driver": "Josep Maria Marti",
             "points": "62"
         },
         {
             "position": "15",
             "driverId": "fittipaldi",
-            "driver": "E. Fittipaldi",
+            "driver": "Enzo Fittipaldi",
             "points": "61"
         },
         {
             "position": "16",
             "driverId": "o_sullivan",
-            "driver": "Z. O'Sullivan",
+            "driver": "Zak O'Sullivan",
             "points": "59"
         },
         {
             "position": "17",
             "driverId": "cordeel",
-            "driver": "A. Cordeel",
+            "driver": "Amaury Cordeel",
             "points": "39"
         },
         {
             "position": "18",
             "driverId": "correa",
-            "driver": "J. Correa",
+            "driver": "Juan Manuel Correa",
             "points": "31"
         },
         {
             "position": "19",
             "driverId": "miyata",
-            "driver": "R. Miyata",
+            "driver": "Ritomo Miyata",
             "points": "31"
         },
         {
             "position": "20",
             "driverId": "beganovic",
-            "driver": "D. Beganovic",
+            "driver": "Dino Beganovic",
             "points": "22"
         },
         {
             "position": "21",
             "driverId": "barnard",
-            "driver": "T. Barnard",
+            "driver": "Taylor Barnard",
             "points": "18"
         },
         {
             "position": "22",
             "driverId": "stanek",
-            "driver": "R. Stanek",
+            "driver": "Roman Stanek",
             "points": "14"
         },
         {
             "position": "23",
             "driverId": "goethe",
-            "driver": "O. Goethe",
+            "driver": "Oliver Goethe",
             "points": "14"
         },
         {
             "position": "24",
             "driverId": "villagomez",
-            "driver": "R. Villagomez",
+            "driver": "Rafael Villagomez",
             "points": "13"
         },
         {
             "position": "25",
             "driverId": "mansell",
-            "driver": "C. Mansell",
+            "driver": "Christian Mansell",
             "points": "10"
         },
         {
             "position": "26",
             "driverId": "browning",
-            "driver": "L. Browning",
+            "driver": "Luke Browning",
             "points": "7"
         },
         {
             "position": "27",
             "driverId": "mini",
-            "driver": "G. Mini",
+            "driver": "Gabriele Mini",
             "points": "6"
         },
         {
             "position": "28",
             "driverId": "bennett",
-            "driver": "J. Bennett",
+            "driver": "John Bennett",
             "points": "4"
         },
         {
             "position": "29",
             "driverId": "fornaroli",
-            "driver": "L. Fornaroli",
+            "driver": "Leonardo Fornaroli",
             "points": "0"
         },
         {
             "position": "30",
             "driverId": "shields",
-            "driver": "C. Shields",
+            "driver": "Cian Shields",
             "points": "0"
         },
         {
             "position": "31",
             "driverId": "esterson",
-            "driver": "M. Esterson",
+            "driver": "Max Esterson",
             "points": "0"
         },
         {
             "position": "32",
             "driverId": "koolen",
-            "driver": "N. Koolen",
+            "driver": "Niels Koolen",
             "points": "0"
         }
     ]

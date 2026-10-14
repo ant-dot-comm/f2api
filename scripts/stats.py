@@ -127,6 +127,8 @@ def build():
     names, dcon = {}, {}      # driverId -> {name,code}; (driverId,season) -> constructorId
     team_names = {}           # constructorId -> display name
     season_complete = {}      # year -> bool (season finished, so a P1 is a real title)
+    season_era = {}           # year -> "gp2"/"f2" (championship era label)
+    season_champ = {}         # year -> championship display name
     drv = {}   # driverId -> {"name","code","seasons":{yr:stats},"results":[], "champ":{yr:pos},"points":{yr:n}}
     team = {}  # constructorId -> {"name","seasons":{yr:stats},"champ":{},"points":{},"drivers":set()}
 
@@ -147,8 +149,14 @@ def build():
         sd = _load(os.path.join(REPO, "standings", yr, "drivers.json"))
         st = _load(os.path.join(REPO, "standings", yr, "teams.json"))
         season_complete[yr] = bool(sd.get("complete")) if sd else False
+        season_era[yr] = (sd.get("series") if sd else None) or SERIES
+        season_champ[yr] = (sd.get("championship") if sd else None)
         champ_d = {e["driverId"]: (e["position"], e["points"]) for e in sd["Standings"]} if sd else {}
         champ_t = {e["constructorId"]: (e["position"], e["points"]) for e in st["Standings"]} if st else {}
+        if st:
+            for e in st["Standings"]:
+                if e.get("team"):
+                    team_names.setdefault(e["constructorId"], e["team"])
 
         for rnd in res:
             rno = rnd["round"]
@@ -203,6 +211,8 @@ def build():
             so["points"] = pts
             so["championshipPosition"] = champ
             so["complete"] = season_complete.get(yr, False)
+            so["era"] = season_era.get(yr, SERIES)
+            so["championship"] = season_champ.get(yr)
             season_out[yr] = so
         career = _finalize(career)
         career["points"] = sum(ds.get("points", {}).values())
@@ -211,6 +221,7 @@ def build():
         career["titles"] = len(champs)
         allpos = [p for p in ds.get("champ", {}).values()]
         career["bestChampionship"] = min(allpos) if allpos else None
+        career["eras"] = sorted({season_era.get(yr, SERIES) for yr in ds["seasons"]})
         meta = names.get(did, {"name": did, "code": ""})
         doc = {"driverId": did, "name": meta["name"], "code": meta["code"],
                "series": SERIES, "seasons": sorted(ds["seasons"]),
@@ -228,6 +239,8 @@ def build():
             so["points"] = ts.get("points", {}).get(yr, 0)
             so["championshipPosition"] = ts.get("champ", {}).get(yr)
             so["complete"] = season_complete.get(yr, False)
+            so["era"] = season_era.get(yr, SERIES)
+            so["championship"] = season_champ.get(yr)
             season_out[yr] = so
         career = _finalize(career)
         career["points"] = sum(ts.get("points", {}).values())
@@ -235,6 +248,7 @@ def build():
                                 if p == 1 and season_complete.get(y)])
         allpos = list(ts.get("champ", {}).values())
         career["bestChampionship"] = min(allpos) if allpos else None
+        career["eras"] = sorted({season_era.get(yr, SERIES) for yr in ts["seasons"]})
         doc = {"constructorId": cid, "name": team_names.get(cid, cid), "series": SERIES,
                "seasons": sorted(ts["seasons"]), "career": career, "bySeasons": season_out,
                "drivers": sorted(ts["drivers"])}

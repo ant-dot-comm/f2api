@@ -1,0 +1,170 @@
+{
+    "constructorId": "coloni",
+    "name": "Coloni Motorsport",
+    "series": "f2",
+    "seasons": [
+        "2005",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "career": {
+        "entries": 186,
+        "starts": 186,
+        "points": 186,
+        "wins": {
+            "total": 6,
+            "feature": 4,
+            "sprint": 2
+        },
+        "podiums": {
+            "total": 11,
+            "feature": 7,
+            "sprint": 4
+        },
+        "poles": 1,
+        "fastestLaps": 8,
+        "dnfs": 45,
+        "bestFinish": 1,
+        "avgFinish": 12.86,
+        "titles": 0,
+        "bestChampionship": 7,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2005": {
+            "entries": 46,
+            "starts": 46,
+            "points": 36,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 2,
+                "feature": 2
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 9,
+            "bestFinish": 1,
+            "avgFinish": 12.19,
+            "championshipPosition": 7,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2009": {
+            "entries": 16,
+            "starts": 16,
+            "points": 9,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 10.78,
+            "championshipPosition": 12,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2010": {
+            "entries": 40,
+            "starts": 40,
+            "points": 18,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 1,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 10,
+            "bestFinish": 2,
+            "avgFinish": 13.4,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2011": {
+            "entries": 36,
+            "starts": 36,
+            "points": 46,
+            "wins": {
+                "total": 3,
+                "feature": 2,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 4,
+                "sprint": 2,
+                "feature": 2
+            },
+            "poles": 0,
+            "fastestLaps": 3,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 11.46,
+            "championshipPosition": 7,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2012": {
+            "entries": 48,
+            "starts": 48,
+            "points": 77,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 2,
+                "feature": 2
+            },
+            "poles": 1,
+            "fastestLaps": 3,
+            "dnfs": 11,
+            "bestFinish": 1,
+            "avgFinish": 14.65,
+            "championshipPosition": 9,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "arabadjiev",
+        "bruni",
+        "ceccon",
+        "coletti",
+        "filippi",
+        "hartley",
+        "herck",
+        "jakes",
+        "lauda",
+        "monfardini",
+        "onidi",
+        "parente",
+        "razia",
+        "rigon",
+        "valerio",
+        "vilander",
+        "zuber"
+    ]
+}

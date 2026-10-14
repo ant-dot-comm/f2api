@@ -1,0 +1,89 @@
+{
+    "season": "2008",
+    "series": "gp2",
+    "championship": "GP2 Series",
+    "source": "motorsportmagazine.com",
+    "lastRound": 10,
+    "scheduledRounds": 10,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "constructorId": "adrian_campos_motorsport",
+            "team": "Campos Racing",
+            "points": "103"
+        },
+        {
+            "position": "2",
+            "constructorId": "isport_international",
+            "team": "iSport International",
+            "points": "95"
+        },
+        {
+            "position": "3",
+            "constructorId": "piquet_sports",
+            "team": "Piquet Sports",
+            "points": "92"
+        },
+        {
+            "position": "4",
+            "constructorId": "racing_engineering",
+            "team": "Racing Engineering",
+            "points": "84"
+        },
+        {
+            "position": "5",
+            "constructorId": "art",
+            "team": "ART Grand Prix",
+            "points": "70"
+        },
+        {
+            "position": "6",
+            "constructorId": "arden",
+            "team": "Arden International",
+            "points": "56"
+        },
+        {
+            "position": "7",
+            "constructorId": "super_nova_racing",
+            "team": "Super Nova Racing",
+            "points": "47"
+        },
+        {
+            "position": "8",
+            "constructorId": "dams",
+            "team": "DAMS",
+            "points": "31"
+        },
+        {
+            "position": "9",
+            "constructorId": "trident",
+            "team": "Trident Racing",
+            "points": "27"
+        },
+        {
+            "position": "10",
+            "constructorId": "fisichella_motorsport",
+            "team": "Fisichella Motorsport",
+            "points": "15"
+        },
+        {
+            "position": "11",
+            "constructorId": "durango",
+            "team": "Durango Formula",
+            "points": "11"
+        },
+        {
+            "position": "12",
+            "constructorId": "bcn_competicion",
+            "team": "BCN Competicion",
+            "points": "5"
+        },
+        {
+            "position": "13",
+            "constructorId": "dave_price_racing",
+            "team": "Dave Price Racing",
+            "points": "4"
+        }
+    ]
+}

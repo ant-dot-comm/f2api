@@ -1,0 +1,61 @@
+{
+    "constructorId": "team_airasia",
+    "name": "Team AirAsia",
+    "series": "f2",
+    "seasons": [
+        "2011"
+    ],
+    "career": {
+        "entries": 36,
+        "starts": 36,
+        "points": 49,
+        "wins": {
+            "total": 1,
+            "feature": 1
+        },
+        "podiums": {
+            "total": 4,
+            "feature": 3,
+            "sprint": 1
+        },
+        "poles": 1,
+        "fastestLaps": 1,
+        "dnfs": 8,
+        "bestFinish": 1,
+        "avgFinish": 10.46,
+        "titles": 0,
+        "bestChampionship": 6,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2011": {
+            "entries": 36,
+            "starts": 36,
+            "points": 49,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 4,
+                "feature": 3,
+                "sprint": 1
+            },
+            "poles": 1,
+            "fastestLaps": 1,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 10.46,
+            "championshipPosition": 6,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "razia",
+        "valsecchi"
+    ]
+}

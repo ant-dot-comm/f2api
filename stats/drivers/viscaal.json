@@ -19,11 +19,14 @@
         },
         "poles": 0,
         "fastestLaps": 0,
-        "dnfs": 4,
+        "dnfs": 3,
         "bestFinish": 2,
-        "avgFinish": 10.79,
+        "avgFinish": 11.0,
         "titles": 0,
-        "bestChampionship": 14
+        "bestChampionship": 14,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2021": {
@@ -39,11 +42,13 @@
             },
             "poles": 0,
             "fastestLaps": 0,
-            "dnfs": 4,
+            "dnfs": 3,
             "bestFinish": 2,
-            "avgFinish": 10.79,
+            "avgFinish": 11.0,
             "championshipPosition": 14,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
@@ -55,7 +60,7 @@
             "type": "sprint",
             "constructorId": "trident",
             "grid": "15",
-            "position": "12",
+            "position": "13",
             "status": "Finished",
             "points": "0"
         },
@@ -66,8 +71,8 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "12",
-            "position": "13",
+            "grid": "13",
+            "position": "12",
             "status": "Finished",
             "points": "0"
         },
@@ -90,8 +95,8 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "3",
-            "position": "11",
+            "grid": "15",
+            "position": "14",
             "status": "Finished",
             "points": "0"
         },
@@ -102,8 +107,8 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "11",
-            "position": "14",
+            "grid": "14",
+            "position": "11",
             "status": "Finished",
             "points": "0"
         },
@@ -114,7 +119,7 @@
             "race": "race3",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "8",
+            "grid": "15",
             "position": "11",
             "status": "Finished",
             "points": "0"
@@ -126,10 +131,10 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "15",
-            "position": "4",
+            "grid": "13",
+            "position": "10",
             "status": "Finished",
-            "points": "8"
+            "points": "0"
         },
         {
             "season": "2021",
@@ -138,10 +143,10 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "7",
-            "position": "10",
+            "grid": "1",
+            "position": "4",
             "status": "Finished",
-            "points": "0"
+            "points": "8"
         },
         {
             "season": "2021",
@@ -163,8 +168,8 @@
             "type": "sprint",
             "constructorId": "trident",
             "grid": "17",
-            "position": "NC",
-            "status": "DNF",
+            "position": "16",
+            "status": "Finished",
             "points": "0"
         },
         {
@@ -175,8 +180,8 @@
             "type": "sprint",
             "constructorId": "trident",
             "grid": "",
-            "position": "16",
-            "status": "Finished",
+            "position": "NC",
+            "status": "DNF",
             "points": "0"
         },
         {
@@ -199,9 +204,9 @@
             "type": "sprint",
             "constructorId": "trident",
             "grid": "18",
-            "position": "2",
+            "position": "7",
             "status": "Finished",
-            "points": "12"
+            "points": "2"
         },
         {
             "season": "2021",
@@ -210,10 +215,10 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "9",
-            "position": "7",
+            "grid": "4",
+            "position": "2",
             "status": "Finished",
-            "points": "2"
+            "points": "12"
         },
         {
             "season": "2021",
@@ -223,8 +228,8 @@
             "type": "feature",
             "constructorId": "trident",
             "grid": "18",
-            "position": "NC",
-            "status": "DNF",
+            "position": "15",
+            "status": "Finished",
             "points": "0"
         },
         {
@@ -234,7 +239,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "16",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -243,8 +248,8 @@
             "season": "2021",
             "round": "6",
             "raceName": "Russian Grand Prix",
-            "race": "race3",
-            "type": "feature",
+            "race": "race2",
+            "type": "sprint",
             "constructorId": "trident",
             "grid": "16",
             "position": "NC",
@@ -259,9 +264,9 @@
             "type": "sprint",
             "constructorId": "trident",
             "grid": "14",
-            "position": "2",
+            "position": "9",
             "status": "Finished",
-            "points": "12"
+            "points": "0"
         },
         {
             "season": "2021",
@@ -270,10 +275,10 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "9",
-            "position": "9",
+            "grid": "2",
+            "position": "2",
             "status": "Finished",
-            "points": "0"
+            "points": "12"
         },
         {
             "season": "2021",
@@ -295,7 +300,7 @@
             "type": "sprint",
             "constructorId": "trident",
             "grid": "17",
-            "position": "10",
+            "position": "13",
             "status": "Finished",
             "points": "0"
         },
@@ -306,8 +311,8 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "1",
-            "position": "13",
+            "grid": "13",
+            "position": "10",
             "status": "Finished",
             "points": "0"
         },

@@ -1,0 +1,460 @@
+{
+    "driverId": "visoiu",
+    "name": "Robert Visoiu",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2015",
+        "2017"
+    ],
+    "career": {
+        "entries": 32,
+        "starts": 32,
+        "points": 21,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 1,
+        "dnfs": 4,
+        "bestFinish": 5,
+        "avgFinish": 13.36,
+        "titles": 0,
+        "bestChampionship": 17,
+        "eras": [
+            "f2",
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2015": {
+            "entries": 18,
+            "starts": 18,
+            "points": 20,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 1,
+            "bestFinish": 5,
+            "avgFinish": 12.65,
+            "championshipPosition": 17,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2017": {
+            "entries": 14,
+            "starts": 14,
+            "points": 1,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 3,
+            "bestFinish": 10,
+            "avgFinish": 14.45,
+            "championshipPosition": 24,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        }
+    },
+    "results": [
+        {
+            "season": "2015",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "rapax",
+            "grid": "4",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2015",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "rapax",
+            "grid": "14",
+            "position": "5",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2015",
+            "round": "2",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "rapax",
+            "grid": "18",
+            "position": "23",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2015",
+            "round": "2",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "rapax",
+            "grid": "17",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2015",
+            "round": "3",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "rapax",
+            "grid": "15",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2015",
+            "round": "3",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "rapax",
+            "grid": "26",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2015",
+            "round": "4",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "rapax",
+            "grid": "11",
+            "position": "9",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2015",
+            "round": "4",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "rapax",
+            "grid": "19",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2015",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "rapax",
+            "grid": "12",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2015",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "rapax",
+            "grid": "22",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2015",
+            "round": "6",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "rapax",
+            "grid": "9",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2015",
+            "round": "6",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "rapax",
+            "grid": "15",
+            "position": "9",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2015",
+            "round": "7",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "rapax",
+            "grid": "15",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2015",
+            "round": "7",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "rapax",
+            "grid": "13",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2015",
+            "round": "8",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "rapax",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2015",
+            "round": "8",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "rapax",
+            "grid": "11",
+            "position": "9",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2015",
+            "round": "9",
+            "raceName": "Russian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "rapax",
+            "grid": "24",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2015",
+            "round": "9",
+            "raceName": "Russian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "rapax",
+            "grid": "17",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "3",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "19",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "3",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "16",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "4",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "15",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "4",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "10",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "5",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "11",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "5",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "17",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "6",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "17",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "6",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "20",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "7",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "7",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "13",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "10",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "17",
+            "position": "10",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2017",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "16",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "19",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

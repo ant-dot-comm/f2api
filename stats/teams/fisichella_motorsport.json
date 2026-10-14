@@ -1,0 +1,141 @@
+{
+    "constructorId": "fisichella_motorsport",
+    "name": "Fisichella Motorsport",
+    "series": "f2",
+    "seasons": [
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "career": {
+        "entries": 148,
+        "starts": 148,
+        "points": 118,
+        "wins": {
+            "total": 5,
+            "sprint": 3,
+            "feature": 2
+        },
+        "podiums": {
+            "total": 13,
+            "sprint": 7,
+            "feature": 6
+        },
+        "poles": 0,
+        "fastestLaps": 2,
+        "dnfs": 53,
+        "bestFinish": 1,
+        "avgFinish": 11.66,
+        "titles": 0,
+        "bestChampionship": 5,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2006": {
+            "entries": 42,
+            "starts": 42,
+            "points": 46,
+            "wins": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 4,
+                "sprint": 2,
+                "feature": 2
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 15,
+            "bestFinish": 1,
+            "avgFinish": 10.33,
+            "championshipPosition": 5,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2007": {
+            "entries": 42,
+            "starts": 42,
+            "points": 37,
+            "wins": {
+                "total": 2,
+                "sprint": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 5,
+                "sprint": 3,
+                "feature": 2
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 14,
+            "bestFinish": 1,
+            "avgFinish": 11.86,
+            "championshipPosition": 9,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2008": {
+            "entries": 40,
+            "starts": 40,
+            "points": 15,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 15,
+            "bestFinish": 2,
+            "avgFinish": 13.04,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2009": {
+            "entries": 24,
+            "starts": 24,
+            "points": 20,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 3,
+                "feature": 2,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 9,
+            "bestFinish": 2,
+            "avgFinish": 11.4,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "asmer",
+        "carroll",
+        "filippi",
+        "pantano",
+        "pizzonia",
+        "razia",
+        "rodriguez",
+        "tahinci",
+        "valles",
+        "zuber"
+    ]
+}

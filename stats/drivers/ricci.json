@@ -1,0 +1,414 @@
+{
+    "driverId": "ricci",
+    "name": "Giacomo Ricci",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "career": {
+        "entries": 26,
+        "starts": 26,
+        "points": 16,
+        "wins": {
+            "total": 1,
+            "sprint": 1
+        },
+        "podiums": {
+            "total": 2,
+            "feature": 1,
+            "sprint": 1
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 11,
+        "bestFinish": 1,
+        "avgFinish": 11.87,
+        "titles": 0,
+        "bestChampionship": 13,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2008": {
+            "entries": 4,
+            "starts": 4,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 2,
+            "bestFinish": 11,
+            "avgFinish": 13.5,
+            "championshipPosition": null,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2009": {
+            "entries": 8,
+            "starts": 8,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 5,
+            "bestFinish": 14,
+            "avgFinish": 15.33,
+            "championshipPosition": null,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2010": {
+            "entries": 14,
+            "starts": 14,
+            "points": 16,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 2,
+                "feature": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 4,
+            "bestFinish": 1,
+            "avgFinish": 10.5,
+            "championshipPosition": 13,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2008",
+            "round": "1",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2008",
+            "round": "1",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "26",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2008",
+            "round": "2",
+            "raceName": "Turkish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "23",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2008",
+            "round": "2",
+            "raceName": "Turkish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "22",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "1",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "26",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "1",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "23",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "23",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "3",
+            "raceName": "Turkish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "3",
+            "raceName": "Turkish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "20",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2009",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "22",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "1",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "7",
+            "position": "8",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "1",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "12",
+            "position": "2",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2010",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "17",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "3",
+            "raceName": "Turkish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "20",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "3",
+            "raceName": "Turkish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "13",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "4",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "4",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "9",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "13",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "13",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "6",
+            "raceName": "German Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "16",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "6",
+            "raceName": "German Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "20",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "7",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dave_price_racing",
+            "grid": "1",
+            "position": "1",
+            "status": "Finished",
+            "points": "7"
+        },
+        {
+            "season": "2010",
+            "round": "7",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dave_price_racing",
+            "grid": "8",
+            "position": "8",
+            "status": "Finished",
+            "points": "1"
+        }
+    ]
+}

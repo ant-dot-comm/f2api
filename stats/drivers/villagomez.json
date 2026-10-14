@@ -24,9 +24,12 @@
         "fastestLaps": 0,
         "dnfs": 15,
         "bestFinish": 2,
-        "avgFinish": 12.69,
+        "avgFinish": 12.55,
         "titles": 0,
-        "bestChampionship": 13
+        "bestChampionship": 13,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2024": {
@@ -43,9 +46,11 @@
             "fastestLaps": 0,
             "dnfs": 5,
             "bestFinish": 7,
-            "avgFinish": 14.26,
+            "avgFinish": 14.22,
             "championshipPosition": 24,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2025": {
             "entries": 27,
@@ -62,9 +67,11 @@
             "fastestLaps": 0,
             "dnfs": 3,
             "bestFinish": 3,
-            "avgFinish": 11.62,
+            "avgFinish": 11.29,
             "championshipPosition": 14,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2026": {
             "entries": 25,
@@ -84,7 +91,9 @@
             "bestFinish": 2,
             "avgFinish": 12.11,
             "championshipPosition": 13,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "results": [
@@ -119,7 +128,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "21",
+            "grid": "22",
             "position": "14",
             "status": "Finished",
             "points": "0"
@@ -131,7 +140,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "21",
+            "grid": "22",
             "position": "9",
             "status": "Finished",
             "points": "2"
@@ -167,7 +176,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "18",
+            "grid": "19",
             "position": "11",
             "status": "Finished",
             "points": "0"
@@ -203,7 +212,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "21",
+            "grid": "22",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -251,7 +260,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "",
+            "grid": "18",
             "position": "16",
             "status": "Finished",
             "points": "0"
@@ -407,8 +416,8 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "16",
-            "position": "13",
+            "grid": "17",
+            "position": "12",
             "status": "Finished",
             "points": "0"
         },
@@ -419,7 +428,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "16",
+            "grid": "17",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -431,7 +440,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "20",
+            "grid": "12",
             "position": "13",
             "status": "Finished",
             "points": "0"
@@ -515,8 +524,8 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "",
-            "position": "16",
+            "grid": "22",
+            "position": "18",
             "status": "Finished",
             "points": "0"
         },
@@ -527,10 +536,10 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "",
-            "position": "18",
+            "grid": "22",
+            "position": "9",
             "status": "Finished",
-            "points": "0"
+            "points": "1"
         },
         {
             "season": "2025",
@@ -563,7 +572,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "",
+            "grid": "20",
             "position": "9",
             "status": "Finished",
             "points": "0"
@@ -575,7 +584,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "",
+            "grid": "20",
             "position": "11",
             "status": "Finished",
             "points": "0"
@@ -659,7 +668,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "20",
+            "grid": "16",
             "position": "12",
             "status": "Finished",
             "points": "0"
@@ -671,7 +680,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "20",
+            "grid": "16",
             "position": "4",
             "status": "Finished",
             "points": "12"
@@ -683,7 +692,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "6",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -695,7 +704,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "5",
+            "grid": "10",
             "position": "7",
             "status": "Finished",
             "points": "6"
@@ -732,7 +741,7 @@
             "type": "sprint",
             "constructorId": "var",
             "grid": "16",
-            "position": "16",
+            "position": "15",
             "status": "Finished",
             "points": "0"
         },

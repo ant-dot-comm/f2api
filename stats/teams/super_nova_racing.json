@@ -1,0 +1,213 @@
+{
+    "constructorId": "super_nova_racing",
+    "name": "Super Nova Racing",
+    "series": "f2",
+    "seasons": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "career": {
+        "entries": 286,
+        "starts": 286,
+        "points": 363,
+        "wins": {
+            "total": 7,
+            "sprint": 4,
+            "feature": 3
+        },
+        "podiums": {
+            "total": 35,
+            "sprint": 19,
+            "feature": 16
+        },
+        "poles": 4,
+        "fastestLaps": 4,
+        "dnfs": 76,
+        "bestFinish": 1,
+        "avgFinish": 9.15,
+        "titles": 0,
+        "bestChampionship": 3,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2005": {
+            "entries": 46,
+            "starts": 46,
+            "points": 102,
+            "wins": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 11,
+                "sprint": 7,
+                "feature": 4
+            },
+            "poles": 1,
+            "fastestLaps": 1,
+            "dnfs": 4,
+            "bestFinish": 1,
+            "avgFinish": 6.98,
+            "championshipPosition": 3,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2006": {
+            "entries": 42,
+            "starts": 42,
+            "points": 30,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "poles": 1,
+            "fastestLaps": 0,
+            "dnfs": 16,
+            "bestFinish": 2,
+            "avgFinish": 10.85,
+            "championshipPosition": 8,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2007": {
+            "entries": 42,
+            "starts": 42,
+            "points": 78,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 7,
+                "sprint": 3,
+                "feature": 4
+            },
+            "poles": 2,
+            "fastestLaps": 1,
+            "dnfs": 13,
+            "bestFinish": 1,
+            "avgFinish": 7.24,
+            "championshipPosition": 4,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2008": {
+            "entries": 40,
+            "starts": 40,
+            "points": 47,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 5,
+                "feature": 3,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 15,
+            "bestFinish": 1,
+            "avgFinish": 9.36,
+            "championshipPosition": 7,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2009": {
+            "entries": 40,
+            "starts": 40,
+            "points": 67,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 7,
+                "sprint": 4,
+                "feature": 3
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 11,
+            "bestFinish": 1,
+            "avgFinish": 8.0,
+            "championshipPosition": 3,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2010": {
+            "entries": 40,
+            "starts": 40,
+            "points": 19,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 10,
+            "bestFinish": 1,
+            "avgFinish": 10.63,
+            "championshipPosition": 9,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2011": {
+            "entries": 36,
+            "starts": 36,
+            "points": 20,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 1,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 7,
+            "bestFinish": 3,
+            "avgFinish": 12.1,
+            "championshipPosition": 9,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "bakkerud",
+        "carroll",
+        "conway",
+        "ericsson",
+        "fauzy",
+        "filippi",
+        "kral",
+        "lopez",
+        "pantano",
+        "parente",
+        "soucek",
+        "villa"
+    ]
+}

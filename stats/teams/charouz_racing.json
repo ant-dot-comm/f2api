@@ -1,0 +1,185 @@
+{
+    "constructorId": "charouz_racing",
+    "name": "Charouz Racing System",
+    "series": "f2",
+    "seasons": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+    ],
+    "career": {
+        "entries": 292,
+        "starts": 292,
+        "points": 620,
+        "wins": {
+            "total": 2,
+            "sprint": 2
+        },
+        "podiums": {
+            "total": 25,
+            "feature": 9,
+            "sprint": 16
+        },
+        "poles": 1,
+        "fastestLaps": 3,
+        "dnfs": 45,
+        "bestFinish": 1,
+        "avgFinish": 11.38,
+        "titles": 0,
+        "bestChampionship": 6,
+        "eras": [
+            "f2"
+        ]
+    },
+    "bySeasons": {
+        "2018": {
+            "entries": 48,
+            "starts": 48,
+            "points": 215,
+            "wins": {
+                "total": 2,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 8,
+                "feature": 4,
+                "sprint": 4
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 8.49,
+            "championshipPosition": 6,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2019": {
+            "entries": 42,
+            "starts": 42,
+            "points": 110,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 4,
+                "sprint": 4
+            },
+            "poles": 1,
+            "fastestLaps": 0,
+            "dnfs": 5,
+            "bestFinish": 2,
+            "avgFinish": 10.16,
+            "championshipPosition": 6,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2020": {
+            "entries": 48,
+            "starts": 48,
+            "points": 137,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 5,
+                "sprint": 4,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 0,
+            "bestFinish": 2,
+            "avgFinish": 10.92,
+            "championshipPosition": 7,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2021": {
+            "entries": 46,
+            "starts": 46,
+            "points": 28,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 10,
+            "bestFinish": 2,
+            "avgFinish": 12.69,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2022": {
+            "entries": 56,
+            "starts": 56,
+            "points": 130,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 6,
+                "feature": 4,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 14,
+            "bestFinish": 2,
+            "avgFinish": 11.14,
+            "championshipPosition": 8,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 9,
+            "bestFinish": 9,
+            "avgFinish": 14.84,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        }
+    },
+    "drivers": [
+        "beckmann",
+        "benavides",
+        "bolukbasi",
+        "calderon",
+        "correa",
+        "deletraz",
+        "fittipaldi",
+        "fuoco",
+        "ilott",
+        "isaakyan",
+        "mason",
+        "nissany",
+        "pedro_piquet",
+        "samaia",
+        "verschoor"
+    ]
+}

@@ -1,0 +1,405 @@
+{
+    "driverId": "ammermuller",
+    "name": "Michael Ammermuller",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2006",
+        "2007"
+    ],
+    "career": {
+        "entries": 27,
+        "starts": 27,
+        "points": 26,
+        "wins": {
+            "total": 1,
+            "sprint": 1
+        },
+        "podiums": {
+            "total": 3,
+            "sprint": 1,
+            "feature": 2
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 7,
+        "bestFinish": 1,
+        "avgFinish": 9.35,
+        "titles": 0,
+        "bestChampionship": 11,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2006": {
+            "entries": 21,
+            "starts": 21,
+            "points": 25,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 3,
+                "sprint": 1,
+                "feature": 2
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 8.6,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2007": {
+            "entries": 6,
+            "starts": 6,
+            "points": 1,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 7,
+            "avgFinish": 11.6,
+            "championshipPosition": 26,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2006",
+            "round": "1",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "arden",
+            "grid": "2",
+            "position": "1",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2006",
+            "round": "1",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "arden",
+            "grid": "7",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2006",
+            "round": "2",
+            "raceName": "Emilia Romagna Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "arden",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "2",
+            "raceName": "Emilia Romagna Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "arden",
+            "grid": "9",
+            "position": "2",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2006",
+            "round": "3",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "arden",
+            "grid": "10",
+            "position": "6",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2006",
+            "round": "3",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "arden",
+            "grid": "22",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "4",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "arden",
+            "grid": "6",
+            "position": "8",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "4",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "arden",
+            "grid": "5",
+            "position": "3",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2006",
+            "round": "5",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "arden",
+            "grid": "20",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2006",
+            "round": "6",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "arden",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "6",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "arden",
+            "grid": "11",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "7",
+            "raceName": "French Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "arden",
+            "grid": "12",
+            "position": "8",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "7",
+            "raceName": "French Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "arden",
+            "grid": "13",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "8",
+            "raceName": "German Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "arden",
+            "grid": "9",
+            "position": "20",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "8",
+            "raceName": "German Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "arden",
+            "grid": "19",
+            "position": "9",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "9",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "arden",
+            "grid": "26",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "9",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "arden",
+            "grid": "3",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "10",
+            "raceName": "Turkish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "arden",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "10",
+            "raceName": "Turkish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "arden",
+            "grid": "18",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "11",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "arden",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "11",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "arden",
+            "grid": "8",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2007",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "10",
+            "position": "7",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2007",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "15",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2007",
+            "round": "4",
+            "raceName": "French Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "24",
+            "position": "19",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2007",
+            "round": "4",
+            "raceName": "French Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "12",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2007",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "10",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2007",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "7",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

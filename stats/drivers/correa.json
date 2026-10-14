@@ -1,33 +1,59 @@
 {
     "driverId": "correa",
-    "name": "J. Correa",
+    "name": "Juan Manuel Correa",
     "code": "",
     "series": "f2",
     "seasons": [
+        "2019",
         "2022",
         "2023",
         "2024"
     ],
     "career": {
-        "entries": 52,
-        "starts": 52,
-        "points": 44,
+        "entries": 68,
+        "starts": 68,
+        "points": 80,
         "wins": {
             "total": 0
         },
         "podiums": {
-            "total": 1,
+            "total": 3,
+            "sprint": 2,
             "feature": 1
         },
         "poles": 0,
         "fastestLaps": 0,
-        "dnfs": 6,
-        "bestFinish": 3,
-        "avgFinish": 13.2,
+        "dnfs": 7,
+        "bestFinish": 2,
+        "avgFinish": 12.41,
         "titles": 0,
-        "bestChampionship": 18
+        "bestChampionship": 13,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
+        "2019": {
+            "entries": 16,
+            "starts": 16,
+            "points": 36,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 2,
+            "avgFinish": 11.07,
+            "championshipPosition": 13,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
         "2022": {
             "entries": 2,
             "starts": 2,
@@ -44,7 +70,9 @@
             "bestFinish": 17,
             "avgFinish": 17.5,
             "championshipPosition": 27,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2023": {
             "entries": 26,
@@ -60,9 +88,11 @@
             "fastestLaps": 0,
             "dnfs": 2,
             "bestFinish": 4,
-            "avgFinish": 13.5,
+            "avgFinish": 12.83,
             "championshipPosition": 19,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2024": {
             "entries": 24,
@@ -81,10 +111,204 @@
             "bestFinish": 3,
             "avgFinish": 12.4,
             "championshipPosition": 18,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
+        {
+            "season": "2019",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "16",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "12",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "2",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "2",
+            "position": "2",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2019",
+            "round": "2",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "17",
+            "position": "7",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2019",
+            "round": "3",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "19",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "3",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "18",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "4",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "16",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "4",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "15",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "5",
+            "raceName": "French Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "2",
+            "position": "2",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2019",
+            "round": "5",
+            "raceName": "French Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "12",
+            "position": "7",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2019",
+            "round": "6",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "11",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "6",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "13",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "7",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "12",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "7",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "11",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "8",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "charouz_racing",
+            "grid": "14",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "8",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "charouz_racing",
+            "grid": "11",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
         {
             "season": "2022",
             "round": "14",
@@ -92,7 +316,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "17",
+            "grid": "16",
             "position": "18",
             "status": "Finished",
             "points": "0"
@@ -140,7 +364,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "12",
+            "grid": "11",
             "position": "14",
             "status": "Finished",
             "points": "0"
@@ -207,55 +431,55 @@
         },
         {
             "season": "2023",
-            "round": "6",
+            "round": "5",
             "raceName": "Monaco Grand Prix",
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "",
+            "grid": "13",
             "position": "16",
             "status": "Finished",
             "points": "0"
         },
         {
             "season": "2023",
-            "round": "6",
+            "round": "5",
             "raceName": "Monaco Grand Prix",
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "",
+            "grid": "13",
             "position": "14",
             "status": "Finished",
             "points": "0"
         },
         {
             "season": "2023",
-            "round": "7",
+            "round": "6",
             "raceName": "Spanish Grand Prix",
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "11",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
         },
         {
             "season": "2023",
-            "round": "7",
+            "round": "6",
             "raceName": "Spanish Grand Prix",
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "11",
+            "grid": "14",
             "position": "11",
             "status": "Finished",
             "points": "0"
         },
         {
             "season": "2023",
-            "round": "8",
+            "round": "7",
             "raceName": "Austrian Grand Prix",
             "race": "race1",
             "type": "sprint",
@@ -267,7 +491,7 @@
         },
         {
             "season": "2023",
-            "round": "8",
+            "round": "7",
             "raceName": "Austrian Grand Prix",
             "race": "race2",
             "type": "feature",
@@ -279,7 +503,7 @@
         },
         {
             "season": "2023",
-            "round": "9",
+            "round": "8",
             "raceName": "British Grand Prix",
             "race": "race1",
             "type": "sprint",
@@ -291,7 +515,7 @@
         },
         {
             "season": "2023",
-            "round": "9",
+            "round": "8",
             "raceName": "British Grand Prix",
             "race": "race2",
             "type": "feature",
@@ -303,36 +527,48 @@
         },
         {
             "season": "2023",
-            "round": "10",
+            "round": "9",
             "raceName": "Hungarian Grand Prix",
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "16",
+            "grid": "19",
             "position": "20",
             "status": "Finished",
             "points": "0"
         },
         {
             "season": "2023",
-            "round": "10",
+            "round": "9",
             "raceName": "Hungarian Grand Prix",
             "race": "race2",
             "type": "feature",
             "constructorId": "var",
-            "grid": "16",
+            "grid": "15",
             "position": "9",
             "status": "Finished",
             "points": "2"
         },
         {
             "season": "2023",
-            "round": "11",
+            "round": "10",
             "raceName": "Belgian Grand Prix",
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "16",
+            "grid": "22",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "10",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "var",
+            "grid": "20",
             "position": "16",
             "status": "Finished",
             "points": "0"
@@ -340,30 +576,18 @@
         {
             "season": "2023",
             "round": "11",
-            "raceName": "Belgian Grand Prix",
-            "race": "race2",
-            "type": "feature",
-            "constructorId": "var",
-            "grid": "16",
-            "position": "16",
-            "status": "Finished",
-            "points": "0"
-        },
-        {
-            "season": "2023",
-            "round": "12",
             "raceName": "Dutch Grand Prix",
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
             "grid": "4",
-            "position": "20",
+            "position": "4",
             "status": "Finished",
             "points": "0"
         },
         {
             "season": "2023",
-            "round": "12",
+            "round": "11",
             "raceName": "Dutch Grand Prix",
             "race": "race2",
             "type": "feature",
@@ -375,7 +599,7 @@
         },
         {
             "season": "2023",
-            "round": "13",
+            "round": "12",
             "raceName": "Italian Grand Prix",
             "race": "race1",
             "type": "sprint",
@@ -387,7 +611,7 @@
         },
         {
             "season": "2023",
-            "round": "13",
+            "round": "12",
             "raceName": "Italian Grand Prix",
             "race": "race2",
             "type": "feature",
@@ -399,19 +623,19 @@
         },
         {
             "season": "2023",
-            "round": "14",
+            "round": "13",
             "raceName": "Abu Dhabi Grand Prix",
             "race": "race1",
             "type": "sprint",
             "constructorId": "var",
-            "grid": "11",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
         },
         {
             "season": "2023",
-            "round": "14",
+            "round": "13",
             "raceName": "Abu Dhabi Grand Prix",
             "race": "race2",
             "type": "feature",
@@ -452,7 +676,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "dams",
-            "grid": "19",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -464,7 +688,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "dams",
-            "grid": "16",
+            "grid": "17",
             "position": "14",
             "status": "Finished",
             "points": "0"
@@ -500,7 +724,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "dams",
-            "grid": "19",
+            "grid": "20",
             "position": "15",
             "status": "Finished",
             "points": "0"
@@ -584,7 +808,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "dams",
-            "grid": "",
+            "grid": "19",
             "position": "14",
             "status": "Finished",
             "points": "0"

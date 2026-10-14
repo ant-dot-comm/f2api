@@ -1,0 +1,314 @@
+{
+    "driverId": "hamilton",
+    "name": "Lewis Hamilton",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2006"
+    ],
+    "career": {
+        "entries": 21,
+        "starts": 21,
+        "points": 114,
+        "wins": {
+            "total": 5,
+            "sprint": 2,
+            "feature": 3
+        },
+        "podiums": {
+            "total": 14,
+            "feature": 8,
+            "sprint": 6
+        },
+        "poles": 1,
+        "fastestLaps": 7,
+        "dnfs": 1,
+        "bestFinish": 1,
+        "avgFinish": 3.95,
+        "titles": 1,
+        "bestChampionship": 1,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2006": {
+            "entries": 21,
+            "starts": 21,
+            "points": 114,
+            "wins": {
+                "total": 5,
+                "sprint": 2,
+                "feature": 3
+            },
+            "podiums": {
+                "total": 14,
+                "feature": 8,
+                "sprint": 6
+            },
+            "poles": 1,
+            "fastestLaps": 7,
+            "dnfs": 1,
+            "bestFinish": 1,
+            "avgFinish": 3.95,
+            "championshipPosition": 1,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2006",
+            "round": "1",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "7",
+            "position": "6",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2006",
+            "round": "1",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "3",
+            "position": "2",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2006",
+            "round": "2",
+            "raceName": "Emilia Romagna Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "26",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "2",
+            "raceName": "Emilia Romagna Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "3",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "3",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "8",
+            "position": "1",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2006",
+            "round": "3",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "3",
+            "position": "1",
+            "status": "Finished",
+            "points": "11"
+        },
+        {
+            "season": "2006",
+            "round": "4",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "7",
+            "position": "4",
+            "status": "Finished",
+            "points": "3"
+        },
+        {
+            "season": "2006",
+            "round": "4",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "4",
+            "position": "2",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2006",
+            "round": "5",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "1",
+            "position": "1",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2006",
+            "round": "6",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "8",
+            "position": "1",
+            "status": "Finished",
+            "points": "7"
+        },
+        {
+            "season": "2006",
+            "round": "6",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "2",
+            "position": "1",
+            "status": "Finished",
+            "points": "11"
+        },
+        {
+            "season": "2006",
+            "round": "7",
+            "raceName": "French Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "19",
+            "position": "5",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2006",
+            "round": "7",
+            "raceName": "French Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "4",
+            "position": "19",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2006",
+            "round": "8",
+            "raceName": "German Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "7",
+            "position": "3",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2006",
+            "round": "8",
+            "raceName": "German Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "8",
+            "position": "2",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2006",
+            "round": "9",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "10",
+            "position": "2",
+            "status": "Finished",
+            "points": "5"
+        },
+        {
+            "season": "2006",
+            "round": "9",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "26",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2006",
+            "round": "10",
+            "raceName": "Turkish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "7",
+            "position": "2",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2006",
+            "round": "10",
+            "raceName": "Turkish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "5",
+            "position": "2",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2006",
+            "round": "11",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "6",
+            "position": "2",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2006",
+            "round": "11",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "3",
+            "position": "3",
+            "status": "Finished",
+            "points": "7"
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+{
+    "driverId": "daly",
+    "name": "Conor Daly",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2013",
+        "2014"
+    ],
+    "career": {
+        "entries": 20,
+        "starts": 20,
+        "points": 4,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 3,
+        "bestFinish": 7,
+        "avgFinish": 14.18,
+        "titles": 0,
+        "bestChampionship": 26,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2013": {
+            "entries": 2,
+            "starts": 2,
+            "points": 2,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 0,
+            "bestFinish": 7,
+            "avgFinish": 10.0,
+            "championshipPosition": 26,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2014": {
+            "entries": 18,
+            "starts": 18,
+            "points": 2,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 3,
+            "bestFinish": 7,
+            "avgFinish": 14.73,
+            "championshipPosition": 26,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2013",
+            "round": "1",
+            "raceName": "Malaysian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hilmer_motorsport",
+            "grid": "13",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2013",
+            "round": "1",
+            "raceName": "Malaysian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "hilmer_motorsport",
+            "grid": "16",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "18",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "2",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "2",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "26",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "3",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "13",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "3",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "20",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "4",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "18",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "4",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "25",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "14",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "21",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "6",
+            "raceName": "German Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "21",
+            "position": "20",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "6",
+            "raceName": "German Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "17",
+            "position": "21",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "7",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "13",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2014",
+            "round": "7",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "19",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "26",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "15",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "11",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "lazarus",
+            "grid": "20",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2014",
+            "round": "11",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "lazarus",
+            "grid": "20",
+            "position": "20",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

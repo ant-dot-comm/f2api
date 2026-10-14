@@ -1,0 +1,160 @@
+{
+    "constructorId": "durango",
+    "name": "Durango Formula",
+    "series": "f2",
+    "seasons": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "career": {
+        "entries": 202,
+        "starts": 202,
+        "points": 95,
+        "wins": {
+            "total": 3,
+            "sprint": 3
+        },
+        "podiums": {
+            "total": 4,
+            "sprint": 3,
+            "feature": 1
+        },
+        "poles": 1,
+        "fastestLaps": 3,
+        "dnfs": 69,
+        "bestFinish": 1,
+        "avgFinish": 11.89,
+        "titles": 0,
+        "bestChampionship": 8,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2005": {
+            "entries": 46,
+            "starts": 46,
+            "points": 21,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 1,
+            "fastestLaps": 1,
+            "dnfs": 18,
+            "bestFinish": 1,
+            "avgFinish": 11.57,
+            "championshipPosition": 12,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2006": {
+            "entries": 42,
+            "starts": 42,
+            "points": 9,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 17,
+            "bestFinish": 5,
+            "avgFinish": 11.8,
+            "championshipPosition": 13,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2007": {
+            "entries": 42,
+            "starts": 42,
+            "points": 44,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 11.26,
+            "championshipPosition": 8,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2008": {
+            "entries": 40,
+            "starts": 40,
+            "points": 11,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 16,
+            "bestFinish": 1,
+            "avgFinish": 11.96,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2009": {
+            "entries": 32,
+            "starts": 32,
+            "points": 10,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 1,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 10,
+            "bestFinish": 3,
+            "avgFinish": 13.32,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "bruni",
+        "chandhok",
+        "coletti",
+        "garcia",
+        "grassi",
+        "hanley",
+        "hernandez",
+        "monfardini",
+        "panciatici",
+        "piccione",
+        "puglisi",
+        "valerio",
+        "valsecchi"
+    ]
+}

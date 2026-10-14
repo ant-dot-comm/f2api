@@ -12,21 +12,24 @@
         "points": 252.5,
         "wins": {
             "total": 6,
-            "sprint": 2,
-            "feature": 4
+            "sprint": 3,
+            "feature": 3
         },
         "podiums": {
             "total": 11,
-            "sprint": 4,
-            "feature": 7
+            "sprint": 5,
+            "feature": 6
         },
-        "poles": 5,
+        "poles": 4,
         "fastestLaps": 6,
-        "dnfs": 3,
+        "dnfs": 2,
         "bestFinish": 1,
-        "avgFinish": 3.85,
+        "avgFinish": 4.57,
         "titles": 1,
-        "bestChampionship": 1
+        "bestChampionship": 1,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2021": {
@@ -35,21 +38,23 @@
             "points": 252.5,
             "wins": {
                 "total": 6,
-                "sprint": 2,
-                "feature": 4
+                "sprint": 3,
+                "feature": 3
             },
             "podiums": {
                 "total": 11,
-                "sprint": 4,
-                "feature": 7
+                "sprint": 5,
+                "feature": 6
             },
-            "poles": 5,
+            "poles": 4,
             "fastestLaps": 6,
-            "dnfs": 3,
+            "dnfs": 2,
             "bestFinish": 1,
-            "avgFinish": 3.85,
+            "avgFinish": 4.57,
             "championshipPosition": 1,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
@@ -61,18 +66,6 @@
             "type": "sprint",
             "constructorId": "prema",
             "grid": "4",
-            "position": "1",
-            "status": "Finished",
-            "points": "15"
-        },
-        {
-            "season": "2021",
-            "round": "1",
-            "raceName": "Bahrain Grand Prix",
-            "race": "race2",
-            "type": "sprint",
-            "constructorId": "prema",
-            "grid": "10",
             "position": "5",
             "status": "Finished",
             "points": "6"
@@ -81,12 +74,24 @@
             "season": "2021",
             "round": "1",
             "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "6",
+            "position": "1",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2021",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
             "race": "race3",
             "type": "feature",
             "constructorId": "prema",
             "grid": "7",
-            "position": "NC",
-            "status": "DNF",
+            "position": "19",
+            "status": "Finished",
             "points": "0"
         },
         {
@@ -96,19 +101,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "9",
-            "position": "2",
-            "status": "Finished",
-            "points": "12"
-        },
-        {
-            "season": "2021",
-            "round": "2",
-            "raceName": "Monaco Grand Prix",
-            "race": "race2",
-            "type": "sprint",
-            "constructorId": "prema",
-            "grid": "9",
+            "grid": "8",
             "position": "8",
             "status": "Finished",
             "points": "1"
@@ -117,10 +110,22 @@
             "season": "2021",
             "round": "2",
             "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "3",
+            "position": "2",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2021",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
             "race": "race3",
             "type": "feature",
             "constructorId": "prema",
-            "grid": "2",
+            "grid": "3",
             "position": "2",
             "status": "Finished",
             "points": "18"
@@ -132,10 +137,10 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "8",
-            "position": "8",
-            "status": "Finished",
-            "points": "3"
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
         },
         {
             "season": "2021",
@@ -144,10 +149,10 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "3",
-            "position": "NC",
-            "status": "DNF",
-            "points": "0"
+            "grid": "19",
+            "position": "8",
+            "status": "Finished",
+            "points": "3"
         },
         {
             "season": "2021",
@@ -169,9 +174,9 @@
             "type": "sprint",
             "constructorId": "prema",
             "grid": "10",
-            "position": "4",
+            "position": "6",
             "status": "Finished",
-            "points": "10"
+            "points": "6"
         },
         {
             "season": "2021",
@@ -180,10 +185,10 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "7",
-            "position": "6",
+            "grid": "5",
+            "position": "4",
             "status": "Finished",
-            "points": "6"
+            "points": "10"
         },
         {
             "season": "2021",
@@ -205,9 +210,9 @@
             "type": "sprint",
             "constructorId": "prema",
             "grid": "10",
-            "position": "7",
+            "position": "4",
             "status": "Finished",
-            "points": "4"
+            "points": "8"
         },
         {
             "season": "2021",
@@ -216,10 +221,10 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "4",
-            "position": "4",
+            "grid": "7",
+            "position": "7",
             "status": "Finished",
-            "points": "8"
+            "points": "4"
         },
         {
             "season": "2021",
@@ -249,8 +254,8 @@
             "season": "2021",
             "round": "6",
             "raceName": "Russian Grand Prix",
-            "race": "race3",
-            "type": "feature",
+            "race": "race2",
+            "type": "sprint",
             "constructorId": "prema",
             "grid": "1",
             "position": "1",
@@ -265,9 +270,9 @@
             "type": "sprint",
             "constructorId": "prema",
             "grid": "10",
-            "position": "1",
+            "position": "8",
             "status": "Finished",
-            "points": "17"
+            "points": "1"
         },
         {
             "season": "2021",
@@ -276,10 +281,10 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "10",
-            "position": "8",
+            "grid": "3",
+            "position": "1",
             "status": "Finished",
-            "points": "1"
+            "points": "17"
         },
         {
             "season": "2021",
@@ -291,7 +296,7 @@
             "grid": "1",
             "position": "1",
             "status": "Finished",
-            "points": "31"
+            "points": "17.5"
         },
         {
             "season": "2021",
@@ -301,9 +306,9 @@
             "type": "sprint",
             "constructorId": "prema",
             "grid": "10",
-            "position": "NC",
-            "status": "DNF",
-            "points": "0"
+            "position": "3",
+            "status": "Finished",
+            "points": "10"
         },
         {
             "season": "2021",
@@ -313,9 +318,9 @@
             "type": "sprint",
             "constructorId": "prema",
             "grid": "",
-            "position": "3",
-            "status": "Finished",
-            "points": "10"
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
         },
         {
             "season": "2021",

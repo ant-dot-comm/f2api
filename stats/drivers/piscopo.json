@@ -1,0 +1,78 @@
+{
+    "driverId": "piscopo",
+    "name": "Edoardo Piscopo",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2010"
+    ],
+    "career": {
+        "entries": 2,
+        "starts": 2,
+        "points": 2,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 1,
+        "bestFinish": 7,
+        "avgFinish": 7.0,
+        "titles": 0,
+        "bestChampionship": 26,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2010": {
+            "entries": 2,
+            "starts": 2,
+            "points": 2,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 7,
+            "avgFinish": 7.0,
+            "championshipPosition": 26,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2010",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2010",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "24",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        }
+    ]
+}

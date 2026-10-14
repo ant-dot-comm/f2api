@@ -3,143 +3,33 @@
     "name": "Hitech TGR",
     "series": "f2",
     "seasons": [
-        "2021",
-        "2022",
-        "2023",
-        "2024",
-        "2025",
         "2026"
     ],
     "career": {
-        "entries": 311,
-        "starts": 311,
-        "points": 1118,
+        "entries": 48,
+        "starts": 48,
+        "points": 96,
         "wins": {
-            "total": 12,
-            "sprint": 9,
-            "feature": 3
+            "total": 1,
+            "sprint": 1
         },
         "podiums": {
-            "total": 49,
-            "sprint": 30,
-            "feature": 19
+            "total": 2,
+            "sprint": 1,
+            "feature": 1
         },
-        "poles": 9,
-        "fastestLaps": 15,
-        "dnfs": 39,
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 4,
         "bestFinish": 1,
-        "avgFinish": 9.04,
+        "avgFinish": 11.8,
         "titles": 0,
-        "bestChampionship": 2
+        "bestChampionship": 8,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
-        "2021": {
-            "entries": 45,
-            "starts": 45,
-            "points": 223,
-            "wins": {
-                "total": 3,
-                "sprint": 2,
-                "feature": 1
-            },
-            "podiums": {
-                "total": 9,
-                "sprint": 7,
-                "feature": 2
-            },
-            "poles": 1,
-            "fastestLaps": 2,
-            "dnfs": 10,
-            "bestFinish": 1,
-            "avgFinish": 6.26,
-            "championshipPosition": 4,
-            "complete": true
-        },
-        "2022": {
-            "entries": 56,
-            "starts": 56,
-            "points": 207,
-            "wins": {
-                "total": 4,
-                "sprint": 4
-            },
-            "podiums": {
-                "total": 9,
-                "feature": 2,
-                "sprint": 7
-            },
-            "poles": 2,
-            "fastestLaps": 3,
-            "dnfs": 7,
-            "bestFinish": 1,
-            "avgFinish": 7.94,
-            "championshipPosition": 5,
-            "complete": true
-        },
-        "2023": {
-            "entries": 52,
-            "starts": 52,
-            "points": 112,
-            "wins": {
-                "total": 1,
-                "sprint": 1
-            },
-            "podiums": {
-                "total": 6,
-                "sprint": 5,
-                "feature": 1
-            },
-            "poles": 1,
-            "fastestLaps": 1,
-            "dnfs": 6,
-            "bestFinish": 1,
-            "avgFinish": 9.96,
-            "championshipPosition": 8,
-            "complete": true
-        },
-        "2024": {
-            "entries": 56,
-            "starts": 56,
-            "points": 202,
-            "wins": {
-                "total": 1,
-                "feature": 1
-            },
-            "podiums": {
-                "total": 9,
-                "feature": 4,
-                "sprint": 5
-            },
-            "poles": 4,
-            "fastestLaps": 2,
-            "dnfs": 9,
-            "bestFinish": 1,
-            "avgFinish": 9.57,
-            "championshipPosition": 4,
-            "complete": true
-        },
-        "2025": {
-            "entries": 54,
-            "starts": 54,
-            "points": 278,
-            "wins": {
-                "total": 2,
-                "feature": 1,
-                "sprint": 1
-            },
-            "podiums": {
-                "total": 14,
-                "feature": 9,
-                "sprint": 5
-            },
-            "poles": 1,
-            "fastestLaps": 7,
-            "dnfs": 3,
-            "bestFinish": 1,
-            "avgFinish": 8.31,
-            "championshipPosition": 2,
-            "complete": true
-        },
         "2026": {
             "entries": 48,
             "starts": 48,
@@ -159,20 +49,13 @@
             "bestFinish": 1,
             "avgFinish": 11.8,
             "championshipPosition": 8,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "drivers": [
-        "armstrong",
-        "aron",
-        "beganovic",
-        "browning",
-        "cordeel",
-        "crawford",
-        "hadjar",
         "herta",
-        "lawson",
-        "miyata",
-        "vips"
+        "miyata"
     ]
 }

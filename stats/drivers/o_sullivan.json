@@ -1,6 +1,6 @@
 {
     "driverId": "o_sullivan",
-    "name": "Z. O'Sullivan",
+    "name": "Zak O'Sullivan",
     "code": "",
     "series": "f2",
     "seasons": [
@@ -26,7 +26,10 @@
         "bestFinish": 1,
         "avgFinish": 9.56,
         "titles": 0,
-        "bestChampionship": 16
+        "bestChampionship": 16,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2024": {
@@ -49,7 +52,9 @@
             "bestFinish": 1,
             "avgFinish": 9.56,
             "championshipPosition": 16,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
@@ -84,7 +89,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "art",
-            "grid": "13",
+            "grid": "14",
             "position": "16",
             "status": "Finished",
             "points": "0"
@@ -96,7 +101,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "art",
-            "grid": "13",
+            "grid": "14",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -132,7 +137,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "art",
-            "grid": "22",
+            "grid": "18",
             "position": "9",
             "status": "Finished",
             "points": "0"
@@ -216,7 +221,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "art",
-            "grid": "",
+            "grid": "12",
             "position": "9",
             "status": "Finished",
             "points": "2"
@@ -228,7 +233,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "art",
-            "grid": "14",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -300,7 +305,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "art",
-            "grid": "12",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"

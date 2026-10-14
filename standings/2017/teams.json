@@ -1,0 +1,71 @@
+{
+    "season": "2017",
+    "series": "f2",
+    "championship": "FIA Formula 2 Championship",
+    "source": "motorsportmagazine.com",
+    "lastRound": 11,
+    "scheduledRounds": 11,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "constructorId": "russian_time",
+            "team": "Russian Time",
+            "points": "395"
+        },
+        {
+            "position": "2",
+            "constructorId": "prema",
+            "team": "Prema Racing",
+            "points": "380"
+        },
+        {
+            "position": "3",
+            "constructorId": "dams",
+            "team": "DAMS",
+            "points": "369"
+        },
+        {
+            "position": "4",
+            "constructorId": "art",
+            "team": "ART Grand Prix",
+            "points": "226"
+        },
+        {
+            "position": "5",
+            "constructorId": "rapax",
+            "team": "Rapax",
+            "points": "137"
+        },
+        {
+            "position": "6",
+            "constructorId": "mp",
+            "team": "MP Motorsport",
+            "points": "109"
+        },
+        {
+            "position": "7",
+            "constructorId": "arden",
+            "team": "Arden International",
+            "points": "108"
+        },
+        {
+            "position": "8",
+            "constructorId": "racing_engineering",
+            "team": "Racing Engineering",
+            "points": "87"
+        },
+        {
+            "position": "9",
+            "constructorId": "adrian_campos_motorsport",
+            "team": "Campos Racing",
+            "points": "17"
+        },
+        {
+            "position": "10",
+            "constructorId": "trident",
+            "team": "Trident Racing",
+            "points": "9"
+        }
+    ]
+}

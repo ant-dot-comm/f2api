@@ -1,0 +1,173 @@
+{
+    "season": "2019",
+    "series": "f2",
+    "championship": "FIA Formula 2 Championship",
+    "source": "motorsportmagazine.com",
+    "lastRound": 11,
+    "scheduledRounds": 11,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "driverId": "vries",
+            "driver": "Nyck de Vries",
+            "points": "266"
+        },
+        {
+            "position": "2",
+            "driverId": "latifi",
+            "driver": "Nicholas Latifi",
+            "points": "214"
+        },
+        {
+            "position": "3",
+            "driverId": "ghiotto",
+            "driver": "Luca Ghiotto",
+            "points": "207"
+        },
+        {
+            "position": "4",
+            "driverId": "camara",
+            "driver": "Sergio Sette Camara",
+            "points": "204"
+        },
+        {
+            "position": "5",
+            "driverId": "aitken",
+            "driver": "Jack Aitken",
+            "points": "159"
+        },
+        {
+            "position": "6",
+            "driverId": "matsushita",
+            "driver": "Nobuharu Matsushita",
+            "points": "144"
+        },
+        {
+            "position": "7",
+            "driverId": "guanyu",
+            "driver": "Zhou Guanyu",
+            "points": "140"
+        },
+        {
+            "position": "8",
+            "driverId": "deletraz",
+            "driver": "Louis Deletraz",
+            "points": "92"
+        },
+        {
+            "position": "9",
+            "driverId": "king",
+            "driver": "Jordan King",
+            "points": "79"
+        },
+        {
+            "position": "10",
+            "driverId": "hubert",
+            "driver": "Anthoine Hubert",
+            "points": "77"
+        },
+        {
+            "position": "11",
+            "driverId": "ilott",
+            "driver": "Callum Ilott",
+            "points": "74"
+        },
+        {
+            "position": "12",
+            "driverId": "schumacher",
+            "driver": "Mick Schumacher",
+            "points": "53"
+        },
+        {
+            "position": "13",
+            "driverId": "correa",
+            "driver": "Juan Manuel Correa",
+            "points": "36"
+        },
+        {
+            "position": "14",
+            "driverId": "boccolacci",
+            "driver": "Dorian Boccolacci",
+            "points": "30"
+        },
+        {
+            "position": "15",
+            "driverId": "alesi",
+            "driver": "Giuliano Alesi",
+            "points": "20"
+        },
+        {
+            "position": "16",
+            "driverId": "markelov",
+            "driver": "Artem Markelov",
+            "points": "16"
+        },
+        {
+            "position": "17",
+            "driverId": "gelael",
+            "driver": "Sean Gelael",
+            "points": "15"
+        },
+        {
+            "position": "18",
+            "driverId": "mazepin",
+            "driver": "Nikita Mazepin",
+            "points": "11"
+        },
+        {
+            "position": "19",
+            "driverId": "boschung",
+            "driver": "Ralph Boschung",
+            "points": "3"
+        },
+        {
+            "position": "20",
+            "driverId": "raghunathan",
+            "driver": "Mahaveer Raghunathan",
+            "points": "1"
+        },
+        {
+            "position": "21",
+            "driverId": "marino_sato",
+            "driver": "Marino Sato",
+            "points": "0"
+        },
+        {
+            "position": "22",
+            "driverId": "calderon",
+            "driver": "Tatiana Calderon",
+            "points": "0"
+        },
+        {
+            "position": "23",
+            "driverId": "lundgaard",
+            "driver": "Christian Lundgaard",
+            "points": "0"
+        },
+        {
+            "position": "24",
+            "driverId": "arjun_maini",
+            "driver": "Arjun Maini",
+            "points": "0"
+        },
+        {
+            "position": "25",
+            "driverId": "isaakyan",
+            "driver": "Matevos Isaakyan",
+            "points": "0"
+        },
+        {
+            "position": "26",
+            "driverId": "o_ward",
+            "driver": "Pato O'Ward",
+            "points": "0"
+        },
+        {
+            "position": "27",
+            "driverId": "tveter",
+            "driver": "Ryan Tveter",
+            "points": "0"
+        }
+    ]
+}

@@ -10,8 +10,8 @@
         "2026"
     ],
     "career": {
-        "entries": 267,
-        "starts": 267,
+        "entries": 268,
+        "starts": 268,
         "points": 375,
         "wins": {
             "total": 2,
@@ -26,14 +26,17 @@
         "fastestLaps": 6,
         "dnfs": 38,
         "bestFinish": 1,
-        "avgFinish": 12.67,
+        "avgFinish": 12.58,
         "titles": 0,
-        "bestChampionship": 7
+        "bestChampionship": 7,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2022": {
-            "entries": 55,
-            "starts": 55,
+            "entries": 56,
+            "starts": 56,
             "points": 73,
             "wins": {
                 "total": 0
@@ -43,11 +46,13 @@
             },
             "poles": 0,
             "fastestLaps": 2,
-            "dnfs": 7,
+            "dnfs": 8,
             "bestFinish": 4,
-            "avgFinish": 12.87,
+            "avgFinish": 13.0,
             "championshipPosition": 10,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2023": {
             "entries": 52,
@@ -66,9 +71,11 @@
             "fastestLaps": 1,
             "dnfs": 6,
             "bestFinish": 1,
-            "avgFinish": 11.18,
+            "avgFinish": 10.98,
             "championshipPosition": 7,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2024": {
             "entries": 56,
@@ -87,9 +94,11 @@
             "fastestLaps": 2,
             "dnfs": 8,
             "bestFinish": 1,
-            "avgFinish": 12.77,
+            "avgFinish": 12.73,
             "championshipPosition": 11,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2025": {
             "entries": 54,
@@ -104,11 +113,13 @@
             },
             "poles": 0,
             "fastestLaps": 0,
-            "dnfs": 8,
+            "dnfs": 7,
             "bestFinish": 3,
-            "avgFinish": 13.74,
+            "avgFinish": 13.4,
             "championshipPosition": 10,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2026": {
             "entries": 50,
@@ -128,7 +139,9 @@
             "bestFinish": 2,
             "avgFinish": 12.76,
             "championshipPosition": 9,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "drivers": [

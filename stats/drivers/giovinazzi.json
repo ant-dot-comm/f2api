@@ -1,0 +1,326 @@
+{
+    "driverId": "giovinazzi",
+    "name": "Antonio Giovinazzi",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2016"
+    ],
+    "career": {
+        "entries": 22,
+        "starts": 22,
+        "points": 211,
+        "wins": {
+            "total": 5,
+            "sprint": 2,
+            "feature": 3
+        },
+        "podiums": {
+            "total": 8,
+            "sprint": 3,
+            "feature": 5
+        },
+        "poles": 2,
+        "fastestLaps": 2,
+        "dnfs": 3,
+        "bestFinish": 1,
+        "avgFinish": 6.0,
+        "titles": 0,
+        "bestChampionship": 2,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2016": {
+            "entries": 22,
+            "starts": 22,
+            "points": 211,
+            "wins": {
+                "total": 5,
+                "sprint": 2,
+                "feature": 3
+            },
+            "podiums": {
+                "total": 8,
+                "sprint": 3,
+                "feature": 5
+            },
+            "poles": 2,
+            "fastestLaps": 2,
+            "dnfs": 3,
+            "bestFinish": 1,
+            "avgFinish": 6.0,
+            "championshipPosition": 2,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2016",
+            "round": "1",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2016",
+            "round": "1",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "10",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2016",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "11",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2016",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "7",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2016",
+            "round": "3",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "8",
+            "position": "1",
+            "status": "Finished",
+            "points": "17"
+        },
+        {
+            "season": "2016",
+            "round": "3",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "1",
+            "position": "1",
+            "status": "Finished",
+            "points": "29"
+        },
+        {
+            "season": "2016",
+            "round": "4",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "17",
+            "position": "5",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2016",
+            "round": "4",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "2",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2016",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "7",
+            "position": "4",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2016",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "5",
+            "position": "2",
+            "status": "Finished",
+            "points": "18"
+        },
+        {
+            "season": "2016",
+            "round": "6",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "7",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2016",
+            "round": "6",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "3",
+            "position": "2",
+            "status": "Finished",
+            "points": "18"
+        },
+        {
+            "season": "2016",
+            "round": "7",
+            "raceName": "German Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2016",
+            "round": "7",
+            "raceName": "German Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "22",
+            "position": "8",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2016",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "3",
+            "position": "1",
+            "status": "Finished",
+            "points": "17"
+        },
+        {
+            "season": "2016",
+            "round": "8",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "1",
+            "position": "6",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2016",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "8",
+            "position": "3",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2016",
+            "round": "9",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "21",
+            "position": "1",
+            "status": "Finished",
+            "points": "25"
+        },
+        {
+            "season": "2016",
+            "round": "10",
+            "raceName": "Malaysian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "8",
+            "position": "4",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2016",
+            "round": "10",
+            "raceName": "Malaysian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "2",
+            "position": "1",
+            "status": "Finished",
+            "points": "25"
+        },
+        {
+            "season": "2016",
+            "round": "11",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "4",
+            "position": "6",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2016",
+            "round": "11",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "6",
+            "position": "5",
+            "status": "Finished",
+            "points": "10"
+        }
+    ]
+}

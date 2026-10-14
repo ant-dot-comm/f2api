@@ -1,0 +1,64 @@
+{
+    "constructorId": "status_grand_prix",
+    "name": "Status Grand Prix",
+    "series": "f2",
+    "seasons": [
+        "2015"
+    ],
+    "career": {
+        "entries": 42,
+        "starts": 42,
+        "points": 60,
+        "wins": {
+            "total": 2,
+            "sprint": 1,
+            "feature": 1
+        },
+        "podiums": {
+            "total": 2,
+            "sprint": 1,
+            "feature": 1
+        },
+        "poles": 0,
+        "fastestLaps": 3,
+        "dnfs": 6,
+        "bestFinish": 1,
+        "avgFinish": 15.14,
+        "titles": 0,
+        "bestChampionship": 8,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2015": {
+            "entries": 42,
+            "starts": 42,
+            "points": 60,
+            "wins": {
+                "total": 2,
+                "sprint": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 1,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 3,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 15.14,
+            "championshipPosition": 8,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "rowland",
+        "stanaway",
+        "stockinger"
+    ]
+}

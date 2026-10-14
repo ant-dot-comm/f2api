@@ -1,6 +1,6 @@
 {
     "driverId": "mansell",
-    "name": "C. Mansell",
+    "name": "Christian Mansell",
     "code": "",
     "series": "f2",
     "seasons": [
@@ -20,9 +20,12 @@
         "fastestLaps": 0,
         "dnfs": 0,
         "bestFinish": 6,
-        "avgFinish": 12.0,
+        "avgFinish": 11.83,
         "titles": 0,
-        "bestChampionship": 25
+        "bestChampionship": 25,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2024": {
@@ -39,9 +42,11 @@
             "fastestLaps": 0,
             "dnfs": 0,
             "bestFinish": 6,
-            "avgFinish": 12.0,
+            "avgFinish": 11.83,
             "championshipPosition": 25,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
@@ -100,8 +105,8 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "19",
-            "position": "17",
+            "grid": "20",
+            "position": "16",
             "status": "Finished",
             "points": "0"
         },
@@ -112,7 +117,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "19",
+            "grid": "20",
             "position": "16",
             "status": "Finished",
             "points": "0"

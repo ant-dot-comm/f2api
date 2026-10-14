@@ -1,0 +1,78 @@
+{
+    "driverId": "hua",
+    "name": "Ma Qing Hua",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2013"
+    ],
+    "career": {
+        "entries": 2,
+        "starts": 2,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 1,
+        "bestFinish": 21,
+        "avgFinish": 21.0,
+        "titles": 0,
+        "bestChampionship": null,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2013": {
+            "entries": 2,
+            "starts": 2,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 21,
+            "avgFinish": 21.0,
+            "championshipPosition": null,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "results": [
+        {
+            "season": "2013",
+            "round": "1",
+            "raceName": "Malaysian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "caterham_racing",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2013",
+            "round": "1",
+            "raceName": "Malaysian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "caterham_racing",
+            "grid": "19",
+            "position": "21",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

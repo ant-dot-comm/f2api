@@ -22,11 +22,14 @@
         },
         "poles": 1,
         "fastestLaps": 2,
-        "dnfs": 5,
+        "dnfs": 4,
         "bestFinish": 1,
-        "avgFinish": 9.64,
+        "avgFinish": 10.08,
         "titles": 0,
-        "bestChampionship": 7
+        "bestChampionship": 7,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2025": {
@@ -41,11 +44,13 @@
             },
             "poles": 0,
             "fastestLaps": 0,
-            "dnfs": 3,
+            "dnfs": 2,
             "bestFinish": 7,
-            "avgFinish": 12.33,
+            "avgFinish": 14.5,
             "championshipPosition": 20,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2026": {
             "entries": 25,
@@ -66,7 +71,9 @@
             "bestFinish": 1,
             "avgFinish": 9.27,
             "championshipPosition": 7,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "results": [
@@ -77,7 +84,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "15",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -89,7 +96,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "15",
+            "grid": "7",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -101,7 +108,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "rodin",
-            "grid": "12",
+            "grid": "11",
             "position": "7",
             "status": "Finished",
             "points": "2"
@@ -126,8 +133,8 @@
             "type": "sprint",
             "constructorId": "rodin",
             "grid": "18",
-            "position": "NC",
-            "status": "DNF",
+            "position": "21",
+            "status": "Finished",
             "points": "0"
         },
         {

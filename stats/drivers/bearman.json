@@ -1,6 +1,6 @@
 {
     "driverId": "bearman",
-    "name": "O. Bearman",
+    "name": "Oliver Bearman",
     "code": "",
     "series": "f2",
     "seasons": [
@@ -8,12 +8,12 @@
         "2024"
     ],
     "career": {
-        "entries": 50,
-        "starts": 50,
+        "entries": 52,
+        "starts": 52,
         "points": 205,
         "wins": {
-            "total": 8,
-            "sprint": 5,
+            "total": 7,
+            "sprint": 4,
             "feature": 3
         },
         "podiums": {
@@ -21,13 +21,16 @@
             "sprint": 6,
             "feature": 3
         },
-        "poles": 2,
-        "fastestLaps": 4,
-        "dnfs": 7,
+        "poles": 4,
+        "fastestLaps": 3,
+        "dnfs": 9,
         "bestFinish": 1,
-        "avgFinish": 8.42,
+        "avgFinish": 8.44,
         "titles": 0,
-        "bestChampionship": 6
+        "bestChampionship": 6,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2023": {
@@ -35,8 +38,8 @@
             "starts": 26,
             "points": 130,
             "wins": {
-                "total": 5,
-                "sprint": 2,
+                "total": 4,
+                "sprint": 1,
                 "feature": 3
             },
             "podiums": {
@@ -44,17 +47,19 @@
                 "sprint": 3,
                 "feature": 3
             },
-            "poles": 2,
-            "fastestLaps": 3,
+            "poles": 3,
+            "fastestLaps": 2,
             "dnfs": 4,
             "bestFinish": 1,
-            "avgFinish": 7.41,
+            "avgFinish": 7.5,
             "championshipPosition": 6,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2024": {
-            "entries": 24,
-            "starts": 24,
+            "entries": 26,
+            "starts": 26,
             "points": 75,
             "wins": {
                 "total": 3,
@@ -64,13 +69,15 @@
                 "total": 3,
                 "sprint": 3
             },
-            "poles": 0,
+            "poles": 1,
             "fastestLaps": 1,
-            "dnfs": 3,
+            "dnfs": 5,
             "bestFinish": 1,
-            "avgFinish": 9.48,
+            "avgFinish": 9.43,
             "championshipPosition": 12,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
@@ -105,7 +112,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "9",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -153,7 +160,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "10",
+            "grid": "9",
             "position": "1",
             "status": "Finished",
             "points": "11"
@@ -168,35 +175,35 @@
             "grid": "1",
             "position": "1",
             "status": "Finished",
-            "points": "25"
+            "points": "27"
         },
         {
             "season": "2023",
-            "round": "6",
+            "round": "5",
             "raceName": "Monaco Grand Prix",
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "3",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
         },
         {
             "season": "2023",
-            "round": "6",
+            "round": "5",
             "raceName": "Monaco Grand Prix",
             "race": "race2",
             "type": "feature",
             "constructorId": "prema",
-            "grid": "8",
+            "grid": "16",
             "position": "11",
             "status": "Finished",
             "points": "0"
         },
         {
             "season": "2023",
-            "round": "7",
+            "round": "6",
             "raceName": "Spanish Grand Prix",
             "race": "race1",
             "type": "sprint",
@@ -208,7 +215,7 @@
         },
         {
             "season": "2023",
-            "round": "7",
+            "round": "6",
             "raceName": "Spanish Grand Prix",
             "race": "race2",
             "type": "feature",
@@ -216,11 +223,11 @@
             "grid": "1",
             "position": "1",
             "status": "Finished",
-            "points": "25"
+            "points": "27"
         },
         {
             "season": "2023",
-            "round": "8",
+            "round": "7",
             "raceName": "Austrian Grand Prix",
             "race": "race1",
             "type": "sprint",
@@ -232,7 +239,7 @@
         },
         {
             "season": "2023",
-            "round": "8",
+            "round": "7",
             "raceName": "Austrian Grand Prix",
             "race": "race2",
             "type": "feature",
@@ -244,19 +251,19 @@
         },
         {
             "season": "2023",
-            "round": "9",
+            "round": "8",
             "raceName": "British Grand Prix",
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "6",
+            "grid": "5",
             "position": "6",
             "status": "Finished",
             "points": "3"
         },
         {
             "season": "2023",
-            "round": "9",
+            "round": "8",
             "raceName": "British Grand Prix",
             "race": "race2",
             "type": "feature",
@@ -268,7 +275,7 @@
         },
         {
             "season": "2023",
-            "round": "10",
+            "round": "9",
             "raceName": "Hungarian Grand Prix",
             "race": "race1",
             "type": "sprint",
@@ -280,7 +287,7 @@
         },
         {
             "season": "2023",
-            "round": "10",
+            "round": "9",
             "raceName": "Hungarian Grand Prix",
             "race": "race2",
             "type": "feature",
@@ -292,43 +299,43 @@
         },
         {
             "season": "2023",
-            "round": "11",
+            "round": "10",
             "raceName": "Belgian Grand Prix",
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "14",
+            "grid": "10",
             "position": "12",
             "status": "Finished",
             "points": "0"
         },
         {
             "season": "2023",
-            "round": "11",
+            "round": "10",
             "raceName": "Belgian Grand Prix",
             "race": "race2",
             "type": "feature",
             "constructorId": "prema",
-            "grid": "14",
+            "grid": "1",
             "position": "7",
             "status": "Finished",
-            "points": "6"
+            "points": "8"
         },
         {
             "season": "2023",
-            "round": "12",
+            "round": "11",
             "raceName": "Dutch Grand Prix",
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
             "grid": "5",
-            "position": "1",
+            "position": "3",
             "status": "Finished",
-            "points": "11"
+            "points": "0"
         },
         {
             "season": "2023",
-            "round": "12",
+            "round": "11",
             "raceName": "Dutch Grand Prix",
             "race": "race2",
             "type": "feature",
@@ -340,7 +347,7 @@
         },
         {
             "season": "2023",
-            "round": "13",
+            "round": "12",
             "raceName": "Italian Grand Prix",
             "race": "race1",
             "type": "sprint",
@@ -352,7 +359,7 @@
         },
         {
             "season": "2023",
-            "round": "13",
+            "round": "12",
             "raceName": "Italian Grand Prix",
             "race": "race2",
             "type": "feature",
@@ -364,7 +371,7 @@
         },
         {
             "season": "2023",
-            "round": "14",
+            "round": "13",
             "raceName": "Abu Dhabi Grand Prix",
             "race": "race1",
             "type": "sprint",
@@ -376,7 +383,7 @@
         },
         {
             "season": "2023",
-            "round": "14",
+            "round": "13",
             "raceName": "Abu Dhabi Grand Prix",
             "race": "race2",
             "type": "feature",
@@ -408,6 +415,30 @@
             "grid": "18",
             "position": "15",
             "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "2",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2024",
+            "round": "2",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "1",
+            "position": "NC",
+            "status": "DNF",
             "points": "0"
         },
         {
@@ -525,7 +556,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "prema",
-            "grid": "",
+            "grid": "9",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -537,7 +568,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "6",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -657,10 +688,10 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "prema",
-            "grid": "14",
-            "position": "5",
+            "grid": "15",
+            "position": "4",
             "status": "Finished",
-            "points": "4"
+            "points": "5"
         },
         {
             "season": "2024",
@@ -669,7 +700,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "prema",
-            "grid": "13",
+            "grid": "14",
             "position": "5",
             "status": "Finished",
             "points": "10"

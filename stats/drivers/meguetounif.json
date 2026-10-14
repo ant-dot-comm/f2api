@@ -1,6 +1,6 @@
 {
     "driverId": "meguetounif",
-    "name": "S. Meguetounif",
+    "name": "Sami Meguetounif",
     "code": "",
     "series": "f2",
     "seasons": [
@@ -18,11 +18,14 @@
         },
         "poles": 0,
         "fastestLaps": 0,
-        "dnfs": 6,
+        "dnfs": 5,
         "bestFinish": 9,
-        "avgFinish": 14.13,
+        "avgFinish": 14.31,
         "titles": 0,
-        "bestChampionship": 21
+        "bestChampionship": 21,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2025": {
@@ -37,11 +40,13 @@
             },
             "poles": 0,
             "fastestLaps": 0,
-            "dnfs": 6,
+            "dnfs": 5,
             "bestFinish": 9,
-            "avgFinish": 14.13,
+            "avgFinish": 14.31,
             "championshipPosition": 21,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
@@ -52,7 +57,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "12",
+            "grid": "20",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -136,8 +141,8 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "1",
-            "position": "13",
+            "grid": "20",
+            "position": "16",
             "status": "Finished",
             "points": "0"
         },
@@ -148,8 +153,8 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "10",
-            "position": "16",
+            "grid": "20",
+            "position": "12",
             "status": "Finished",
             "points": "0"
         },
@@ -160,7 +165,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "19",
+            "grid": "18",
             "position": "9",
             "status": "Finished",
             "points": "0"
@@ -196,7 +201,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "",
+            "grid": "13",
             "position": "10",
             "status": "Finished",
             "points": "1"
@@ -233,8 +238,8 @@
             "type": "sprint",
             "constructorId": "trident",
             "grid": "19",
-            "position": "NC",
-            "status": "DNF",
+            "position": "18",
+            "status": "Finished",
             "points": "0"
         },
         {
@@ -256,7 +261,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "19",
+            "grid": "18",
             "position": "17",
             "status": "Finished",
             "points": "0"
@@ -268,7 +273,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "19",
+            "grid": "18",
             "position": "14",
             "status": "Finished",
             "points": "0"
@@ -280,7 +285,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "18",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -292,7 +297,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "trident",
-            "grid": "18",
+            "grid": "12",
             "position": "NC",
             "status": "DNF",
             "points": "0"

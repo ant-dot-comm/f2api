@@ -1,15 +1,16 @@
 {
     "season": "2023",
     "series": "f2",
-    "source": "FIA Driver/Team Championship PDF + f1pedia.com",
-    "lastRound": 14,
-    "scheduledRounds": 14,
+    "championship": "FIA Formula 2 Championship",
+    "source": "motorsportmagazine.com",
+    "lastRound": 13,
+    "scheduledRounds": 13,
     "complete": true,
     "Standings": [
         {
             "position": "1",
             "driverId": "pourchaire",
-            "driver": "Théo Pourchaire",
+            "driver": "Theo Pourchaire",
             "points": "203"
         },
         {
@@ -92,7 +93,7 @@
         },
         {
             "position": "15",
-            "driverId": "leclerc",
+            "driverId": "arthur_leclerc",
             "driver": "Arthur Leclerc",
             "points": "49"
         },
@@ -105,7 +106,7 @@
         {
             "position": "17",
             "driverId": "novalak",
-            "driver": "Clément Novalak",
+            "driver": "Clement Novalak",
             "points": "28"
         },
         {
@@ -141,7 +142,7 @@
         {
             "position": "23",
             "driverId": "mason",
-            "driver": "Joshua Mason",
+            "driver": "Josh Mason",
             "points": "0"
         },
         {

@@ -1,0 +1,129 @@
+{
+    "constructorId": "lazarus",
+    "name": "Venezuela GP Lazarus",
+    "series": "f2",
+    "seasons": [
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+    ],
+    "career": {
+        "entries": 178,
+        "starts": 178,
+        "points": 63,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 1,
+            "sprint": 1
+        },
+        "poles": 0,
+        "fastestLaps": 5,
+        "dnfs": 35,
+        "bestFinish": 3,
+        "avgFinish": 15.75,
+        "titles": 0,
+        "bestChampionship": 10,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2012": {
+            "entries": 48,
+            "starts": 48,
+            "points": 1,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 13,
+            "bestFinish": 10,
+            "avgFinish": 18.0,
+            "championshipPosition": 13,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2013": {
+            "entries": 44,
+            "starts": 44,
+            "points": 12,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 6,
+            "bestFinish": 6,
+            "avgFinish": 16.03,
+            "championshipPosition": 13,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2014": {
+            "entries": 44,
+            "starts": 44,
+            "points": 19,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 7,
+            "bestFinish": 4,
+            "avgFinish": 14.95,
+            "championshipPosition": 13,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2015": {
+            "entries": 42,
+            "starts": 42,
+            "points": 31,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 3,
+            "dnfs": 9,
+            "bestFinish": 3,
+            "avgFinish": 13.94,
+            "championshipPosition": 10,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "amberg",
+        "berthon",
+        "binder",
+        "campana",
+        "canamasas",
+        "crestani",
+        "daly",
+        "ghirelli",
+        "giovesi",
+        "niederhauser",
+        "serenelli"
+    ]
+}

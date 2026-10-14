@@ -1,0 +1,102 @@
+{
+    "driverId": "palou",
+    "name": "Alex Palou",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2017"
+    ],
+    "career": {
+        "entries": 4,
+        "starts": 4,
+        "points": 5,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 0,
+        "bestFinish": 8,
+        "avgFinish": 10.0,
+        "titles": 0,
+        "bestChampionship": 21,
+        "eras": [
+            "f2"
+        ]
+    },
+    "bySeasons": {
+        "2017": {
+            "entries": 4,
+            "starts": 4,
+            "points": 5,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 0,
+            "bestFinish": 8,
+            "avgFinish": 10.0,
+            "championshipPosition": 21,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        }
+    },
+    "results": [
+        {
+            "season": "2017",
+            "round": "10",
+            "raceName": "European Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "1",
+            "position": "8",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2017",
+            "round": "10",
+            "raceName": "European Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "11",
+            "position": "8",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2017",
+            "round": "11",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "12",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2017",
+            "round": "11",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "10",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

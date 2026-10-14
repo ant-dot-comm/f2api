@@ -1,33 +1,114 @@
 {
     "constructorId": "virtuosi",
-    "name": "virtuosi",
+    "name": "UNI-Virtuosi",
     "series": "f2",
     "seasons": [
-        "2022"
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
     ],
     "career": {
-        "entries": 56,
-        "starts": 56,
-        "points": 134,
+        "entries": 356,
+        "starts": 356,
+        "points": 1902.0,
         "wins": {
-            "total": 3,
-            "sprint": 2,
-            "feature": 1
+            "total": 26,
+            "sprint": 13,
+            "feature": 13
         },
         "podiums": {
-            "total": 6,
-            "feature": 2,
-            "sprint": 4
+            "total": 77,
+            "sprint": 34,
+            "feature": 43
         },
-        "poles": 2,
-        "fastestLaps": 4,
-        "dnfs": 11,
+        "poles": 23,
+        "fastestLaps": 11,
+        "dnfs": 42,
         "bestFinish": 1,
-        "avgFinish": 10.47,
-        "titles": 0,
-        "bestChampionship": 7
+        "avgFinish": 8.05,
+        "titles": 2,
+        "bestChampionship": 1,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
+        "2019": {
+            "entries": 44,
+            "starts": 44,
+            "points": 347,
+            "wins": {
+                "total": 4,
+                "sprint": 3,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 14,
+                "sprint": 7,
+                "feature": 7
+            },
+            "poles": 3,
+            "fastestLaps": 1,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 5.53,
+            "championshipPosition": 2,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2020": {
+            "entries": 48,
+            "starts": 48,
+            "points": 352.5,
+            "wins": {
+                "total": 4,
+                "feature": 2,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 12,
+                "feature": 8,
+                "sprint": 4
+            },
+            "poles": 6,
+            "fastestLaps": 0,
+            "dnfs": 4,
+            "bestFinish": 1,
+            "avgFinish": 6.48,
+            "championshipPosition": 2,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2021": {
+            "entries": 46,
+            "starts": 46,
+            "points": 288,
+            "wins": {
+                "total": 4,
+                "feature": 2,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 13,
+                "sprint": 7,
+                "feature": 6
+            },
+            "poles": 1,
+            "fastestLaps": 0,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 6.97,
+            "championshipPosition": 2,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
         "2022": {
             "entries": 56,
             "starts": 56,
@@ -42,17 +123,99 @@
                 "feature": 2,
                 "sprint": 4
             },
-            "poles": 2,
+            "poles": 3,
             "fastestLaps": 4,
-            "dnfs": 11,
+            "dnfs": 10,
             "bestFinish": 1,
-            "avgFinish": 10.47,
+            "avgFinish": 10.59,
             "championshipPosition": 7,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 176,
+            "wins": {
+                "total": 3,
+                "feature": 3
+            },
+            "podiums": {
+                "total": 5,
+                "feature": 4,
+                "sprint": 1
+            },
+            "poles": 2,
+            "fastestLaps": 3,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 11.09,
+            "championshipPosition": 5,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2024": {
+            "entries": 56,
+            "starts": 56,
+            "points": 288.5,
+            "wins": {
+                "total": 3,
+                "feature": 2,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 13,
+                "feature": 7,
+                "sprint": 6
+            },
+            "poles": 2,
+            "fastestLaps": 3,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 7.9,
+            "championshipPosition": 1,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2025": {
+            "entries": 54,
+            "starts": 54,
+            "points": 316,
+            "wins": {
+                "total": 5,
+                "sprint": 3,
+                "feature": 2
+            },
+            "podiums": {
+                "total": 14,
+                "feature": 9,
+                "sprint": 5
+            },
+            "poles": 6,
+            "fastestLaps": 0,
+            "dnfs": 2,
+            "bestFinish": 1,
+            "avgFinish": 7.4,
+            "championshipPosition": 1,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "drivers": [
+        "bortoleto",
+        "cordeel",
         "doohan",
-        "sato"
+        "drugovich",
+        "fornaroli",
+        "ghiotto",
+        "guanyu",
+        "ilott",
+        "maini",
+        "marino_sato",
+        "stanek"
     ]
 }

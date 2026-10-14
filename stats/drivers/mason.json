@@ -1,6 +1,6 @@
 {
     "driverId": "mason",
-    "name": "Joshua Mason",
+    "name": "Josh Mason",
     "code": "",
     "series": "f2",
     "seasons": [
@@ -20,9 +20,12 @@
         "fastestLaps": 0,
         "dnfs": 1,
         "bestFinish": 12,
-        "avgFinish": 16.14,
+        "avgFinish": 15.57,
         "titles": 0,
-        "bestChampionship": 23
+        "bestChampionship": 23,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2023": {
@@ -39,19 +42,21 @@
             "fastestLaps": 0,
             "dnfs": 1,
             "bestFinish": 12,
-            "avgFinish": 16.14,
+            "avgFinish": 15.57,
             "championshipPosition": 23,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
         {
             "season": "2023",
-            "round": "11",
+            "round": "10",
             "raceName": "Belgian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "phm",
+            "constructorId": "charouz_racing",
             "grid": "21",
             "position": "19",
             "status": "Finished",
@@ -59,35 +64,35 @@
         },
         {
             "season": "2023",
-            "round": "11",
+            "round": "10",
             "raceName": "Belgian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "phm",
-            "grid": "21",
+            "constructorId": "charouz_racing",
+            "grid": "22",
             "position": "14",
             "status": "Finished",
             "points": "0"
         },
         {
             "season": "2023",
-            "round": "12",
+            "round": "11",
             "raceName": "Dutch Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "phm",
+            "constructorId": "charouz_racing",
             "grid": "22",
-            "position": "22",
+            "position": "18",
             "status": "Finished",
             "points": "0"
         },
         {
             "season": "2023",
-            "round": "12",
+            "round": "11",
             "raceName": "Dutch Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "phm",
+            "constructorId": "charouz_racing",
             "grid": "22",
             "position": "15",
             "status": "Finished",
@@ -95,11 +100,11 @@
         },
         {
             "season": "2023",
-            "round": "13",
+            "round": "12",
             "raceName": "Italian Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "phm",
+            "constructorId": "charouz_racing",
             "grid": "22",
             "position": "16",
             "status": "Finished",
@@ -107,11 +112,11 @@
         },
         {
             "season": "2023",
-            "round": "13",
+            "round": "12",
             "raceName": "Italian Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "phm",
+            "constructorId": "charouz_racing",
             "grid": "22",
             "position": "12",
             "status": "Finished",
@@ -119,11 +124,11 @@
         },
         {
             "season": "2023",
-            "round": "14",
+            "round": "13",
             "raceName": "Abu Dhabi Grand Prix",
             "race": "race1",
             "type": "sprint",
-            "constructorId": "phm",
+            "constructorId": "charouz_racing",
             "grid": "22",
             "position": "15",
             "status": "Finished",
@@ -131,11 +136,11 @@
         },
         {
             "season": "2023",
-            "round": "14",
+            "round": "13",
             "raceName": "Abu Dhabi Grand Prix",
             "race": "race2",
             "type": "feature",
-            "constructorId": "phm",
+            "constructorId": "charouz_racing",
             "grid": "22",
             "position": "NC",
             "status": "DNF",

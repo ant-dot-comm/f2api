@@ -1,0 +1,149 @@
+{
+    "season": "2005",
+    "series": "gp2",
+    "championship": "GP2 Series",
+    "source": "motorsportmagazine.com",
+    "lastRound": 12,
+    "scheduledRounds": 12,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "driverId": "rosberg",
+            "driver": "Nico Rosberg",
+            "points": "120"
+        },
+        {
+            "position": "2",
+            "driverId": "kovalainen",
+            "driver": "Heikki Kovalainen",
+            "points": "105"
+        },
+        {
+            "position": "3",
+            "driverId": "speed",
+            "driver": "Scott Speed",
+            "points": "67.5"
+        },
+        {
+            "position": "4",
+            "driverId": "premat",
+            "driver": "Alexandre Premat",
+            "points": "67"
+        },
+        {
+            "position": "5",
+            "driverId": "carroll",
+            "driver": "Adam Carroll",
+            "points": "53"
+        },
+        {
+            "position": "6",
+            "driverId": "pantano",
+            "driver": "Giorgio Pantano",
+            "points": "49"
+        },
+        {
+            "position": "7",
+            "driverId": "jani",
+            "driver": "Neel Jani",
+            "points": "48"
+        },
+        {
+            "position": "8",
+            "driverId": "nelson_piquet",
+            "driver": "Nelson Angelo Piquet",
+            "points": "46"
+        },
+        {
+            "position": "9",
+            "driverId": "lopez",
+            "driver": "Jose Maria Lopez",
+            "points": "36"
+        },
+        {
+            "position": "10",
+            "driverId": "bruni",
+            "driver": "Gianmaria Bruni",
+            "points": "35"
+        },
+        {
+            "position": "11",
+            "driverId": "viso",
+            "driver": "Ernesto Viso",
+            "points": "21"
+        },
+        {
+            "position": "12",
+            "driverId": "lapierre",
+            "driver": "Nicolas Lapierre",
+            "points": "21"
+        },
+        {
+            "position": "13",
+            "driverId": "pla",
+            "driver": "Olivier Pla",
+            "points": "20"
+        },
+        {
+            "position": "14",
+            "driverId": "garcia",
+            "driver": "Borja Garcia",
+            "points": "17.5"
+        },
+        {
+            "position": "15",
+            "driverId": "piccione",
+            "driver": "Clivio Piccione",
+            "points": "14"
+        },
+        {
+            "position": "16",
+            "driverId": "yoshimoto",
+            "driver": "Hiroki Yoshimoto",
+            "points": "14"
+        },
+        {
+            "position": "17",
+            "driverId": "monfardini",
+            "driver": "Ferdinando Monfardini",
+            "points": "5"
+        },
+        {
+            "position": "18",
+            "driverId": "alvarez",
+            "driver": "Juan Cruz Alvarez",
+            "points": "4.5"
+        },
+        {
+            "position": "19",
+            "driverId": "alexandre_negrao",
+            "driver": "Alexandre Sarnes Negrao",
+            "points": "4"
+        },
+        {
+            "position": "20",
+            "driverId": "hernandez",
+            "driver": "Sergio Hernandez",
+            "points": "3"
+        },
+        {
+            "position": "21",
+            "driverId": "lauda",
+            "driver": "Matthias Lauda",
+            "points": "3"
+        },
+        {
+            "position": "22",
+            "driverId": "artam",
+            "driver": "Can Artam",
+            "points": "2"
+        },
+        {
+            "position": "23",
+            "driverId": "sharp",
+            "driver": "Ryan Sharp",
+            "points": "2"
+        }
+    ]
+}

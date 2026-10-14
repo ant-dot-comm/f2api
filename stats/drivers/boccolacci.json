@@ -1,0 +1,315 @@
+{
+    "driverId": "boccolacci",
+    "name": "Dorian Boccolacci",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2018",
+        "2019"
+    ],
+    "career": {
+        "entries": 20,
+        "starts": 20,
+        "points": 33,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 3,
+        "bestFinish": 4,
+        "avgFinish": 11.53,
+        "titles": 0,
+        "bestChampionship": 14,
+        "eras": [
+            "f2"
+        ]
+    },
+    "bySeasons": {
+        "2018": {
+            "entries": 8,
+            "starts": 8,
+            "points": 3,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 7,
+            "avgFinish": 12.0,
+            "championshipPosition": 21,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2019": {
+            "entries": 12,
+            "starts": 12,
+            "points": 30,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 2,
+            "bestFinish": 4,
+            "avgFinish": 11.2,
+            "championshipPosition": 14,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        }
+    },
+    "results": [
+        {
+            "season": "2018",
+            "round": "9",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "mp",
+            "grid": "15",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "9",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "mp",
+            "grid": "20",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "10",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "mp",
+            "grid": "18",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2018",
+            "round": "10",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "mp",
+            "grid": "20",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "11",
+            "raceName": "Russian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "mp",
+            "grid": "13",
+            "position": "8",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2018",
+            "round": "11",
+            "raceName": "Russian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "mp",
+            "grid": "18",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "12",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "mp",
+            "grid": "12",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2018",
+            "round": "12",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "mp",
+            "grid": "17",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "15",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "16",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "2",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "6",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2019",
+            "round": "2",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "16",
+            "position": "5",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2019",
+            "round": "3",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "14",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "3",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "12",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "4",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "5",
+            "position": "5",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2019",
+            "round": "4",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "13",
+            "position": "4",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2019",
+            "round": "5",
+            "raceName": "French Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "16",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "5",
+            "raceName": "French Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "adrian_campos_motorsport",
+            "grid": "9",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "7",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "19",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "7",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "17",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        }
+    ]
+}

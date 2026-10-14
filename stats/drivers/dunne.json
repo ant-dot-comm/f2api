@@ -23,11 +23,14 @@
         },
         "poles": 3,
         "fastestLaps": 5,
-        "dnfs": 6,
+        "dnfs": 8,
         "bestFinish": 1,
-        "avgFinish": 6.0,
+        "avgFinish": 5.95,
         "titles": 0,
-        "bestChampionship": 3
+        "bestChampionship": 3,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2025": {
@@ -45,11 +48,13 @@
             },
             "poles": 2,
             "fastestLaps": 2,
-            "dnfs": 4,
+            "dnfs": 6,
             "bestFinish": 1,
-            "avgFinish": 6.23,
+            "avgFinish": 6.14,
             "championshipPosition": 5,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2026": {
             "entries": 25,
@@ -71,7 +76,9 @@
             "bestFinish": 1,
             "avgFinish": 5.78,
             "championshipPosition": 3,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "results": [
@@ -82,10 +89,10 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "rodin",
-            "grid": "22",
+            "grid": "16",
             "position": "9",
             "status": "Finished",
-            "points": "2"
+            "points": "0"
         },
         {
             "season": "2025",
@@ -166,8 +173,8 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "rodin",
-            "grid": "",
-            "position": "8",
+            "grid": "10",
+            "position": "9",
             "status": "Finished",
             "points": "1"
         },
@@ -178,9 +185,9 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "rodin",
-            "grid": "",
-            "position": "9",
-            "status": "Finished",
+            "grid": "1",
+            "position": "NC",
+            "status": "DNF",
             "points": "2"
         },
         {
@@ -190,7 +197,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "rodin",
-            "grid": "6",
+            "grid": "19",
             "position": "2",
             "status": "Finished",
             "points": "9"
@@ -202,7 +209,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "rodin",
-            "grid": "5",
+            "grid": "8",
             "position": "5",
             "status": "Finished",
             "points": "11"
@@ -214,7 +221,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "rodin",
-            "grid": "",
+            "grid": "3",
             "position": "6",
             "status": "Finished",
             "points": "3"
@@ -226,9 +233,9 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "rodin",
-            "grid": "",
+            "grid": "7",
             "position": "NC",
-            "status": "DSQ",
+            "status": "DNF",
             "points": "0"
         },
         {
@@ -238,7 +245,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "rodin",
-            "grid": "9",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -277,7 +284,7 @@
             "grid": "1",
             "position": "9",
             "status": "Finished",
-            "points": "2"
+            "points": "4"
         },
         {
             "season": "2025",
@@ -310,7 +317,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "rodin",
-            "grid": "8",
+            "grid": "6",
             "position": "13",
             "status": "Finished",
             "points": "0"
@@ -322,7 +329,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "rodin",
-            "grid": "3",
+            "grid": "5",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -334,7 +341,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "rodin",
-            "grid": "10",
+            "grid": "7",
             "position": "3",
             "status": "Finished",
             "points": "6"
@@ -346,7 +353,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "rodin",
-            "grid": "1",
+            "grid": "4",
             "position": "NC",
             "status": "DNF",
             "points": "0"
@@ -394,7 +401,7 @@
             "race": "race2",
             "type": "feature",
             "constructorId": "rodin",
-            "grid": "11",
+            "grid": "10",
             "position": "NC",
             "status": "DNF",
             "points": "0"

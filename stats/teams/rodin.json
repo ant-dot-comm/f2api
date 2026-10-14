@@ -3,56 +3,37 @@
     "name": "Rodin Motorsport",
     "series": "f2",
     "seasons": [
-        "2021",
         "2024",
         "2025",
         "2026"
     ],
     "career": {
-        "entries": 206,
-        "starts": 205,
-        "points": 1114.5,
+        "entries": 160,
+        "starts": 159,
+        "points": 622,
         "wins": {
-            "total": 10,
-            "sprint": 5,
+            "total": 6,
+            "sprint": 1,
             "feature": 5
         },
         "podiums": {
-            "total": 40,
-            "sprint": 20,
-            "feature": 19,
+            "total": 28,
+            "sprint": 12,
+            "feature": 15,
             "feature2": 1
         },
         "poles": 5,
-        "fastestLaps": 11,
-        "dnfs": 22,
+        "fastestLaps": 9,
+        "dnfs": 18,
         "bestFinish": 1,
-        "avgFinish": 8.62,
+        "avgFinish": 9.29,
         "titles": 0,
-        "bestChampionship": 3
+        "bestChampionship": 3,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
-        "2021": {
-            "entries": 46,
-            "starts": 46,
-            "points": 272.5,
-            "wins": {
-                "total": 4,
-                "sprint": 4
-            },
-            "podiums": {
-                "total": 12,
-                "sprint": 8,
-                "feature": 4
-            },
-            "poles": 0,
-            "fastestLaps": 2,
-            "dnfs": 4,
-            "bestFinish": 1,
-            "avgFinish": 6.5,
-            "championshipPosition": 3,
-            "complete": true
-        },
         "2024": {
             "entries": 56,
             "starts": 56,
@@ -71,9 +52,11 @@
             "fastestLaps": 2,
             "dnfs": 5,
             "bestFinish": 1,
-            "avgFinish": 9.86,
+            "avgFinish": 9.82,
             "championshipPosition": 8,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2025": {
             "entries": 54,
@@ -92,9 +75,11 @@
             "fastestLaps": 2,
             "dnfs": 9,
             "bestFinish": 1,
-            "avgFinish": 10.34,
+            "avgFinish": 10.49,
             "championshipPosition": 7,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2026": {
             "entries": 50,
@@ -116,17 +101,17 @@
             "bestFinish": 1,
             "avgFinish": 7.49,
             "championshipPosition": 3,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "drivers": [
         "cordeel",
-        "daruvala",
         "dunne",
         "fornaroli",
         "maloney",
         "miyata",
-        "stenshorne",
-        "ticktum"
+        "stenshorne"
     ]
 }

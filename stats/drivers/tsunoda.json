@@ -1,0 +1,350 @@
+{
+    "driverId": "tsunoda",
+    "name": "Yuki Tsunoda",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2020"
+    ],
+    "career": {
+        "entries": 24,
+        "starts": 24,
+        "points": 200,
+        "wins": {
+            "total": 3,
+            "sprint": 1,
+            "feature": 2
+        },
+        "podiums": {
+            "total": 7,
+            "feature": 5,
+            "sprint": 2
+        },
+        "poles": 4,
+        "fastestLaps": 0,
+        "dnfs": 3,
+        "bestFinish": 1,
+        "avgFinish": 7.81,
+        "titles": 0,
+        "bestChampionship": 3,
+        "eras": [
+            "f2"
+        ]
+    },
+    "bySeasons": {
+        "2020": {
+            "entries": 24,
+            "starts": 24,
+            "points": 200,
+            "wins": {
+                "total": 3,
+                "sprint": 1,
+                "feature": 2
+            },
+            "podiums": {
+                "total": 7,
+                "feature": 5,
+                "sprint": 2
+            },
+            "poles": 4,
+            "fastestLaps": 0,
+            "dnfs": 3,
+            "bestFinish": 1,
+            "avgFinish": 7.81,
+            "championshipPosition": 3,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        }
+    },
+    "results": [
+        {
+            "season": "2020",
+            "round": "1",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "18",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "1",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "12",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "2",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "2",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "1",
+            "position": "2",
+            "status": "Finished",
+            "points": "24"
+        },
+        {
+            "season": "2020",
+            "round": "3",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "16",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "3",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "14",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "9",
+            "position": "3",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2020",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "3",
+            "position": "1",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2020",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "10",
+            "position": "6",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2020",
+            "round": "6",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "5",
+            "position": "4",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2020",
+            "round": "6",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "6",
+            "position": "4",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2020",
+            "round": "7",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "8",
+            "position": "9",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "7",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "1",
+            "position": "1",
+            "status": "Finished",
+            "points": "29"
+        },
+        {
+            "season": "2020",
+            "round": "8",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "8",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "2",
+            "position": "4",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2020",
+            "round": "9",
+            "raceName": "Tuscan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "16",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "9",
+            "raceName": "Tuscan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "11",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "10",
+            "raceName": "Russian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "7",
+            "position": "6",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2020",
+            "round": "10",
+            "raceName": "Russian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "1",
+            "position": "2",
+            "status": "Finished",
+            "points": "22"
+        },
+        {
+            "season": "2020",
+            "round": "11",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "3",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "11",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "22",
+            "position": "6",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2020",
+            "round": "12",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "8",
+            "position": "2",
+            "status": "Finished",
+            "points": "14"
+        },
+        {
+            "season": "2020",
+            "round": "12",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "1",
+            "position": "1",
+            "status": "Finished",
+            "points": "29"
+        }
+    ]
+}

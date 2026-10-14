@@ -1,0 +1,220 @@
+{
+    "constructorId": "hitech_racing",
+    "name": "HiTech Piquet",
+    "series": "f2",
+    "seasons": [
+        "2005",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+    ],
+    "career": {
+        "entries": 342,
+        "starts": 342,
+        "points": 1318,
+        "wins": {
+            "total": 15,
+            "sprint": 10,
+            "feature": 5
+        },
+        "podiums": {
+            "total": 59,
+            "sprint": 35,
+            "feature": 24
+        },
+        "poles": 10,
+        "fastestLaps": 19,
+        "dnfs": 51,
+        "bestFinish": 1,
+        "avgFinish": 8.58,
+        "titles": 0,
+        "bestChampionship": 2,
+        "eras": [
+            "f2",
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2005": {
+            "entries": 30,
+            "starts": 30,
+            "points": 26,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 9,
+            "bestFinish": 2,
+            "avgFinish": 10.43,
+            "championshipPosition": 9,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2020": {
+            "entries": 48,
+            "starts": 48,
+            "points": 270,
+            "wins": {
+                "total": 3,
+                "sprint": 1,
+                "feature": 2
+            },
+            "podiums": {
+                "total": 10,
+                "sprint": 4,
+                "feature": 6
+            },
+            "poles": 0,
+            "fastestLaps": 4,
+            "dnfs": 5,
+            "bestFinish": 1,
+            "avgFinish": 7.65,
+            "championshipPosition": 4,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2021": {
+            "entries": 46,
+            "starts": 46,
+            "points": 223,
+            "wins": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 9,
+                "sprint": 7,
+                "feature": 2
+            },
+            "poles": 1,
+            "fastestLaps": 2,
+            "dnfs": 10,
+            "bestFinish": 1,
+            "avgFinish": 6.64,
+            "championshipPosition": 4,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2022": {
+            "entries": 56,
+            "starts": 56,
+            "points": 207,
+            "wins": {
+                "total": 4,
+                "sprint": 4
+            },
+            "podiums": {
+                "total": 9,
+                "feature": 2,
+                "sprint": 7
+            },
+            "poles": 2,
+            "fastestLaps": 3,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 7.96,
+            "championshipPosition": 5,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 112,
+            "wins": {
+                "total": 2,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 7,
+                "sprint": 6,
+                "feature": 1
+            },
+            "poles": 1,
+            "fastestLaps": 1,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 9.85,
+            "championshipPosition": 8,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2024": {
+            "entries": 56,
+            "starts": 56,
+            "points": 202,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 8,
+                "feature": 4,
+                "sprint": 4
+            },
+            "poles": 4,
+            "fastestLaps": 2,
+            "dnfs": 10,
+            "bestFinish": 1,
+            "avgFinish": 9.7,
+            "championshipPosition": 4,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2025": {
+            "entries": 54,
+            "starts": 54,
+            "points": 278,
+            "wins": {
+                "total": 2,
+                "feature": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 13,
+                "feature": 8,
+                "sprint": 5
+            },
+            "poles": 2,
+            "fastestLaps": 7,
+            "dnfs": 4,
+            "bestFinish": 1,
+            "avgFinish": 8.42,
+            "championshipPosition": 2,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        }
+    },
+    "drivers": [
+        "alexandre_negrao",
+        "armstrong",
+        "aron",
+        "beganovic",
+        "browning",
+        "cordeel",
+        "crawford",
+        "ghiotto",
+        "hadjar",
+        "lawson",
+        "mazepin",
+        "nelson_piquet",
+        "vips"
+    ]
+}

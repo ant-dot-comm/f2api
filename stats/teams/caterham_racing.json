@@ -1,0 +1,115 @@
+{
+    "constructorId": "caterham_racing",
+    "name": "Caterham Racing",
+    "series": "f2",
+    "seasons": [
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "career": {
+        "entries": 136,
+        "starts": 136,
+        "points": 303,
+        "wins": {
+            "total": 3,
+            "feature": 2,
+            "sprint": 1
+        },
+        "podiums": {
+            "total": 11,
+            "feature": 6,
+            "sprint": 5
+        },
+        "poles": 3,
+        "fastestLaps": 4,
+        "dnfs": 21,
+        "bestFinish": 1,
+        "avgFinish": 12.95,
+        "titles": 0,
+        "bestChampionship": 7,
+        "eras": [
+            "gp2"
+        ]
+    },
+    "bySeasons": {
+        "2012": {
+            "entries": 48,
+            "starts": 48,
+            "points": 166,
+            "wins": {
+                "total": 2,
+                "feature": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 6,
+                "feature": 3,
+                "sprint": 3
+            },
+            "poles": 2,
+            "fastestLaps": 1,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 12.21,
+            "championshipPosition": 7,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2013": {
+            "entries": 44,
+            "starts": 44,
+            "points": 95,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 4,
+                "feature": 3,
+                "sprint": 1
+            },
+            "poles": 1,
+            "fastestLaps": 2,
+            "dnfs": 9,
+            "bestFinish": 1,
+            "avgFinish": 12.77,
+            "championshipPosition": 9,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        },
+        "2014": {
+            "entries": 44,
+            "starts": 44,
+            "points": 42,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 6,
+            "bestFinish": 3,
+            "avgFinish": 13.92,
+            "championshipPosition": 11,
+            "complete": true,
+            "era": "gp2",
+            "championship": "GP2 Series"
+        }
+    },
+    "drivers": [
+        "canamasas",
+        "dillmann",
+        "garde",
+        "gasly",
+        "gonzalez",
+        "haryanto",
+        "hua",
+        "rossi"
+    ]
+}

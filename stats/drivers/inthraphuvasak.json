@@ -24,7 +24,10 @@
         "bestFinish": 2,
         "avgFinish": 9.95,
         "titles": 0,
-        "bestChampionship": 11
+        "bestChampionship": 11,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2025": {
@@ -43,7 +46,9 @@
             "bestFinish": 17,
             "avgFinish": 17.5,
             "championshipPosition": 26,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         },
         "2026": {
             "entries": 23,
@@ -62,7 +67,9 @@
             "bestFinish": 2,
             "avgFinish": 9.16,
             "championshipPosition": 11,
-            "complete": false
+            "complete": false,
+            "era": "f2",
+            "championship": null
         }
     },
     "results": [

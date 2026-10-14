@@ -1,6 +1,6 @@
 {
     "driverId": "wharton",
-    "name": "J. Wharton",
+    "name": "James Wharton",
     "code": "",
     "series": "f2",
     "seasons": [
@@ -22,7 +22,10 @@
         "bestFinish": 19,
         "avgFinish": 19.0,
         "titles": 0,
-        "bestChampionship": 27
+        "bestChampionship": 27,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
         "2025": {
@@ -41,7 +44,9 @@
             "bestFinish": 19,
             "avgFinish": 19.0,
             "championshipPosition": 27,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
@@ -52,7 +57,7 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "trident",
-            "grid": "21",
+            "grid": "",
             "position": "NC",
             "status": "DNF",
             "points": "0"

@@ -1,0 +1,77 @@
+{
+    "season": "2020",
+    "series": "f2",
+    "championship": "FIA Formula 2 Championship",
+    "source": "motorsportmagazine.com",
+    "lastRound": 12,
+    "scheduledRounds": 12,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "constructorId": "prema",
+            "team": "Prema Racing",
+            "points": "392"
+        },
+        {
+            "position": "2",
+            "constructorId": "virtuosi",
+            "team": "UNI-Virtuosi",
+            "points": "352.5"
+        },
+        {
+            "position": "3",
+            "constructorId": "carlin",
+            "team": "Carlin",
+            "points": "272"
+        },
+        {
+            "position": "4",
+            "constructorId": "hitech_racing",
+            "team": "HiTech GP",
+            "points": "270"
+        },
+        {
+            "position": "5",
+            "constructorId": "art",
+            "team": "ART Grand Prix",
+            "points": "201"
+        },
+        {
+            "position": "6",
+            "constructorId": "mp",
+            "team": "MP Motorsport",
+            "points": "167"
+        },
+        {
+            "position": "7",
+            "constructorId": "charouz_racing",
+            "team": "Charouz Racing System",
+            "points": "137"
+        },
+        {
+            "position": "8",
+            "constructorId": "dams",
+            "team": "DAMS",
+            "points": "115.5"
+        },
+        {
+            "position": "9",
+            "constructorId": "adrian_campos_motorsport",
+            "team": "Campos Racing",
+            "points": "48"
+        },
+        {
+            "position": "10",
+            "constructorId": "hwa_team",
+            "team": "BWT HWA Racelab",
+            "points": "13"
+        },
+        {
+            "position": "11",
+            "constructorId": "trident",
+            "team": "Trident Racing",
+            "points": "6"
+        }
+    ]
+}

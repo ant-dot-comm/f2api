@@ -4,28 +4,78 @@
     "code": "",
     "series": "f2",
     "seasons": [
+        "2019",
+        "2020",
         "2021"
     ],
     "career": {
-        "entries": 23,
-        "starts": 23,
-        "points": 50,
+        "entries": 49,
+        "starts": 49,
+        "points": 199,
         "wins": {
-            "total": 0
+            "total": 2,
+            "sprint": 2
         },
         "podiums": {
-            "total": 3,
-            "sprint": 3
+            "total": 9,
+            "sprint": 7,
+            "feature": 2
         },
-        "poles": 0,
-        "fastestLaps": 0,
-        "dnfs": 3,
-        "bestFinish": 2,
-        "avgFinish": 10.4,
+        "poles": 1,
+        "fastestLaps": 2,
+        "dnfs": 5,
+        "bestFinish": 1,
+        "avgFinish": 9.57,
         "titles": 0,
-        "bestChampionship": 12
+        "bestChampionship": 7,
+        "eras": [
+            "f2"
+        ]
     },
     "bySeasons": {
+        "2019": {
+            "entries": 2,
+            "starts": 2,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 0,
+            "bestFinish": 12,
+            "avgFinish": 13.0,
+            "championshipPosition": 23,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
+        "2020": {
+            "entries": 24,
+            "starts": 24,
+            "points": 149,
+            "wins": {
+                "total": 2,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 6,
+                "sprint": 4,
+                "feature": 2
+            },
+            "poles": 1,
+            "fastestLaps": 2,
+            "dnfs": 2,
+            "bestFinish": 1,
+            "avgFinish": 8.5,
+            "championshipPosition": 7,
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
+        },
         "2021": {
             "entries": 23,
             "starts": 23,
@@ -43,10 +93,324 @@
             "bestFinish": 2,
             "avgFinish": 10.4,
             "championshipPosition": 12,
-            "complete": true
+            "complete": true,
+            "era": "f2",
+            "championship": "FIA Formula 2 Championship"
         }
     },
     "results": [
+        {
+            "season": "2019",
+            "round": "11",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "14",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2019",
+            "round": "11",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "17",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "1",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "5",
+            "position": "5",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2020",
+            "round": "1",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "4",
+            "position": "4",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2020",
+            "round": "2",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "3",
+            "position": "1",
+            "status": "Finished",
+            "points": "17"
+        },
+        {
+            "season": "2020",
+            "round": "2",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "8",
+            "position": "6",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2020",
+            "round": "3",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "18",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "3",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "6",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "5",
+            "position": "2",
+            "status": "Finished",
+            "points": "14"
+        },
+        {
+            "season": "2020",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "4",
+            "position": "4",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2020",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "7",
+            "position": "21",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "5",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "2",
+            "position": "2",
+            "status": "Finished",
+            "points": "18"
+        },
+        {
+            "season": "2020",
+            "round": "6",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "11",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "6",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "14",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "7",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "17",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2020",
+            "round": "7",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "18",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "8",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "6",
+            "position": "2",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2020",
+            "round": "8",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "4",
+            "position": "3",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2020",
+            "round": "9",
+            "raceName": "Tuscan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "3",
+            "position": "1",
+            "status": "Finished",
+            "points": "17"
+        },
+        {
+            "season": "2020",
+            "round": "9",
+            "raceName": "Tuscan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "1",
+            "position": "6",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2020",
+            "round": "10",
+            "raceName": "Russian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "21",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "10",
+            "raceName": "Russian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "6",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "11",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "19",
+            "position": "6",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2020",
+            "round": "11",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "9",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "12",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "art",
+            "grid": "21",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2020",
+            "round": "12",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "art",
+            "grid": "6",
+            "position": "21",
+            "status": "Finished",
+            "points": "0"
+        },
         {
             "season": "2021",
             "round": "1",
@@ -55,9 +419,9 @@
             "type": "sprint",
             "constructorId": "art",
             "grid": "9",
-            "position": "2",
+            "position": "6",
             "status": "Finished",
-            "points": "12"
+            "points": "4"
         },
         {
             "season": "2021",
@@ -66,10 +430,10 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "art",
-            "grid": "9",
-            "position": "6",
+            "grid": "5",
+            "position": "2",
             "status": "Finished",
-            "points": "4"
+            "points": "12"
         },
         {
             "season": "2021",
@@ -114,7 +478,7 @@
             "race": "race3",
             "type": "feature",
             "constructorId": "art",
-            "grid": "",
+            "grid": "8",
             "position": "12",
             "status": "Finished",
             "points": "0"
@@ -126,9 +490,9 @@
             "race": "race1",
             "type": "sprint",
             "constructorId": "art",
-            "grid": "12",
-            "position": "NC",
-            "status": "DNF",
+            "grid": "15",
+            "position": "11",
+            "status": "Finished",
             "points": "0"
         },
         {
@@ -139,8 +503,8 @@
             "type": "sprint",
             "constructorId": "art",
             "grid": "",
-            "position": "11",
-            "status": "Finished",
+            "position": "NC",
+            "status": "DNF",
             "points": "0"
         },
         {
@@ -163,9 +527,9 @@
             "type": "sprint",
             "constructorId": "art",
             "grid": "1",
-            "position": "13",
+            "position": "3",
             "status": "Finished",
-            "points": "0"
+            "points": "10"
         },
         {
             "season": "2021",
@@ -174,10 +538,10 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "art",
-            "grid": "13",
-            "position": "3",
+            "grid": "8",
+            "position": "13",
             "status": "Finished",
-            "points": "10"
+            "points": "0"
         },
         {
             "season": "2021",
@@ -199,9 +563,9 @@
             "type": "sprint",
             "constructorId": "art",
             "grid": "19",
-            "position": "14",
+            "position": "3",
             "status": "Finished",
-            "points": "0"
+            "points": "10"
         },
         {
             "season": "2021",
@@ -210,10 +574,10 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "art",
-            "grid": "14",
-            "position": "3",
+            "grid": "8",
+            "position": "14",
             "status": "Finished",
-            "points": "10"
+            "points": "0"
         },
         {
             "season": "2021",
@@ -243,8 +607,8 @@
             "season": "2021",
             "round": "6",
             "raceName": "Russian Grand Prix",
-            "race": "race3",
-            "type": "feature",
+            "race": "race2",
+            "type": "sprint",
             "constructorId": "art",
             "grid": "12",
             "position": "9",
@@ -259,9 +623,9 @@
             "type": "sprint",
             "constructorId": "art",
             "grid": "7",
-            "position": "15",
+            "position": "6",
             "status": "Finished",
-            "points": "0"
+            "points": "4"
         },
         {
             "season": "2021",
@@ -270,10 +634,10 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "art",
-            "grid": "15",
-            "position": "6",
+            "grid": "5",
+            "position": "15",
             "status": "Finished",
-            "points": "4"
+            "points": "0"
         },
         {
             "season": "2021",
@@ -285,7 +649,7 @@
             "grid": "4",
             "position": "7",
             "status": "Finished",
-            "points": "6"
+            "points": "3"
         },
         {
             "season": "2021",
@@ -295,7 +659,7 @@
             "type": "sprint",
             "constructorId": "art",
             "grid": "12",
-            "position": "18",
+            "position": "15",
             "status": "Finished",
             "points": "0"
         },
@@ -306,8 +670,8 @@
             "race": "race2",
             "type": "sprint",
             "constructorId": "art",
-            "grid": "18",
-            "position": "15",
+            "grid": "15",
+            "position": "18",
             "status": "Finished",
             "points": "0"
         },
