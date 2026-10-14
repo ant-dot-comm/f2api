@@ -1,0 +1,184 @@
+{
+    "season": "2021",
+    "series": "f2",
+    "source": "FIA Driver/Team Championship PDF + f1pedia.com",
+    "lastRound": 8,
+    "scheduledRounds": 8,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "driverId": "piastri",
+            "driver": "Oscar Piastri",
+            "points": "252.5"
+        },
+        {
+            "position": "2",
+            "driverId": "shwartzman",
+            "driver": "Robert Shwartzman",
+            "points": "192"
+        },
+        {
+            "position": "3",
+            "driverId": "zhou",
+            "driver": "Guanyu Zhou",
+            "points": "183"
+        },
+        {
+            "position": "4",
+            "driverId": "ticktum",
+            "driver": "Dan Ticktum",
+            "points": "159.5"
+        },
+        {
+            "position": "5",
+            "driverId": "pourchaire",
+            "driver": "Théo Pourchaire",
+            "points": "140"
+        },
+        {
+            "position": "6",
+            "driverId": "vips",
+            "driver": "Jüri Vips",
+            "points": "120"
+        },
+        {
+            "position": "7",
+            "driverId": "daruvala",
+            "driver": "Jehan Daruvala",
+            "points": "113"
+        },
+        {
+            "position": "8",
+            "driverId": "drugovich",
+            "driver": "Felipe Drugovich",
+            "points": "105"
+        },
+        {
+            "position": "9",
+            "driverId": "lawson",
+            "driver": "Liam Lawson",
+            "points": "103"
+        },
+        {
+            "position": "10",
+            "driverId": "boschung",
+            "driver": "Ralph Boschung",
+            "points": "59.5"
+        },
+        {
+            "position": "11",
+            "driverId": "verschoor",
+            "driver": "Richard Verschoor",
+            "points": "56"
+        },
+        {
+            "position": "12",
+            "driverId": "lundgaard",
+            "driver": "Christian Lundgaard",
+            "points": "50"
+        },
+        {
+            "position": "13",
+            "driverId": "armstrong",
+            "driver": "Marcus Armstrong",
+            "points": "49"
+        },
+        {
+            "position": "14",
+            "driverId": "viscaal",
+            "driver": "Bent Viscaal",
+            "points": "34"
+        },
+        {
+            "position": "15",
+            "driverId": "beckmann",
+            "driver": "David Beckmann",
+            "points": "32"
+        },
+        {
+            "position": "16",
+            "driverId": "nissany",
+            "driver": "Roy Nissany",
+            "points": "16"
+        },
+        {
+            "position": "17",
+            "driverId": "zendeli",
+            "driver": "Lirim Zendeli",
+            "points": "13"
+        },
+        {
+            "position": "18",
+            "driverId": "hughes",
+            "driver": "Jake Hughes",
+            "points": "8"
+        },
+        {
+            "position": "19",
+            "driverId": "doohan",
+            "driver": "Jack Doohan",
+            "points": "7"
+        },
+        {
+            "position": "20",
+            "driverId": "fittipaldi",
+            "driver": "Enzo Fittipaldi",
+            "points": "2"
+        },
+        {
+            "position": "21",
+            "driverId": "sato",
+            "driver": "Marino Sato",
+            "points": "1"
+        },
+        {
+            "position": "22",
+            "driverId": "nannini",
+            "driver": "Matteo Nannini",
+            "points": "1"
+        },
+        {
+            "position": "23",
+            "driverId": "aitken",
+            "driver": "Jack Aitken",
+            "points": "0"
+        },
+        {
+            "position": "24",
+            "driverId": "samaia",
+            "driver": "Guilherme Samaia",
+            "points": "0"
+        },
+        {
+            "position": "25",
+            "driverId": "deledda",
+            "driver": "Alessio Deledda",
+            "points": "0"
+        },
+        {
+            "position": "26",
+            "driverId": "caldwell",
+            "driver": "Olli Caldwell",
+            "points": "0"
+        },
+        {
+            "position": "27",
+            "driverId": "petecof",
+            "driver": "Gianluca Petecof",
+            "points": "0"
+        },
+        {
+            "position": "28",
+            "driverId": "novalak",
+            "driver": "Clément Novalak",
+            "points": "0"
+        },
+        {
+            "position": "29",
+            "driverId": "sargeant",
+            "driver": "Logan Sargeant",
+            "points": "0"
+        }
+    ]
+}

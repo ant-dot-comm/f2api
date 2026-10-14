@@ -3,6 +3,7 @@
     "name": "Art Grand Prix",
     "series": "f2",
     "seasons": [
+        "2021",
         "2022",
         "2023",
         "2024",
@@ -10,28 +11,50 @@
         "2026"
     ],
     "career": {
-        "entries": 266,
-        "starts": 266,
-        "points": 1095,
+        "entries": 311,
+        "starts": 311,
+        "points": 1285,
         "wins": {
-            "total": 12,
-            "feature": 7,
-            "sprint": 5
+            "total": 14,
+            "feature": 8,
+            "sprint": 6
         },
         "podiums": {
-            "total": 47,
-            "feature": 29,
-            "sprint": 18
+            "total": 53,
+            "sprint": 22,
+            "feature": 31
         },
-        "poles": 12,
-        "fastestLaps": 16,
-        "dnfs": 40,
+        "poles": 13,
+        "fastestLaps": 21,
+        "dnfs": 46,
         "bestFinish": 1,
-        "avgFinish": 8.36,
+        "avgFinish": 8.33,
         "titles": 1,
         "bestChampionship": 1
     },
     "bySeasons": {
+        "2021": {
+            "entries": 45,
+            "starts": 45,
+            "points": 190,
+            "wins": {
+                "total": 2,
+                "feature": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 6,
+                "sprint": 4,
+                "feature": 2
+            },
+            "poles": 1,
+            "fastestLaps": 5,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 8.18,
+            "championshipPosition": 5,
+            "complete": true
+        },
         "2022": {
             "entries": 56,
             "starts": 56,
@@ -144,6 +167,7 @@
     "drivers": [
         "browning",
         "inthraphuvasak",
+        "lundgaard",
         "maini",
         "martins",
         "miyata",

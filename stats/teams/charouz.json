@@ -3,29 +3,49 @@
     "name": "charouz",
     "series": "f2",
     "seasons": [
+        "2021",
         "2022"
     ],
     "career": {
-        "entries": 54,
-        "starts": 54,
-        "points": 130,
+        "entries": 99,
+        "starts": 99,
+        "points": 158,
         "wins": {
             "total": 0
         },
         "podiums": {
-            "total": 6,
-            "feature": 4,
-            "sprint": 2
+            "total": 8,
+            "sprint": 4,
+            "feature": 4
         },
         "poles": 0,
         "fastestLaps": 0,
-        "dnfs": 12,
+        "dnfs": 21,
         "bestFinish": 2,
-        "avgFinish": 10.95,
+        "avgFinish": 11.77,
         "titles": 0,
         "bestChampionship": 8
     },
     "bySeasons": {
+        "2021": {
+            "entries": 45,
+            "starts": 45,
+            "points": 28,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 9,
+            "bestFinish": 2,
+            "avgFinish": 12.69,
+            "championshipPosition": 10,
+            "complete": true
+        },
         "2022": {
             "entries": 54,
             "starts": 54,
@@ -51,6 +71,8 @@
         "beckmann",
         "bolukbasi",
         "calderon",
-        "fittipaldi"
+        "fittipaldi",
+        "samaia",
+        "verschoor"
     ]
 }

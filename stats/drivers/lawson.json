@@ -4,30 +4,52 @@
     "code": "",
     "series": "f2",
     "seasons": [
+        "2021",
         "2022"
     ],
     "career": {
-        "entries": 28,
-        "starts": 28,
-        "points": 149,
+        "entries": 50,
+        "starts": 50,
+        "points": 252,
         "wins": {
-            "total": 4,
-            "sprint": 4
+            "total": 5,
+            "sprint": 5
         },
         "podiums": {
-            "total": 10,
-            "sprint": 6,
-            "feature": 4
+            "total": 13,
+            "sprint": 8,
+            "feature": 5
         },
-        "poles": 0,
-        "fastestLaps": 3,
-        "dnfs": 4,
+        "poles": 1,
+        "fastestLaps": 4,
+        "dnfs": 10,
         "bestFinish": 1,
-        "avgFinish": 6.38,
+        "avgFinish": 6.17,
         "titles": 0,
         "bestChampionship": 3
     },
     "bySeasons": {
+        "2021": {
+            "entries": 22,
+            "starts": 22,
+            "points": 103,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "poles": 1,
+            "fastestLaps": 1,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 5.88,
+            "championshipPosition": 9,
+            "complete": true
+        },
         "2022": {
             "entries": 28,
             "starts": 28,
@@ -51,6 +73,270 @@
         }
     },
     "results": [
+        {
+            "season": "2021",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "3",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "",
+            "position": "1",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2021",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "hitech",
+            "grid": "8",
+            "position": "3",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2021",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "",
+            "position": "9",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "hitech",
+            "grid": "",
+            "position": "7",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2021",
+            "round": "3",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "10",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2021",
+            "round": "3",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "4",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "3",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "hitech",
+            "grid": "1",
+            "position": "6",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2021",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "11",
+            "position": "5",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2021",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "6",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2021",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "hitech",
+            "grid": "11",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "5",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "7",
+            "position": "4",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2021",
+            "round": "5",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "7",
+            "position": "5",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2021",
+            "round": "5",
+            "raceName": "Italian Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "hitech",
+            "grid": "4",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "6",
+            "raceName": "Russian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "3",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "6",
+            "raceName": "Russian Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "hitech",
+            "grid": "8",
+            "position": "7",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2021",
+            "round": "7",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "1",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "7",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "",
+            "position": "2",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2021",
+            "round": "7",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "hitech",
+            "grid": "10",
+            "position": "9",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2021",
+            "round": "8",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "4",
+            "position": "6",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2021",
+            "round": "8",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hitech",
+            "grid": "5",
+            "position": "5",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2021",
+            "round": "8",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "hitech",
+            "grid": "7",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
         {
             "season": "2022",
             "round": "1",

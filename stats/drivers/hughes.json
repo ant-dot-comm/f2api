@@ -4,12 +4,13 @@
     "code": "",
     "series": "f2",
     "seasons": [
+        "2021",
         "2022"
     ],
     "career": {
-        "entries": 16,
-        "starts": 16,
-        "points": 26,
+        "entries": 24,
+        "starts": 24,
+        "points": 34,
         "wins": {
             "total": 0
         },
@@ -18,13 +19,31 @@
         },
         "poles": 0,
         "fastestLaps": 0,
-        "dnfs": 2,
+        "dnfs": 5,
         "bestFinish": 4,
-        "avgFinish": 11.62,
+        "avgFinish": 11.72,
         "titles": 0,
         "bestChampionship": 16
     },
     "bySeasons": {
+        "2021": {
+            "entries": 8,
+            "starts": 8,
+            "points": 8,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 3,
+            "bestFinish": 4,
+            "avgFinish": 12.0,
+            "championshipPosition": 18,
+            "complete": true
+        },
         "2022": {
             "entries": 16,
             "starts": 16,
@@ -45,6 +64,102 @@
         }
     },
     "results": [
+        {
+            "season": "2021",
+            "round": "5",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hwa",
+            "grid": "16",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "5",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hwa",
+            "grid": "",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "5",
+            "raceName": "Italian Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "hwa",
+            "grid": "16",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "6",
+            "raceName": "Russian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hwa",
+            "grid": "5",
+            "position": "4",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2021",
+            "round": "6",
+            "raceName": "Russian Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "hwa",
+            "grid": "6",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "8",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hwa",
+            "grid": "18",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "8",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hwa",
+            "grid": "13",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "8",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "hwa",
+            "grid": "18",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
         {
             "season": "2022",
             "round": "1",

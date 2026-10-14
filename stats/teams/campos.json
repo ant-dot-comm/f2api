@@ -3,6 +3,7 @@
     "name": "Campos",
     "series": "f2",
     "seasons": [
+        "2021",
         "2022",
         "2023",
         "2024",
@@ -10,29 +11,49 @@
         "2026"
     ],
     "career": {
-        "entries": 262,
-        "starts": 262,
-        "points": 1011,
+        "entries": 308,
+        "starts": 308,
+        "points": 1077.5,
         "wins": {
             "total": 21,
             "sprint": 11,
             "feature": 10
         },
         "podiums": {
-            "total": 43,
-            "feature": 20,
-            "sprint": 22,
+            "total": 45,
+            "feature": 21,
+            "sprint": 23,
             "feature2": 1
         },
         "poles": 3,
-        "fastestLaps": 8,
-        "dnfs": 47,
+        "fastestLaps": 10,
+        "dnfs": 56,
         "bestFinish": 1,
-        "avgFinish": 9.36,
+        "avgFinish": 9.71,
         "titles": 0,
         "bestChampionship": 1
     },
     "bySeasons": {
+        "2021": {
+            "entries": 46,
+            "starts": 46,
+            "points": 66.5,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 2,
+                "feature": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 9,
+            "bestFinish": 3,
+            "avgFinish": 11.76,
+            "championshipPosition": 7,
+            "complete": true
+        },
         "2022": {
             "entries": 50,
             "starts": 50,
@@ -143,6 +164,7 @@
         }
     },
     "drivers": [
+        "beckmann",
         "boschung",
         "caldwell",
         "hadjar",
@@ -151,6 +173,8 @@
         "maini",
         "marti",
         "merhi",
+        "nannini",
+        "petecof",
         "tsolov",
         "zendeli"
     ]

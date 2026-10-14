@@ -3,34 +3,56 @@
     "name": "Rodin Motorsport",
     "series": "f2",
     "seasons": [
+        "2021",
         "2024",
         "2025",
         "2026"
     ],
     "career": {
-        "entries": 160,
-        "starts": 159,
-        "points": 842,
+        "entries": 206,
+        "starts": 205,
+        "points": 1114.5,
         "wins": {
-            "total": 6,
-            "sprint": 1,
+            "total": 10,
+            "sprint": 5,
             "feature": 5
         },
         "podiums": {
-            "total": 28,
-            "sprint": 12,
-            "feature": 15,
+            "total": 40,
+            "sprint": 20,
+            "feature": 19,
             "feature2": 1
         },
         "poles": 5,
-        "fastestLaps": 9,
-        "dnfs": 18,
+        "fastestLaps": 11,
+        "dnfs": 22,
         "bestFinish": 1,
-        "avgFinish": 9.25,
+        "avgFinish": 8.62,
         "titles": 0,
         "bestChampionship": 3
     },
     "bySeasons": {
+        "2021": {
+            "entries": 46,
+            "starts": 46,
+            "points": 272.5,
+            "wins": {
+                "total": 4,
+                "sprint": 4
+            },
+            "podiums": {
+                "total": 12,
+                "sprint": 8,
+                "feature": 4
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 4,
+            "bestFinish": 1,
+            "avgFinish": 6.5,
+            "championshipPosition": 3,
+            "complete": true
+        },
         "2024": {
             "entries": 56,
             "starts": 56,
@@ -99,10 +121,12 @@
     },
     "drivers": [
         "cordeel",
+        "daruvala",
         "dunne",
         "fornaroli",
         "maloney",
         "miyata",
-        "stenshorne"
+        "stenshorne",
+        "ticktum"
     ]
 }

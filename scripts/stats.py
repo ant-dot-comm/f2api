@@ -28,12 +28,20 @@ REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # marks the races whose grid P1 is a championship pole.
 if os.path.isdir(os.path.join(REPO, "drivers")):
     SERIES, ROSTER_DIR = "f2", "drivers"
-    TYPE = {"race1": "sprint", "race2": "feature", "race3": "feature2"}
-    FEATURE = {"race2", "race3"}
+    DEFAULT_TYPE = {"race1": "sprint", "race2": "feature", "race3": "feature2"}
+    # 2021 ran three races/weekend (two sprints + feature); the feature was race3.
+    SEASON_TYPE = {"2021": {"race1": "sprint", "race2": "sprint", "race3": "feature"}}
 else:
     SERIES, ROSTER_DIR = "f1a", "constructors"
-    TYPE = {"race0": "opening", "race1": "reverse", "race2": "feature"}
-    FEATURE = {"race2"}
+    DEFAULT_TYPE = {"race0": "opening", "race1": "reverse", "race2": "feature"}
+    SEASON_TYPE = {}
+
+FEATURE_TYPES = {"feature", "feature2"}
+
+
+def rtype_of(yr, key):
+    """Race type for a season+key (season override, else the default layout)."""
+    return SEASON_TYPE.get(yr, {}).get(key) or DEFAULT_TYPE.get(key, key)
 
 
 def _pts(s):
@@ -71,7 +79,7 @@ def _blank():
             "bestFinish": None, "_fin": []}
 
 
-def _add_result(s, key, row, got_fl):
+def _add_result(s, rtype, is_feat, row, got_fl):
     s["entries"] += 1
     status = row["status"]
     if status != "DNS":
@@ -83,14 +91,13 @@ def _add_result(s, key, row, got_fl):
         p = int(pos)
         s["_fin"].append(p)
         s["bestFinish"] = p if s["bestFinish"] is None else min(s["bestFinish"], p)
-        t = TYPE.get(key, key)
         if p == 1:
             s["wins"]["total"] += 1
-            s["wins"][t] = s["wins"].get(t, 0) + 1
+            s["wins"][rtype] = s["wins"].get(rtype, 0) + 1
         if p <= 3:
             s["podiums"]["total"] += 1
-            s["podiums"][t] = s["podiums"].get(t, 0) + 1
-    if key in FEATURE and row.get("grid") == "1":
+            s["podiums"][rtype] = s["podiums"].get(rtype, 0) + 1
+    if is_feat and row.get("grid") == "1":
         s["poles"] += 1
     if got_fl:
         s["fastestLaps"] += 1
@@ -153,23 +160,25 @@ def build():
                         t = _fl_time(row)
                         if t < best_t:
                             best_t, best_num = t, row["number"]
+                rtype = rtype_of(yr, key)
+                is_feat = rtype in FEATURE_TYPES
                 for row in rows:
                     did = row.get("driverId") or ""
                     if not did:
                         continue
                     ds = drv.setdefault(did, {"seasons": {}, "results": []})
                     s = ds["seasons"].setdefault(yr, _blank())
-                    _add_result(s, key, row, row["number"] == best_num)
+                    _add_result(s, rtype, is_feat, row, row["number"] == best_num)
                     cid = dcon.get((did, yr, rno)) or num2con.get(row["number"])
                     ds["results"].append({
                         "season": yr, "round": rno, "raceName": rnd["raceName"],
-                        "race": key, "type": TYPE.get(key, key), "constructorId": cid,
+                        "race": key, "type": rtype, "constructorId": cid,
                         "grid": row.get("grid", ""), "position": row["position"],
                         "status": row["status"], "points": row["points"]})
                     if cid:
                         ts = team.setdefault(cid, {"seasons": {}, "drivers": set()})
                         tss = ts["seasons"].setdefault(yr, _blank())
-                        _add_result(tss, key, row, row["number"] == best_num)
+                        _add_result(tss, rtype, is_feat, row, row["number"] == best_num)
                         ts["drivers"].add(did)
 
         for did, (pos, pts) in champ_d.items():

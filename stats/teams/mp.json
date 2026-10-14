@@ -3,6 +3,7 @@
     "name": "MP Motorsport",
     "series": "f2",
     "seasons": [
+        "2021",
         "2022",
         "2023",
         "2024",
@@ -10,28 +11,48 @@
         "2026"
     ],
     "career": {
-        "entries": 267,
-        "starts": 267,
-        "points": 1104.5,
+        "entries": 313,
+        "starts": 313,
+        "points": 1179.5,
         "wins": {
-            "total": 15,
-            "feature": 7,
-            "sprint": 8
+            "total": 16,
+            "sprint": 9,
+            "feature": 7
         },
         "podiums": {
-            "total": 47,
-            "sprint": 27,
+            "total": 48,
+            "sprint": 28,
             "feature": 20
         },
         "poles": 8,
-        "fastestLaps": 19,
-        "dnfs": 37,
+        "fastestLaps": 20,
+        "dnfs": 46,
         "bestFinish": 1,
-        "avgFinish": 8.25,
+        "avgFinish": 8.57,
         "titles": 1,
         "bestChampionship": 1
     },
     "bySeasons": {
+        "2021": {
+            "entries": 46,
+            "starts": 46,
+            "points": 75,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 1,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 9,
+            "bestFinish": 1,
+            "avgFinish": 10.56,
+            "championshipPosition": 6,
+            "complete": true
+        },
         "2022": {
             "entries": 56,
             "starts": 56,
@@ -144,11 +165,13 @@
     "drivers": [
         "colapinto",
         "daruvala",
+        "doohan",
         "drugovich",
         "goethe",
         "hauger",
         "mini",
         "novalak",
-        "verschoor"
+        "verschoor",
+        "zendeli"
     ]
 }

@@ -4,11 +4,12 @@
     "code": "",
     "series": "f2",
     "seasons": [
+        "2021",
         "2022"
     ],
     "career": {
-        "entries": 28,
-        "starts": 28,
+        "entries": 31,
+        "starts": 31,
         "points": 148,
         "wins": {
             "total": 2,
@@ -21,13 +22,31 @@
         },
         "poles": 2,
         "fastestLaps": 0,
-        "dnfs": 6,
+        "dnfs": 7,
         "bestFinish": 1,
-        "avgFinish": 6.09,
+        "avgFinish": 6.83,
         "titles": 0,
         "bestChampionship": 4
     },
     "bySeasons": {
+        "2021": {
+            "entries": 3,
+            "starts": 3,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 14,
+            "avgFinish": 15.0,
+            "championshipPosition": 29,
+            "complete": true
+        },
         "2022": {
             "entries": 28,
             "starts": 28,
@@ -51,6 +70,42 @@
         }
     },
     "results": [
+        {
+            "season": "2021",
+            "round": "7",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "hwa",
+            "grid": "21",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "7",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "hwa",
+            "grid": "",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "7",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "hwa",
+            "grid": "21",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
         {
             "season": "2022",
             "round": "1",

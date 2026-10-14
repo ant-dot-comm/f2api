@@ -1,0 +1,76 @@
+{
+    "season": "2021",
+    "series": "f2",
+    "source": "FIA Driver/Team Championship PDF + f1pedia.com",
+    "lastRound": 8,
+    "scheduledRounds": 8,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "constructorId": "prema",
+            "team": "PREMA Racing",
+            "points": "444.5"
+        },
+        {
+            "position": "2",
+            "constructorId": "invicta",
+            "team": "Invicta Racing",
+            "points": "288"
+        },
+        {
+            "position": "3",
+            "constructorId": "rodin",
+            "team": "Rodin Motorsport",
+            "points": "272.5"
+        },
+        {
+            "position": "4",
+            "constructorId": "hitech",
+            "team": "Hitech",
+            "points": "223"
+        },
+        {
+            "position": "5",
+            "constructorId": "art",
+            "team": "ART Grand Prix",
+            "points": "190"
+        },
+        {
+            "position": "6",
+            "constructorId": "mp",
+            "team": "MP Motorsport",
+            "points": "75"
+        },
+        {
+            "position": "7",
+            "constructorId": "campos",
+            "team": "Campos Racing",
+            "points": "66.5"
+        },
+        {
+            "position": "8",
+            "constructorId": "dams",
+            "team": "DAMS Lucas Oil",
+            "points": "65"
+        },
+        {
+            "position": "9",
+            "constructorId": "trident",
+            "team": "TRIDENT",
+            "points": "35"
+        },
+        {
+            "position": "10",
+            "constructorId": "charouz",
+            "team": "Charouz Racing System",
+            "points": "28"
+        },
+        {
+            "position": "11",
+            "constructorId": "hwa",
+            "team": "HWA RACELAB",
+            "points": "9"
+        }
+    ]
+}

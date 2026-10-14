@@ -1,0 +1,331 @@
+{
+    "driverId": "shwartzman",
+    "name": "Robert Shwartzman",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2021"
+    ],
+    "career": {
+        "entries": 23,
+        "starts": 23,
+        "points": 192,
+        "wins": {
+            "total": 2,
+            "sprint": 2
+        },
+        "podiums": {
+            "total": 8,
+            "sprint": 6,
+            "feature": 2
+        },
+        "poles": 0,
+        "fastestLaps": 3,
+        "dnfs": 2,
+        "bestFinish": 1,
+        "avgFinish": 4.67,
+        "titles": 0,
+        "bestChampionship": 2
+    },
+    "bySeasons": {
+        "2021": {
+            "entries": 23,
+            "starts": 23,
+            "points": 192,
+            "wins": {
+                "total": 2,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 8,
+                "sprint": 6,
+                "feature": 2
+            },
+            "poles": 0,
+            "fastestLaps": 3,
+            "dnfs": 2,
+            "bestFinish": 1,
+            "avgFinish": 4.67,
+            "championshipPosition": 2,
+            "complete": true
+        }
+    },
+    "results": [
+        {
+            "season": "2021",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "11",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "",
+            "position": "4",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2021",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "11",
+            "position": "7",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2021",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "",
+            "position": "10",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2021",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "1",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "2",
+            "raceName": "Monaco Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "",
+            "position": "4",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2021",
+            "round": "3",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "1",
+            "position": "5",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2021",
+            "round": "3",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "6",
+            "position": "1",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2021",
+            "round": "3",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "10",
+            "position": "3",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2021",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "4",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2021",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "15",
+            "position": "1",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2021",
+            "round": "4",
+            "raceName": "British Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "7",
+            "position": "5",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2021",
+            "round": "5",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "12",
+            "position": "3",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2021",
+            "round": "5",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "8",
+            "position": "6",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2021",
+            "round": "5",
+            "raceName": "Italian Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "12",
+            "position": "6",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2021",
+            "round": "6",
+            "raceName": "Russian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "4",
+            "position": "3",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2021",
+            "round": "6",
+            "raceName": "Russian Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "7",
+            "position": "4",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2021",
+            "round": "7",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "9",
+            "position": "3",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2021",
+            "round": "7",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "8",
+            "position": "5",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2021",
+            "round": "7",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "2",
+            "position": "2",
+            "status": "Finished",
+            "points": "18"
+        },
+        {
+            "season": "2021",
+            "round": "8",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "7",
+            "position": "2",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2021",
+            "round": "8",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "sprint",
+            "constructorId": "prema",
+            "grid": "9",
+            "position": "4",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2021",
+            "round": "8",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race3",
+            "type": "feature",
+            "constructorId": "prema",
+            "grid": "4",
+            "position": "5",
+            "status": "Finished",
+            "points": "10"
+        }
+    ]
+}

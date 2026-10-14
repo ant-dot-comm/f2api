@@ -3,6 +3,7 @@
     "name": "Dams Lucas Oil",
     "series": "f2",
     "seasons": [
+        "2021",
         "2022",
         "2023",
         "2024",
@@ -10,28 +11,48 @@
         "2026"
     ],
     "career": {
-        "entries": 268,
-        "starts": 267,
-        "points": 933,
+        "entries": 314,
+        "starts": 313,
+        "points": 998,
         "wins": {
-            "total": 12,
-            "feature": 8,
-            "sprint": 4
+            "total": 13,
+            "sprint": 5,
+            "feature": 8
         },
         "podiums": {
-            "total": 36,
-            "sprint": 14,
+            "total": 39,
+            "sprint": 17,
             "feature": 22
         },
         "poles": 6,
-        "fastestLaps": 10,
-        "dnfs": 33,
+        "fastestLaps": 11,
+        "dnfs": 44,
         "bestFinish": 1,
-        "avgFinish": 9.28,
+        "avgFinish": 9.54,
         "titles": 0,
         "bestChampionship": 4
     },
     "bySeasons": {
+        "2021": {
+            "entries": 46,
+            "starts": 46,
+            "points": 65,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 3,
+                "sprint": 3
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 11,
+            "bestFinish": 1,
+            "avgFinish": 11.23,
+            "championshipPosition": 8,
+            "complete": true
+        },
         "2022": {
             "entries": 56,
             "starts": 56,
@@ -142,6 +163,7 @@
         }
     },
     "drivers": [
+        "armstrong",
         "beganovic",
         "bilinski",
         "correa",

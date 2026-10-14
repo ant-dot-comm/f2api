@@ -1,0 +1,53 @@
+{
+    "constructorId": "hwa",
+    "name": "hwa",
+    "series": "f2",
+    "seasons": [
+        "2021"
+    ],
+    "career": {
+        "entries": 46,
+        "starts": 46,
+        "points": 9,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 14,
+        "bestFinish": 4,
+        "avgFinish": 15.19,
+        "titles": 0,
+        "bestChampionship": 11
+    },
+    "bySeasons": {
+        "2021": {
+            "entries": 46,
+            "starts": 46,
+            "points": 9,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 14,
+            "bestFinish": 4,
+            "avgFinish": 15.19,
+            "championshipPosition": 11,
+            "complete": true
+        }
+    },
+    "drivers": [
+        "aitken",
+        "deledda",
+        "hughes",
+        "nannini",
+        "sargeant"
+    ]
+}

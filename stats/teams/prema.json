@@ -3,6 +3,7 @@
     "name": "Prema",
     "series": "f2",
     "seasons": [
+        "2021",
         "2022",
         "2023",
         "2024",
@@ -10,28 +11,50 @@
         "2026"
     ],
     "career": {
-        "entries": 264,
-        "starts": 263,
-        "points": 971,
+        "entries": 310,
+        "starts": 309,
+        "points": 1415.5,
         "wins": {
-            "total": 19,
-            "sprint": 11,
-            "feature": 8
+            "total": 27,
+            "sprint": 15,
+            "feature": 12
         },
         "podiums": {
-            "total": 42,
-            "sprint": 26,
-            "feature": 16
+            "total": 61,
+            "sprint": 36,
+            "feature": 25
         },
-        "poles": 2,
-        "fastestLaps": 21,
-        "dnfs": 41,
+        "poles": 7,
+        "fastestLaps": 30,
+        "dnfs": 46,
         "bestFinish": 1,
-        "avgFinish": 8.81,
-        "titles": 0,
-        "bestChampionship": 2
+        "avgFinish": 8.1,
+        "titles": 1,
+        "bestChampionship": 1
     },
     "bySeasons": {
+        "2021": {
+            "entries": 46,
+            "starts": 46,
+            "points": 444.5,
+            "wins": {
+                "total": 8,
+                "sprint": 4,
+                "feature": 4
+            },
+            "podiums": {
+                "total": 19,
+                "sprint": 10,
+                "feature": 9
+            },
+            "poles": 5,
+            "fastestLaps": 9,
+            "dnfs": 5,
+            "bestFinish": 1,
+            "avgFinish": 4.27,
+            "championshipPosition": 1,
+            "complete": true
+        },
         "2022": {
             "entries": 56,
             "starts": 56,
@@ -146,6 +169,8 @@
         "hauger",
         "mini",
         "montoya",
+        "piastri",
+        "shwartzman",
         "vesti"
     ]
 }

@@ -3,6 +3,7 @@
     "name": "Trident",
     "series": "f2",
     "seasons": [
+        "2021",
         "2022",
         "2023",
         "2024",
@@ -10,28 +11,47 @@
         "2026"
     ],
     "career": {
-        "entries": 267,
-        "starts": 267,
-        "points": 386,
+        "entries": 313,
+        "starts": 313,
+        "points": 421,
         "wins": {
             "total": 5,
             "sprint": 3,
             "feature": 2
         },
         "podiums": {
-            "total": 17,
-            "sprint": 10,
+            "total": 19,
+            "sprint": 12,
             "feature": 7
         },
         "poles": 3,
         "fastestLaps": 8,
-        "dnfs": 46,
+        "dnfs": 54,
         "bestFinish": 1,
-        "avgFinish": 12.58,
+        "avgFinish": 12.64,
         "titles": 0,
         "bestChampionship": 7
     },
     "bySeasons": {
+        "2021": {
+            "entries": 46,
+            "starts": 46,
+            "points": 35,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 2,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 8,
+            "bestFinish": 2,
+            "avgFinish": 13.0,
+            "championshipPosition": 9,
+            "complete": true
+        },
         "2022": {
             "entries": 55,
             "starts": 55,
@@ -144,10 +164,12 @@
         "mansell",
         "meguetounif",
         "novalak",
+        "sato",
         "stanek",
         "stenshorne",
         "van_hoepen",
         "verschoor",
+        "viscaal",
         "wharton",
         "williams"
     ]

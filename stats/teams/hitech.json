@@ -3,6 +3,7 @@
     "name": "Hitech TGR",
     "series": "f2",
     "seasons": [
+        "2021",
         "2022",
         "2023",
         "2024",
@@ -10,28 +11,50 @@
         "2026"
     ],
     "career": {
-        "entries": 266,
-        "starts": 266,
-        "points": 895,
+        "entries": 311,
+        "starts": 311,
+        "points": 1118,
         "wins": {
-            "total": 9,
-            "sprint": 7,
-            "feature": 2
+            "total": 12,
+            "sprint": 9,
+            "feature": 3
         },
         "podiums": {
-            "total": 40,
-            "feature": 17,
-            "sprint": 23
+            "total": 49,
+            "sprint": 30,
+            "feature": 19
         },
-        "poles": 8,
-        "fastestLaps": 13,
-        "dnfs": 29,
+        "poles": 9,
+        "fastestLaps": 15,
+        "dnfs": 39,
         "bestFinish": 1,
-        "avgFinish": 9.45,
+        "avgFinish": 9.04,
         "titles": 0,
         "bestChampionship": 2
     },
     "bySeasons": {
+        "2021": {
+            "entries": 45,
+            "starts": 45,
+            "points": 223,
+            "wins": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 9,
+                "sprint": 7,
+                "feature": 2
+            },
+            "poles": 1,
+            "fastestLaps": 2,
+            "dnfs": 10,
+            "bestFinish": 1,
+            "avgFinish": 6.26,
+            "championshipPosition": 4,
+            "complete": true
+        },
         "2022": {
             "entries": 56,
             "starts": 56,
@@ -148,6 +171,7 @@
         "crawford",
         "hadjar",
         "herta",
+        "lawson",
         "miyata",
         "vips"
     ]
