@@ -3,33 +3,78 @@
     "name": "MP Motorsport",
     "series": "f2",
     "seasons": [
+        "2022",
+        "2023",
         "2024",
         "2025",
         "2026"
     ],
     "career": {
-        "entries": 159,
-        "starts": 159,
-        "points": 627.5,
+        "entries": 267,
+        "starts": 267,
+        "points": 1104.5,
         "wins": {
-            "total": 8,
-            "sprint": 5,
-            "feature": 3
+            "total": 15,
+            "feature": 7,
+            "sprint": 8
         },
         "podiums": {
-            "total": 27,
-            "sprint": 15,
-            "feature": 12
+            "total": 47,
+            "sprint": 27,
+            "feature": 20
         },
-        "poles": 3,
-        "fastestLaps": 13,
-        "dnfs": 20,
+        "poles": 8,
+        "fastestLaps": 19,
+        "dnfs": 37,
         "bestFinish": 1,
-        "avgFinish": 8.3,
-        "titles": 0,
-        "bestChampionship": 3
+        "avgFinish": 8.25,
+        "titles": 1,
+        "bestChampionship": 1
     },
     "bySeasons": {
+        "2022": {
+            "entries": 56,
+            "starts": 56,
+            "points": 305,
+            "wins": {
+                "total": 5,
+                "feature": 4,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 12,
+                "sprint": 5,
+                "feature": 7
+            },
+            "poles": 5,
+            "fastestLaps": 5,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 8.1,
+            "championshipPosition": 1,
+            "complete": true
+        },
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 172,
+            "wins": {
+                "total": 2,
+                "sprint": 2
+            },
+            "podiums": {
+                "total": 8,
+                "sprint": 7,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 9,
+            "bestFinish": 1,
+            "avgFinish": 8.26,
+            "championshipPosition": 6,
+            "complete": true
+        },
         "2024": {
             "entries": 55,
             "starts": 55,
@@ -98,9 +143,12 @@
     },
     "drivers": [
         "colapinto",
+        "daruvala",
+        "drugovich",
         "goethe",
         "hauger",
         "mini",
+        "novalak",
         "verschoor"
     ]
 }

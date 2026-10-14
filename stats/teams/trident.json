@@ -3,33 +3,76 @@
     "name": "Trident",
     "series": "f2",
     "seasons": [
+        "2022",
+        "2023",
         "2024",
         "2025",
         "2026"
     ],
     "career": {
-        "entries": 160,
-        "starts": 160,
-        "points": 235,
+        "entries": 267,
+        "starts": 267,
+        "points": 386,
         "wins": {
-            "total": 3,
-            "sprint": 2,
-            "feature": 1
+            "total": 5,
+            "sprint": 3,
+            "feature": 2
         },
         "podiums": {
-            "total": 12,
-            "sprint": 8,
-            "feature": 4
+            "total": 17,
+            "sprint": 10,
+            "feature": 7
         },
         "poles": 3,
-        "fastestLaps": 3,
-        "dnfs": 33,
+        "fastestLaps": 8,
+        "dnfs": 46,
         "bestFinish": 1,
-        "avgFinish": 12.87,
+        "avgFinish": 12.58,
         "titles": 0,
         "bestChampionship": 7
     },
     "bySeasons": {
+        "2022": {
+            "entries": 55,
+            "starts": 55,
+            "points": 108,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 4,
+                "sprint": 2,
+                "feature": 2
+            },
+            "poles": 0,
+            "fastestLaps": 3,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 11.3,
+            "championshipPosition": 9,
+            "complete": true
+        },
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 43,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 1,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 13.09,
+            "championshipPosition": 10,
+            "complete": true
+        },
         "2024": {
             "entries": 56,
             "starts": 56,
@@ -93,15 +136,19 @@
         }
     },
     "drivers": [
+        "aron",
         "bennett",
         "esterson",
         "inthraphuvasak",
+        "maloney",
         "mansell",
         "meguetounif",
+        "novalak",
         "stanek",
         "stenshorne",
         "van_hoepen",
         "verschoor",
-        "wharton"
+        "wharton",
+        "williams"
     ]
 }

@@ -4,11 +4,12 @@
     "code": "",
     "series": "f2",
     "seasons": [
+        "2023",
         "2024"
     ],
     "career": {
-        "entries": 19,
-        "starts": 19,
+        "entries": 21,
+        "starts": 21,
         "points": 96,
         "wins": {
             "total": 1,
@@ -21,13 +22,31 @@
         },
         "poles": 0,
         "fastestLaps": 3,
-        "dnfs": 2,
+        "dnfs": 3,
         "bestFinish": 1,
-        "avgFinish": 7.71,
+        "avgFinish": 8.33,
         "titles": 0,
         "bestChampionship": 9
     },
     "bySeasons": {
+        "2023": {
+            "entries": 2,
+            "starts": 2,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 19,
+            "avgFinish": 19.0,
+            "championshipPosition": 25,
+            "complete": true
+        },
         "2024": {
             "entries": 19,
             "starts": 19,
@@ -51,6 +70,30 @@
         }
     },
     "results": [
+        {
+            "season": "2023",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "mp",
+            "grid": "20",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "mp",
+            "grid": "20",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
         {
             "season": "2024",
             "round": "1",

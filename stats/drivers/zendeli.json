@@ -1,0 +1,73 @@
+{
+    "driverId": "zendeli",
+    "name": "L. Zendeli",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2022"
+    ],
+    "career": {
+        "entries": 2,
+        "starts": 2,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 1,
+        "bestFinish": 20,
+        "avgFinish": 20.0,
+        "titles": 0,
+        "bestChampionship": 29
+    },
+    "bySeasons": {
+        "2022": {
+            "entries": 2,
+            "starts": 2,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 20,
+            "avgFinish": 20.0,
+            "championshipPosition": 29,
+            "complete": true
+        }
+    },
+    "results": [
+        {
+            "season": "2022",
+            "round": "11",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "19",
+            "position": "20",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "11",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "19",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        }
+    ]
+}

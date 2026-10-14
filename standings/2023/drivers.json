@@ -1,0 +1,160 @@
+{
+    "season": "2023",
+    "series": "f2",
+    "source": "FIA Driver/Team Championship PDF + f1pedia.com",
+    "lastRound": 14,
+    "scheduledRounds": 14,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "driverId": "pourchaire",
+            "driver": "Théo Pourchaire",
+            "points": "203"
+        },
+        {
+            "position": "2",
+            "driverId": "vesti",
+            "driver": "Frederik Vesti",
+            "points": "192"
+        },
+        {
+            "position": "3",
+            "driverId": "doohan",
+            "driver": "Jack Doohan",
+            "points": "168"
+        },
+        {
+            "position": "4",
+            "driverId": "iwasa",
+            "driver": "Ayumu Iwasa",
+            "points": "165"
+        },
+        {
+            "position": "5",
+            "driverId": "martins",
+            "driver": "Victor Martins",
+            "points": "150"
+        },
+        {
+            "position": "6",
+            "driverId": "bearman",
+            "driver": "Oliver Bearman",
+            "points": "130"
+        },
+        {
+            "position": "7",
+            "driverId": "fittipaldi",
+            "driver": "Enzo Fittipaldi",
+            "points": "124"
+        },
+        {
+            "position": "8",
+            "driverId": "hauger",
+            "driver": "Dennis Hauger",
+            "points": "113"
+        },
+        {
+            "position": "9",
+            "driverId": "verschoor",
+            "driver": "Richard Verschoor",
+            "points": "108"
+        },
+        {
+            "position": "10",
+            "driverId": "maloney",
+            "driver": "Zane Maloney",
+            "points": "96"
+        },
+        {
+            "position": "11",
+            "driverId": "maini",
+            "driver": "Kush Maini",
+            "points": "62"
+        },
+        {
+            "position": "12",
+            "driverId": "daruvala",
+            "driver": "Jehan Daruvala",
+            "points": "59"
+        },
+        {
+            "position": "13",
+            "driverId": "crawford",
+            "driver": "Jak Crawford",
+            "points": "57"
+        },
+        {
+            "position": "14",
+            "driverId": "hadjar",
+            "driver": "Isack Hadjar",
+            "points": "55"
+        },
+        {
+            "position": "15",
+            "driverId": "leclerc",
+            "driver": "Arthur Leclerc",
+            "points": "49"
+        },
+        {
+            "position": "16",
+            "driverId": "boschung",
+            "driver": "Ralph Boschung",
+            "points": "37"
+        },
+        {
+            "position": "17",
+            "driverId": "novalak",
+            "driver": "Clément Novalak",
+            "points": "28"
+        },
+        {
+            "position": "18",
+            "driverId": "stanek",
+            "driver": "Roman Stanek",
+            "points": "15"
+        },
+        {
+            "position": "19",
+            "driverId": "correa",
+            "driver": "Juan Manuel Correa",
+            "points": "13"
+        },
+        {
+            "position": "20",
+            "driverId": "cordeel",
+            "driver": "Amaury Cordeel",
+            "points": "8"
+        },
+        {
+            "position": "21",
+            "driverId": "nissany",
+            "driver": "Roy Nissany",
+            "points": "0"
+        },
+        {
+            "position": "22",
+            "driverId": "benavides",
+            "driver": "Brad Benavides",
+            "points": "0"
+        },
+        {
+            "position": "23",
+            "driverId": "mason",
+            "driver": "Joshua Mason",
+            "points": "0"
+        },
+        {
+            "position": "24",
+            "driverId": "aron",
+            "driver": "Paul Aron",
+            "points": "0"
+        },
+        {
+            "position": "25",
+            "driverId": "colapinto",
+            "driver": "Franco Colapinto",
+            "points": "0"
+        }
+    ]
+}

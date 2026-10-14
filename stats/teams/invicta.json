@@ -3,35 +3,57 @@
     "name": "Invicta",
     "series": "f2",
     "seasons": [
+        "2023",
         "2024",
         "2025",
         "2026"
     ],
     "career": {
-        "entries": 160,
-        "starts": 160,
-        "points": 901.5,
+        "entries": 212,
+        "starts": 212,
+        "points": 1077.5,
         "wins": {
-            "total": 15,
-            "feature": 7,
+            "total": 18,
+            "feature": 10,
             "sprint": 7,
             "feature2": 1
         },
         "podiums": {
-            "total": 38,
-            "feature": 22,
-            "sprint": 15,
+            "total": 43,
+            "feature": 26,
+            "sprint": 16,
             "feature2": 1
         },
-        "poles": 11,
-        "fastestLaps": 9,
-        "dnfs": 14,
+        "poles": 14,
+        "fastestLaps": 12,
+        "dnfs": 22,
         "bestFinish": 1,
-        "avgFinish": 7.38,
+        "avgFinish": 8.21,
         "titles": 2,
         "bestChampionship": 1
     },
     "bySeasons": {
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 176,
+            "wins": {
+                "total": 3,
+                "feature": 3
+            },
+            "podiums": {
+                "total": 5,
+                "feature": 4,
+                "sprint": 1
+            },
+            "poles": 3,
+            "fastestLaps": 3,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 11.02,
+            "championshipPosition": 5,
+            "complete": true
+        },
         "2024": {
             "entries": 56,
             "starts": 56,
@@ -104,6 +126,8 @@
     "drivers": [
         "bortoleto",
         "camara",
+        "cordeel",
+        "doohan",
         "durksen",
         "fornaroli",
         "maini",

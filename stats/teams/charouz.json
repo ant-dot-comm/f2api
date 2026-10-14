@@ -1,0 +1,56 @@
+{
+    "constructorId": "charouz",
+    "name": "charouz",
+    "series": "f2",
+    "seasons": [
+        "2022"
+    ],
+    "career": {
+        "entries": 54,
+        "starts": 54,
+        "points": 130,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 6,
+            "feature": 4,
+            "sprint": 2
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 12,
+        "bestFinish": 2,
+        "avgFinish": 10.95,
+        "titles": 0,
+        "bestChampionship": 8
+    },
+    "bySeasons": {
+        "2022": {
+            "entries": 54,
+            "starts": 54,
+            "points": 130,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 6,
+                "feature": 4,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 12,
+            "bestFinish": 2,
+            "avgFinish": 10.95,
+            "championshipPosition": 8,
+            "complete": true
+        }
+    },
+    "drivers": [
+        "beckmann",
+        "bolukbasi",
+        "calderon",
+        "fittipaldi"
+    ]
+}

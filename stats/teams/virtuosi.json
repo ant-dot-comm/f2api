@@ -1,0 +1,58 @@
+{
+    "constructorId": "virtuosi",
+    "name": "virtuosi",
+    "series": "f2",
+    "seasons": [
+        "2022"
+    ],
+    "career": {
+        "entries": 56,
+        "starts": 56,
+        "points": 134,
+        "wins": {
+            "total": 3,
+            "sprint": 2,
+            "feature": 1
+        },
+        "podiums": {
+            "total": 6,
+            "feature": 2,
+            "sprint": 4
+        },
+        "poles": 2,
+        "fastestLaps": 4,
+        "dnfs": 11,
+        "bestFinish": 1,
+        "avgFinish": 10.47,
+        "titles": 0,
+        "bestChampionship": 7
+    },
+    "bySeasons": {
+        "2022": {
+            "entries": 56,
+            "starts": 56,
+            "points": 134,
+            "wins": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 6,
+                "feature": 2,
+                "sprint": 4
+            },
+            "poles": 2,
+            "fastestLaps": 4,
+            "dnfs": 11,
+            "bestFinish": 1,
+            "avgFinish": 10.47,
+            "championshipPosition": 7,
+            "complete": true
+        }
+    },
+    "drivers": [
+        "doohan",
+        "sato"
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "driverId": "merhi",
+    "name": "R. Merhi",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2022"
+    ],
+    "career": {
+        "entries": 6,
+        "starts": 6,
+        "points": 15,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 1,
+            "feature": 1
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 3,
+        "bestFinish": 3,
+        "avgFinish": 12.0,
+        "titles": 0,
+        "bestChampionship": 20
+    },
+    "bySeasons": {
+        "2022": {
+            "entries": 6,
+            "starts": 6,
+            "points": 15,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 1,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 3,
+            "bestFinish": 3,
+            "avgFinish": 12.0,
+            "championshipPosition": 20,
+            "complete": true
+        }
+    },
+    "results": [
+        {
+            "season": "2022",
+            "round": "8",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "8",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "",
+            "position": "3",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2022",
+            "round": "9",
+            "raceName": "French Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "15",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "9",
+            "raceName": "French Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "15",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "10",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "campos",
+            "grid": "20",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "10",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "campos",
+            "grid": "20",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        }
+    ]
+}

@@ -3,33 +3,78 @@
     "name": "Art Grand Prix",
     "series": "f2",
     "seasons": [
+        "2022",
+        "2023",
         "2024",
         "2025",
         "2026"
     ],
     "career": {
-        "entries": 158,
-        "starts": 158,
-        "points": 461,
+        "entries": 266,
+        "starts": 266,
+        "points": 1095,
         "wins": {
-            "total": 6,
-            "feature": 2,
-            "sprint": 4
+            "total": 12,
+            "feature": 7,
+            "sprint": 5
         },
         "podiums": {
-            "total": 16,
-            "feature": 9,
-            "sprint": 7
+            "total": 47,
+            "feature": 29,
+            "sprint": 18
         },
-        "poles": 6,
-        "fastestLaps": 7,
-        "dnfs": 25,
+        "poles": 12,
+        "fastestLaps": 16,
+        "dnfs": 40,
         "bestFinish": 1,
-        "avgFinish": 9.44,
-        "titles": 0,
-        "bestChampionship": 6
+        "avgFinish": 8.36,
+        "titles": 1,
+        "bestChampionship": 1
     },
     "bySeasons": {
+        "2022": {
+            "entries": 56,
+            "starts": 56,
+            "points": 281,
+            "wins": {
+                "total": 4,
+                "feature": 3,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 12,
+                "feature": 9,
+                "sprint": 3
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 7.69,
+            "championshipPosition": 3,
+            "complete": true
+        },
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 353,
+            "wins": {
+                "total": 2,
+                "feature": 2
+            },
+            "podiums": {
+                "total": 19,
+                "sprint": 8,
+                "feature": 11
+            },
+            "poles": 6,
+            "fastestLaps": 8,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 5.74,
+            "championshipPosition": 1,
+            "complete": true
+        },
         "2024": {
             "entries": 56,
             "starts": 56,
@@ -102,6 +147,8 @@
         "maini",
         "martins",
         "miyata",
-        "o_sullivan"
+        "o_sullivan",
+        "pourchaire",
+        "vesti"
     ]
 }

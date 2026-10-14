@@ -3,32 +3,73 @@
     "name": "Van Amersfoort Racing",
     "series": "f2",
     "seasons": [
+        "2022",
+        "2023",
         "2024",
         "2025",
         "2026"
     ],
     "career": {
-        "entries": 160,
-        "starts": 160,
-        "points": 181,
+        "entries": 267,
+        "starts": 267,
+        "points": 375,
         "wins": {
-            "total": 1,
-            "feature": 1
-        },
-        "podiums": {
-            "total": 7,
-            "sprint": 5,
+            "total": 2,
             "feature": 2
         },
+        "podiums": {
+            "total": 10,
+            "feature": 3,
+            "sprint": 7
+        },
         "poles": 0,
-        "fastestLaps": 3,
-        "dnfs": 25,
+        "fastestLaps": 6,
+        "dnfs": 38,
         "bestFinish": 1,
-        "avgFinish": 13.1,
+        "avgFinish": 12.67,
         "titles": 0,
-        "bestChampionship": 9
+        "bestChampionship": 7
     },
     "bySeasons": {
+        "2022": {
+            "entries": 55,
+            "starts": 55,
+            "points": 73,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 7,
+            "bestFinish": 4,
+            "avgFinish": 12.87,
+            "championshipPosition": 10,
+            "complete": true
+        },
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 121,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 3,
+                "feature": 1,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 11.18,
+            "championshipPosition": 7,
+            "complete": true
+        },
         "2024": {
             "entries": 56,
             "starts": 56,
@@ -91,9 +132,14 @@
         }
     },
     "drivers": [
+        "beckmann",
         "bennett",
+        "cordeel",
+        "correa",
         "fittipaldi",
+        "hughes",
         "varrone",
+        "verschoor",
         "villagomez",
         "yamakoshi"
     ]

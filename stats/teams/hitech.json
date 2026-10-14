@@ -3,33 +3,77 @@
     "name": "Hitech TGR",
     "series": "f2",
     "seasons": [
+        "2022",
+        "2023",
         "2024",
         "2025",
         "2026"
     ],
     "career": {
-        "entries": 158,
-        "starts": 158,
-        "points": 576,
+        "entries": 266,
+        "starts": 266,
+        "points": 895,
         "wins": {
-            "total": 4,
-            "feature": 2,
-            "sprint": 2
+            "total": 9,
+            "sprint": 7,
+            "feature": 2
         },
         "podiums": {
-            "total": 25,
-            "feature": 14,
-            "sprint": 11
+            "total": 40,
+            "feature": 17,
+            "sprint": 23
         },
-        "poles": 5,
-        "fastestLaps": 9,
-        "dnfs": 16,
+        "poles": 8,
+        "fastestLaps": 13,
+        "dnfs": 29,
         "bestFinish": 1,
-        "avgFinish": 9.81,
+        "avgFinish": 9.45,
         "titles": 0,
         "bestChampionship": 2
     },
     "bySeasons": {
+        "2022": {
+            "entries": 56,
+            "starts": 56,
+            "points": 207,
+            "wins": {
+                "total": 4,
+                "sprint": 4
+            },
+            "podiums": {
+                "total": 9,
+                "feature": 2,
+                "sprint": 7
+            },
+            "poles": 2,
+            "fastestLaps": 3,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 7.94,
+            "championshipPosition": 5,
+            "complete": true
+        },
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 112,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 6,
+                "sprint": 5,
+                "feature": 1
+            },
+            "poles": 1,
+            "fastestLaps": 1,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 9.96,
+            "championshipPosition": 8,
+            "complete": true
+        },
         "2024": {
             "entries": 56,
             "starts": 56,
@@ -96,11 +140,15 @@
         }
     },
     "drivers": [
+        "armstrong",
         "aron",
         "beganovic",
         "browning",
         "cordeel",
+        "crawford",
+        "hadjar",
         "herta",
-        "miyata"
+        "miyata",
+        "vips"
     ]
 }

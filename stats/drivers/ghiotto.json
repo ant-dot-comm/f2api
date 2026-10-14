@@ -1,0 +1,73 @@
+{
+    "driverId": "ghiotto",
+    "name": "L. Ghiotto",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2022"
+    ],
+    "career": {
+        "entries": 2,
+        "starts": 2,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 1,
+        "bestFinish": 13,
+        "avgFinish": 13.0,
+        "titles": 0,
+        "bestChampionship": 25
+    },
+    "bySeasons": {
+        "2022": {
+            "entries": 2,
+            "starts": 2,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 13,
+            "avgFinish": 13.0,
+            "championshipPosition": 25,
+            "complete": true
+        }
+    },
+    "results": [
+        {
+            "season": "2022",
+            "round": "13",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "dams",
+            "grid": "18",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "13",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "dams",
+            "grid": "18",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        }
+    ]
+}

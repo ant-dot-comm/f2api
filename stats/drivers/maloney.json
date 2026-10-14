@@ -4,31 +4,70 @@
     "code": "",
     "series": "f2",
     "seasons": [
+        "2022",
+        "2023",
         "2024"
     ],
     "career": {
-        "entries": 26,
-        "starts": 26,
-        "points": 140,
+        "entries": 54,
+        "starts": 54,
+        "points": 236,
         "wins": {
             "total": 2,
             "sprint": 1,
             "feature": 1
         },
         "podiums": {
-            "total": 7,
-            "sprint": 3,
-            "feature": 4
+            "total": 11,
+            "feature": 8,
+            "sprint": 3
         },
         "poles": 1,
-        "fastestLaps": 0,
-        "dnfs": 3,
+        "fastestLaps": 1,
+        "dnfs": 7,
         "bestFinish": 1,
-        "avgFinish": 7.3,
+        "avgFinish": 8.64,
         "titles": 0,
         "bestChampionship": 4
     },
     "bySeasons": {
+        "2022": {
+            "entries": 2,
+            "starts": 2,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 0,
+            "bestFinish": 15,
+            "avgFinish": 15.5,
+            "championshipPosition": 26,
+            "complete": true
+        },
+        "2023": {
+            "entries": 26,
+            "starts": 26,
+            "points": 96,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 4,
+                "feature": 4
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 4,
+            "bestFinish": 2,
+            "avgFinish": 9.41,
+            "championshipPosition": 10,
+            "complete": true
+        },
         "2024": {
             "entries": 26,
             "starts": 26,
@@ -53,6 +92,342 @@
         }
     },
     "results": [
+        {
+            "season": "2022",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "18",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "18",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "18",
+            "position": "9",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "18",
+            "position": "3",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2023",
+            "round": "2",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "17",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "2",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "17",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "3",
+            "raceName": "Australian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "6",
+            "position": "5",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2023",
+            "round": "3",
+            "raceName": "Australian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "5",
+            "position": "5",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2023",
+            "round": "4",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "2",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "4",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "9",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "6",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "",
+            "position": "5",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2023",
+            "round": "6",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "",
+            "position": "3",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2023",
+            "round": "7",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "21",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "7",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "21",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "8",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "15",
+            "position": "18",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "8",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "15",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "9",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "4",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "9",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "7",
+            "position": "2",
+            "status": "Finished",
+            "points": "18"
+        },
+        {
+            "season": "2023",
+            "round": "10",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "14",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "10",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "14",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "11",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "6",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "11",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "5",
+            "position": "4",
+            "status": "Finished",
+            "points": "12"
+        },
+        {
+            "season": "2023",
+            "round": "12",
+            "raceName": "Dutch Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "7",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2023",
+            "round": "12",
+            "raceName": "Dutch Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "4",
+            "position": "2",
+            "status": "Finished",
+            "points": "18"
+        },
+        {
+            "season": "2023",
+            "round": "13",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "20",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "13",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "20",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "7",
+            "position": "9",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "4",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
         {
             "season": "2024",
             "round": "1",

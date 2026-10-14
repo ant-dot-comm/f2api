@@ -1,0 +1,145 @@
+{
+    "driverId": "mason",
+    "name": "Joshua Mason",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2023"
+    ],
+    "career": {
+        "entries": 8,
+        "starts": 8,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 1,
+        "bestFinish": 12,
+        "avgFinish": 16.14,
+        "titles": 0,
+        "bestChampionship": 23
+    },
+    "bySeasons": {
+        "2023": {
+            "entries": 8,
+            "starts": 8,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 12,
+            "avgFinish": 16.14,
+            "championshipPosition": 23,
+            "complete": true
+        }
+    },
+    "results": [
+        {
+            "season": "2023",
+            "round": "11",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "phm",
+            "grid": "21",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "11",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "phm",
+            "grid": "21",
+            "position": "14",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "12",
+            "raceName": "Dutch Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "phm",
+            "grid": "22",
+            "position": "22",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "12",
+            "raceName": "Dutch Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "phm",
+            "grid": "22",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "13",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "phm",
+            "grid": "22",
+            "position": "16",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "13",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "phm",
+            "grid": "22",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "phm",
+            "grid": "22",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2023",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "phm",
+            "grid": "22",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        }
+    ]
+}

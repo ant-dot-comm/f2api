@@ -1,0 +1,391 @@
+{
+    "driverId": "lawson",
+    "name": "L. Lawson",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2022"
+    ],
+    "career": {
+        "entries": 28,
+        "starts": 28,
+        "points": 149,
+        "wins": {
+            "total": 4,
+            "sprint": 4
+        },
+        "podiums": {
+            "total": 10,
+            "sprint": 6,
+            "feature": 4
+        },
+        "poles": 0,
+        "fastestLaps": 3,
+        "dnfs": 4,
+        "bestFinish": 1,
+        "avgFinish": 6.38,
+        "titles": 0,
+        "bestChampionship": 3
+    },
+    "bySeasons": {
+        "2022": {
+            "entries": 28,
+            "starts": 28,
+            "points": 149,
+            "wins": {
+                "total": 4,
+                "sprint": 4
+            },
+            "podiums": {
+                "total": 10,
+                "sprint": 6,
+                "feature": 4
+            },
+            "poles": 0,
+            "fastestLaps": 3,
+            "dnfs": 4,
+            "bestFinish": 1,
+            "avgFinish": 6.38,
+            "championshipPosition": 3,
+            "complete": true
+        }
+    },
+    "results": [
+        {
+            "season": "2022",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "5",
+            "position": "3",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2022",
+            "round": "1",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "6",
+            "position": "2",
+            "status": "Finished",
+            "points": "18"
+        },
+        {
+            "season": "2022",
+            "round": "2",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "9",
+            "position": "1",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2022",
+            "round": "2",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "2",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "3",
+            "raceName": "Emilia Romagna Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "14",
+            "position": "8",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2022",
+            "round": "3",
+            "raceName": "Emilia Romagna Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "14",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "4",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "6",
+            "position": "9",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "4",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "5",
+            "position": "9",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2022",
+            "round": "5",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "8",
+            "position": "8",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2022",
+            "round": "5",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "3",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "6",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "9",
+            "position": "3",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2022",
+            "round": "6",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "2",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "7",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "6",
+            "position": "20",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "7",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "5",
+            "position": "3",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2022",
+            "round": "8",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "8",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "",
+            "position": "10",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2022",
+            "round": "9",
+            "raceName": "French Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "2",
+            "position": "1",
+            "status": "Finished",
+            "points": "11"
+        },
+        {
+            "season": "2022",
+            "round": "9",
+            "raceName": "French Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "9",
+            "position": "6",
+            "status": "Finished",
+            "points": "8"
+        },
+        {
+            "season": "2022",
+            "round": "10",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "11",
+            "position": "6",
+            "status": "Finished",
+            "points": "3"
+        },
+        {
+            "season": "2022",
+            "round": "10",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "11",
+            "position": "7",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2022",
+            "round": "11",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "5",
+            "position": "1",
+            "status": "Finished",
+            "points": "11"
+        },
+        {
+            "season": "2022",
+            "round": "11",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "6",
+            "position": "3",
+            "status": "Finished",
+            "points": "15"
+        },
+        {
+            "season": "2022",
+            "round": "12",
+            "raceName": "Dutch Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "5",
+            "position": "4",
+            "status": "Finished",
+            "points": "5"
+        },
+        {
+            "season": "2022",
+            "round": "12",
+            "raceName": "Dutch Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "6",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "13",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "9",
+            "position": "5",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2022",
+            "round": "13",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "2",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2022",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "carlin",
+            "grid": "2",
+            "position": "1",
+            "status": "Finished",
+            "points": "11"
+        },
+        {
+            "season": "2022",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "carlin",
+            "grid": "9",
+            "position": "3",
+            "status": "Finished",
+            "points": "15"
+        }
+    ]
+}

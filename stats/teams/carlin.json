@@ -1,0 +1,82 @@
+{
+    "constructorId": "carlin",
+    "name": "carlin",
+    "series": "f2",
+    "seasons": [
+        "2022",
+        "2023"
+    ],
+    "career": {
+        "entries": 108,
+        "starts": 108,
+        "points": 297,
+        "wins": {
+            "total": 7,
+            "sprint": 5,
+            "feature": 2
+        },
+        "podiums": {
+            "total": 23,
+            "sprint": 9,
+            "feature": 14
+        },
+        "poles": 2,
+        "fastestLaps": 5,
+        "dnfs": 18,
+        "bestFinish": 1,
+        "avgFinish": 7.33,
+        "titles": 0,
+        "bestChampionship": 2
+    },
+    "bySeasons": {
+        "2022": {
+            "entries": 56,
+            "starts": 56,
+            "points": 297,
+            "wins": {
+                "total": 6,
+                "sprint": 4,
+                "feature": 2
+            },
+            "podiums": {
+                "total": 14,
+                "sprint": 7,
+                "feature": 7
+            },
+            "poles": 2,
+            "fastestLaps": 3,
+            "dnfs": 10,
+            "bestFinish": 1,
+            "avgFinish": 6.24,
+            "championshipPosition": 2,
+            "complete": true
+        },
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 0,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 9,
+                "feature": 7,
+                "sprint": 2
+            },
+            "poles": 0,
+            "fastestLaps": 2,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 8.48,
+            "championshipPosition": null,
+            "complete": true
+        }
+    },
+    "drivers": [
+        "fittipaldi",
+        "lawson",
+        "maloney",
+        "sargeant"
+    ]
+}

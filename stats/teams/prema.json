@@ -3,33 +3,79 @@
     "name": "Prema",
     "series": "f2",
     "seasons": [
+        "2022",
+        "2023",
         "2024",
         "2025",
         "2026"
     ],
     "career": {
-        "entries": 156,
-        "starts": 155,
-        "points": 408,
+        "entries": 264,
+        "starts": 263,
+        "points": 971,
         "wins": {
-            "total": 5,
-            "sprint": 4,
-            "feature": 1
+            "total": 19,
+            "sprint": 11,
+            "feature": 8
         },
         "podiums": {
-            "total": 13,
-            "sprint": 8,
-            "feature": 5
+            "total": 42,
+            "sprint": 26,
+            "feature": 16
         },
-        "poles": 0,
-        "fastestLaps": 11,
-        "dnfs": 24,
+        "poles": 2,
+        "fastestLaps": 21,
+        "dnfs": 41,
         "bestFinish": 1,
-        "avgFinish": 9.99,
+        "avgFinish": 8.81,
         "titles": 0,
-        "bestChampionship": 5
+        "bestChampionship": 2
     },
     "bySeasons": {
+        "2022": {
+            "entries": 56,
+            "starts": 56,
+            "points": 241,
+            "wins": {
+                "total": 3,
+                "sprint": 1,
+                "feature": 2
+            },
+            "podiums": {
+                "total": 12,
+                "sprint": 9,
+                "feature": 3
+            },
+            "poles": 0,
+            "fastestLaps": 6,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 8.08,
+            "championshipPosition": 4,
+            "complete": true
+        },
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 322,
+            "wins": {
+                "total": 11,
+                "feature": 5,
+                "sprint": 6
+            },
+            "podiums": {
+                "total": 17,
+                "feature": 8,
+                "sprint": 9
+            },
+            "poles": 2,
+            "fastestLaps": 4,
+            "dnfs": 9,
+            "bestFinish": 1,
+            "avgFinish": 6.02,
+            "championshipPosition": 2,
+            "complete": true
+        },
         "2024": {
             "entries": 52,
             "starts": 52,
@@ -96,7 +142,10 @@
         "antonelli",
         "bearman",
         "boya",
+        "daruvala",
+        "hauger",
         "mini",
-        "montoya"
+        "montoya",
+        "vesti"
     ]
 }

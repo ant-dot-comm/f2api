@@ -3,34 +3,77 @@
     "name": "Campos",
     "series": "f2",
     "seasons": [
+        "2022",
+        "2023",
         "2024",
         "2025",
         "2026"
     ],
     "career": {
-        "entries": 160,
-        "starts": 160,
-        "points": 845,
+        "entries": 262,
+        "starts": 262,
+        "points": 1011,
         "wins": {
-            "total": 20,
-            "feature": 10,
-            "sprint": 10
+            "total": 21,
+            "sprint": 11,
+            "feature": 10
         },
         "podiums": {
-            "total": 37,
-            "sprint": 19,
-            "feature": 17,
+            "total": 43,
+            "feature": 20,
+            "sprint": 22,
             "feature2": 1
         },
         "poles": 3,
         "fastestLaps": 8,
-        "dnfs": 23,
+        "dnfs": 47,
         "bestFinish": 1,
-        "avgFinish": 7.49,
+        "avgFinish": 9.36,
         "titles": 0,
         "bestChampionship": 1
     },
     "bySeasons": {
+        "2022": {
+            "entries": 50,
+            "starts": 50,
+            "points": 67,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 3,
+                "feature": 2,
+                "sprint": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 15,
+            "bestFinish": 3,
+            "avgFinish": 13.4,
+            "championshipPosition": 11,
+            "complete": true
+        },
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 99,
+            "wins": {
+                "total": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 9,
+            "bestFinish": 1,
+            "avgFinish": 11.95,
+            "championshipPosition": 9,
+            "complete": true
+        },
         "2024": {
             "entries": 56,
             "starts": 56,
@@ -100,10 +143,15 @@
         }
     },
     "drivers": [
+        "boschung",
+        "caldwell",
         "hadjar",
         "leon",
         "lindblad",
+        "maini",
         "marti",
-        "tsolov"
+        "merhi",
+        "tsolov",
+        "zendeli"
     ]
 }

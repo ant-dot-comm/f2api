@@ -3,33 +3,78 @@
     "name": "Dams Lucas Oil",
     "series": "f2",
     "seasons": [
+        "2022",
+        "2023",
         "2024",
         "2025",
         "2026"
     ],
     "career": {
-        "entries": 160,
-        "starts": 159,
-        "points": 558,
+        "entries": 268,
+        "starts": 267,
+        "points": 933,
         "wins": {
-            "total": 7,
-            "feature": 5,
-            "sprint": 2
+            "total": 12,
+            "feature": 8,
+            "sprint": 4
         },
         "podiums": {
-            "total": 23,
-            "sprint": 9,
-            "feature": 14
+            "total": 36,
+            "sprint": 14,
+            "feature": 22
         },
-        "poles": 3,
-        "fastestLaps": 5,
-        "dnfs": 20,
+        "poles": 6,
+        "fastestLaps": 10,
+        "dnfs": 33,
         "bestFinish": 1,
-        "avgFinish": 9.33,
+        "avgFinish": 9.28,
         "titles": 0,
         "bestChampionship": 4
     },
     "bySeasons": {
+        "2022": {
+            "entries": 56,
+            "starts": 56,
+            "points": 161,
+            "wins": {
+                "total": 2,
+                "feature": 2
+            },
+            "podiums": {
+                "total": 6,
+                "sprint": 2,
+                "feature": 4
+            },
+            "poles": 2,
+            "fastestLaps": 1,
+            "dnfs": 6,
+            "bestFinish": 1,
+            "avgFinish": 9.92,
+            "championshipPosition": 6,
+            "complete": true
+        },
+        "2023": {
+            "entries": 52,
+            "starts": 52,
+            "points": 214,
+            "wins": {
+                "total": 3,
+                "sprint": 2,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 7,
+                "sprint": 3,
+                "feature": 4
+            },
+            "poles": 1,
+            "fastestLaps": 4,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 8.44,
+            "championshipPosition": 4,
+            "complete": true
+        },
         "2024": {
             "entries": 56,
             "starts": 56,
@@ -101,6 +146,10 @@
         "bilinski",
         "correa",
         "crawford",
-        "maini"
+        "ghiotto",
+        "iwasa",
+        "leclerc",
+        "maini",
+        "nissany"
     ]
 }
