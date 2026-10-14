@@ -1,0 +1,76 @@
+{
+    "season": "2025",
+    "series": "f2",
+    "source": "FIA Driver/Team Championship PDF + f1pedia.com",
+    "lastRound": 14,
+    "scheduledRounds": 14,
+    "complete": true,
+    "Standings": [
+        {
+            "position": "1",
+            "constructorId": "invicta",
+            "team": "Invicta Racing",
+            "points": "316"
+        },
+        {
+            "position": "2",
+            "constructorId": "hitech",
+            "team": "Hitech TGR",
+            "points": "278"
+        },
+        {
+            "position": "3",
+            "constructorId": "campos",
+            "team": "Campos Racing",
+            "points": "258"
+        },
+        {
+            "position": "4",
+            "constructorId": "dams",
+            "team": "DAMS Lucas Oil",
+            "points": "207"
+        },
+        {
+            "position": "5",
+            "constructorId": "mp",
+            "team": "MP Motorsport",
+            "points": "207"
+        },
+        {
+            "position": "6",
+            "constructorId": "prema",
+            "team": "PREMA Racing",
+            "points": "163"
+        },
+        {
+            "position": "7",
+            "constructorId": "rodin",
+            "team": "Rodin Motorsport",
+            "points": "155"
+        },
+        {
+            "position": "8",
+            "constructorId": "art",
+            "team": "ART Grand Prix",
+            "points": "127"
+        },
+        {
+            "position": "9",
+            "constructorId": "aix",
+            "team": "AIX Racing",
+            "points": "107"
+        },
+        {
+            "position": "10",
+            "constructorId": "var",
+            "team": "Van Amersfoort Racing",
+            "points": "44"
+        },
+        {
+            "position": "11",
+            "constructorId": "trident",
+            "team": "TRIDENT",
+            "points": "2"
+        }
+    ]
+}

@@ -4,29 +4,30 @@
     "series": "f2",
     "seasons": [
         "2024",
+        "2025",
         "2026"
     ],
     "career": {
-        "entries": 106,
-        "starts": 105,
-        "points": 351,
+        "entries": 160,
+        "starts": 159,
+        "points": 558,
         "wins": {
-            "total": 3,
-            "feature": 2,
-            "sprint": 1
+            "total": 7,
+            "feature": 5,
+            "sprint": 2
         },
         "podiums": {
-            "total": 15,
-            "sprint": 7,
-            "feature": 8
+            "total": 23,
+            "sprint": 9,
+            "feature": 14
         },
-        "poles": 2,
-        "fastestLaps": 2,
-        "dnfs": 13,
+        "poles": 3,
+        "fastestLaps": 5,
+        "dnfs": 20,
         "bestFinish": 1,
-        "avgFinish": 9.02,
+        "avgFinish": 9.33,
         "titles": 0,
-        "bestChampionship": 5
+        "bestChampionship": 4
     },
     "bySeasons": {
         "2024": {
@@ -48,6 +49,28 @@
             "bestFinish": 1,
             "avgFinish": 9.12,
             "championshipPosition": 6,
+            "complete": true
+        },
+        "2025": {
+            "entries": 54,
+            "starts": 54,
+            "points": 207,
+            "wins": {
+                "total": 4,
+                "sprint": 1,
+                "feature": 3
+            },
+            "podiums": {
+                "total": 8,
+                "feature": 6,
+                "sprint": 2
+            },
+            "poles": 1,
+            "fastestLaps": 3,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 9.93,
+            "championshipPosition": 4,
             "complete": true
         },
         "2026": {
@@ -77,6 +100,7 @@
         "beganovic",
         "bilinski",
         "correa",
-        "crawford"
+        "crawford",
+        "maini"
     ]
 }

@@ -4,27 +4,30 @@
     "code": "",
     "series": "f2",
     "seasons": [
-        "2024"
+        "2024",
+        "2025"
     ],
     "career": {
-        "entries": 22,
-        "starts": 22,
-        "points": 14,
+        "entries": 49,
+        "starts": 49,
+        "points": 119,
         "wins": {
-            "total": 1,
-            "sprint": 1
+            "total": 2,
+            "sprint": 1,
+            "feature": 1
         },
         "podiums": {
-            "total": 1,
-            "sprint": 1
+            "total": 6,
+            "sprint": 3,
+            "feature": 3
         },
-        "poles": 0,
+        "poles": 2,
         "fastestLaps": 0,
-        "dnfs": 4,
+        "dnfs": 6,
         "bestFinish": 1,
-        "avgFinish": 14.72,
+        "avgFinish": 11.4,
         "titles": 0,
-        "bestChampionship": 22
+        "bestChampionship": 10
     },
     "bySeasons": {
         "2024": {
@@ -45,6 +48,27 @@
             "bestFinish": 1,
             "avgFinish": 14.72,
             "championshipPosition": 22,
+            "complete": true
+        },
+        "2025": {
+            "entries": 27,
+            "starts": 27,
+            "points": 105,
+            "wins": {
+                "total": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 5,
+                "sprint": 2,
+                "feature": 3
+            },
+            "poles": 2,
+            "fastestLaps": 0,
+            "dnfs": 2,
+            "bestFinish": 1,
+            "avgFinish": 9.0,
+            "championshipPosition": 10,
             "complete": true
         }
     },
@@ -312,6 +336,330 @@
             "position": "17",
             "status": "Finished",
             "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "1",
+            "raceName": "Australian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "4",
+            "position": "5",
+            "status": "Finished",
+            "points": "10"
+        },
+        {
+            "season": "2025",
+            "round": "2",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "6",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "2",
+            "raceName": "Bahrain Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "5",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "3",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "1",
+            "position": "5",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2025",
+            "round": "3",
+            "raceName": "Saudi Arabian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "10",
+            "position": "12",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "4",
+            "raceName": "Emilia Romagna Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "12",
+            "position": "8",
+            "status": "Finished",
+            "points": "1"
+        },
+        {
+            "season": "2025",
+            "round": "4",
+            "raceName": "Emilia Romagna Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "12",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "5",
+            "raceName": "Monaco Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "4",
+            "position": "9",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "5",
+            "raceName": "Monaco Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "7",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "6",
+            "raceName": "Spanish Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "7",
+            "position": "17",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "6",
+            "raceName": "Spanish Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "4",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "7",
+            "raceName": "Austrian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "",
+            "position": "3",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2025",
+            "round": "7",
+            "raceName": "Austrian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "",
+            "position": "8",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2025",
+            "round": "8",
+            "raceName": "British Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "7",
+            "position": "3",
+            "status": "Finished",
+            "points": "6"
+        },
+        {
+            "season": "2025",
+            "round": "8",
+            "raceName": "British Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "4",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "9",
+            "raceName": "Belgian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "8",
+            "position": "6",
+            "status": "Finished",
+            "points": "3"
+        },
+        {
+            "season": "2025",
+            "round": "9",
+            "raceName": "Belgian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "3",
+            "position": "1",
+            "status": "Finished",
+            "points": "25"
+        },
+        {
+            "season": "2025",
+            "round": "10",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "10",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "10",
+            "raceName": "Hungarian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "1",
+            "position": "2",
+            "status": "Finished",
+            "points": "18"
+        },
+        {
+            "season": "2025",
+            "round": "11",
+            "raceName": "Italian Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "21",
+            "position": "5",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2025",
+            "round": "11",
+            "raceName": "Italian Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "21",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "12",
+            "position": "11",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "12",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "13",
+            "raceName": "Qatar Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "7",
+            "position": "13",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "13",
+            "raceName": "Qatar Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "4",
+            "position": "8",
+            "status": "Finished",
+            "points": "4"
+        },
+        {
+            "season": "2025",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "invicta",
+            "grid": "10",
+            "position": "10",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "invicta",
+            "grid": "1",
+            "position": "2",
+            "status": "Finished",
+            "points": "18"
         }
     ]
 }

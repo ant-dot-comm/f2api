@@ -4,27 +4,28 @@
     "series": "f2",
     "seasons": [
         "2024",
+        "2025",
         "2026"
     ],
     "career": {
-        "entries": 106,
-        "starts": 106,
-        "points": 143,
+        "entries": 160,
+        "starts": 160,
+        "points": 250,
         "wins": {
-            "total": 3,
+            "total": 5,
             "sprint": 2,
-            "feature": 1
+            "feature": 3
         },
         "podiums": {
-            "total": 6,
-            "feature": 2,
-            "sprint": 4
+            "total": 14,
+            "feature": 6,
+            "sprint": 8
         },
         "poles": 0,
-        "fastestLaps": 2,
-        "dnfs": 17,
+        "fastestLaps": 3,
+        "dnfs": 25,
         "bestFinish": 1,
-        "avgFinish": 13.81,
+        "avgFinish": 13.37,
         "titles": 0,
         "bestChampionship": 9
     },
@@ -48,6 +49,27 @@
             "dnfs": 9,
             "bestFinish": 1,
             "avgFinish": 12.32,
+            "championshipPosition": 9,
+            "complete": true
+        },
+        "2025": {
+            "entries": 54,
+            "starts": 54,
+            "points": 107,
+            "wins": {
+                "total": 2,
+                "feature": 2
+            },
+            "podiums": {
+                "total": 8,
+                "feature": 4,
+                "sprint": 4
+            },
+            "poles": 0,
+            "fastestLaps": 1,
+            "dnfs": 8,
+            "bestFinish": 1,
+            "avgFinish": 12.48,
             "championshipPosition": 9,
             "complete": true
         },

@@ -1,0 +1,73 @@
+{
+    "driverId": "wharton",
+    "name": "J. Wharton",
+    "code": "",
+    "series": "f2",
+    "seasons": [
+        "2025"
+    ],
+    "career": {
+        "entries": 2,
+        "starts": 2,
+        "points": 0,
+        "wins": {
+            "total": 0
+        },
+        "podiums": {
+            "total": 0
+        },
+        "poles": 0,
+        "fastestLaps": 0,
+        "dnfs": 1,
+        "bestFinish": 19,
+        "avgFinish": 19.0,
+        "titles": 0,
+        "bestChampionship": 27
+    },
+    "bySeasons": {
+        "2025": {
+            "entries": 2,
+            "starts": 2,
+            "points": 0,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 1,
+            "bestFinish": 19,
+            "avgFinish": 19.0,
+            "championshipPosition": 27,
+            "complete": true
+        }
+    },
+    "results": [
+        {
+            "season": "2025",
+            "round": "13",
+            "raceName": "Qatar Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "21",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "13",
+            "raceName": "Qatar Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "21",
+            "position": "19",
+            "status": "Finished",
+            "points": "0"
+        }
+    ]
+}

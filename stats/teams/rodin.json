@@ -4,28 +4,29 @@
     "series": "f2",
     "seasons": [
         "2024",
+        "2025",
         "2026"
     ],
     "career": {
-        "entries": 106,
-        "starts": 105,
-        "points": 467,
+        "entries": 160,
+        "starts": 159,
+        "points": 622,
         "wins": {
-            "total": 4,
+            "total": 6,
             "sprint": 1,
-            "feature": 3
+            "feature": 5
         },
         "podiums": {
-            "total": 20,
-            "sprint": 8,
-            "feature": 11,
+            "total": 28,
+            "sprint": 12,
+            "feature": 15,
             "feature2": 1
         },
-        "poles": 3,
-        "fastestLaps": 7,
-        "dnfs": 9,
+        "poles": 5,
+        "fastestLaps": 9,
+        "dnfs": 18,
         "bestFinish": 1,
-        "avgFinish": 8.75,
+        "avgFinish": 9.25,
         "titles": 0,
         "bestChampionship": 3
     },
@@ -52,6 +53,27 @@
             "championshipPosition": 8,
             "complete": true
         },
+        "2025": {
+            "entries": 54,
+            "starts": 54,
+            "points": 155,
+            "wins": {
+                "total": 2,
+                "feature": 2
+            },
+            "podiums": {
+                "total": 8,
+                "feature": 4,
+                "sprint": 4
+            },
+            "poles": 2,
+            "fastestLaps": 2,
+            "dnfs": 9,
+            "bestFinish": 1,
+            "avgFinish": 10.34,
+            "championshipPosition": 7,
+            "complete": true
+        },
         "2026": {
             "entries": 50,
             "starts": 49,
@@ -76,6 +98,7 @@
         }
     },
     "drivers": [
+        "cordeel",
         "dunne",
         "fornaroli",
         "maloney",

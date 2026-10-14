@@ -4,30 +4,31 @@
     "series": "f2",
     "seasons": [
         "2024",
+        "2025",
         "2026"
     ],
     "career": {
-        "entries": 106,
-        "starts": 106,
-        "points": 585.5,
+        "entries": 160,
+        "starts": 160,
+        "points": 901.5,
         "wins": {
-            "total": 10,
-            "feature": 5,
-            "sprint": 4,
+            "total": 15,
+            "feature": 7,
+            "sprint": 7,
             "feature2": 1
         },
         "podiums": {
-            "total": 24,
-            "feature": 14,
-            "sprint": 9,
+            "total": 38,
+            "feature": 22,
+            "sprint": 15,
             "feature2": 1
         },
-        "poles": 8,
+        "poles": 11,
         "fastestLaps": 9,
-        "dnfs": 10,
+        "dnfs": 14,
         "bestFinish": 1,
-        "avgFinish": 7.63,
-        "titles": 1,
+        "avgFinish": 7.38,
+        "titles": 2,
         "bestChampionship": 1
     },
     "bySeasons": {
@@ -50,6 +51,28 @@
             "dnfs": 4,
             "bestFinish": 1,
             "avgFinish": 7.92,
+            "championshipPosition": 1,
+            "complete": true
+        },
+        "2025": {
+            "entries": 54,
+            "starts": 54,
+            "points": 316,
+            "wins": {
+                "total": 5,
+                "sprint": 3,
+                "feature": 2
+            },
+            "podiums": {
+                "total": 14,
+                "feature": 8,
+                "sprint": 6
+            },
+            "poles": 3,
+            "fastestLaps": 0,
+            "dnfs": 4,
+            "bestFinish": 1,
+            "avgFinish": 6.9,
             "championshipPosition": 1,
             "complete": true
         },
@@ -82,6 +105,8 @@
         "bortoleto",
         "camara",
         "durksen",
-        "maini"
+        "fornaroli",
+        "maini",
+        "stanek"
     ]
 }

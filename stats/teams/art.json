@@ -4,27 +4,28 @@
     "series": "f2",
     "seasons": [
         "2024",
+        "2025",
         "2026"
     ],
     "career": {
-        "entries": 104,
-        "starts": 104,
-        "points": 334,
+        "entries": 158,
+        "starts": 158,
+        "points": 461,
         "wins": {
-            "total": 4,
-            "feature": 1,
-            "sprint": 3
+            "total": 6,
+            "feature": 2,
+            "sprint": 4
         },
         "podiums": {
-            "total": 11,
-            "feature": 6,
-            "sprint": 5
+            "total": 16,
+            "feature": 9,
+            "sprint": 7
         },
-        "poles": 3,
-        "fastestLaps": 5,
-        "dnfs": 18,
+        "poles": 6,
+        "fastestLaps": 7,
+        "dnfs": 25,
         "bestFinish": 1,
-        "avgFinish": 9.01,
+        "avgFinish": 9.44,
         "titles": 0,
         "bestChampionship": 6
     },
@@ -49,6 +50,28 @@
             "bestFinish": 1,
             "avgFinish": 8.78,
             "championshipPosition": 7,
+            "complete": true
+        },
+        "2025": {
+            "entries": 54,
+            "starts": 54,
+            "points": 127,
+            "wins": {
+                "total": 2,
+                "sprint": 1,
+                "feature": 1
+            },
+            "podiums": {
+                "total": 5,
+                "feature": 3,
+                "sprint": 2
+            },
+            "poles": 3,
+            "fastestLaps": 2,
+            "dnfs": 7,
+            "bestFinish": 1,
+            "avgFinish": 10.23,
+            "championshipPosition": 8,
             "complete": true
         },
         "2026": {
@@ -78,6 +101,7 @@
         "inthraphuvasak",
         "maini",
         "martins",
+        "miyata",
         "o_sullivan"
     ]
 }

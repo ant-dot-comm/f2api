@@ -4,12 +4,13 @@
     "series": "f2",
     "seasons": [
         "2024",
+        "2025",
         "2026"
     ],
     "career": {
-        "entries": 106,
-        "starts": 106,
-        "points": 233,
+        "entries": 160,
+        "starts": 160,
+        "points": 235,
         "wins": {
             "total": 3,
             "sprint": 2,
@@ -22,9 +23,9 @@
         },
         "poles": 3,
         "fastestLaps": 3,
-        "dnfs": 20,
+        "dnfs": 33,
         "bestFinish": 1,
-        "avgFinish": 11.4,
+        "avgFinish": 12.87,
         "titles": 0,
         "bestChampionship": 7
     },
@@ -49,6 +50,24 @@
             "bestFinish": 1,
             "avgFinish": 12.62,
             "championshipPosition": 10,
+            "complete": true
+        },
+        "2025": {
+            "entries": 54,
+            "starts": 54,
+            "points": 2,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 13,
+            "bestFinish": 9,
+            "avgFinish": 15.95,
+            "championshipPosition": 11,
             "complete": true
         },
         "2026": {
@@ -76,9 +95,13 @@
     "drivers": [
         "bennett",
         "esterson",
+        "inthraphuvasak",
         "mansell",
+        "meguetounif",
         "stanek",
+        "stenshorne",
         "van_hoepen",
-        "verschoor"
+        "verschoor",
+        "wharton"
     ]
 }

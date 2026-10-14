@@ -4,12 +4,13 @@
     "code": "STE",
     "series": "f2",
     "seasons": [
+        "2025",
         "2026"
     ],
     "career": {
-        "entries": 25,
-        "starts": 24,
-        "points": 107,
+        "entries": 31,
+        "starts": 30,
+        "points": 109,
         "wins": {
             "total": 1,
             "feature": 1
@@ -21,13 +22,31 @@
         },
         "poles": 1,
         "fastestLaps": 2,
-        "dnfs": 2,
+        "dnfs": 5,
         "bestFinish": 1,
-        "avgFinish": 9.27,
+        "avgFinish": 9.64,
         "titles": 0,
         "bestChampionship": 7
     },
     "bySeasons": {
+        "2025": {
+            "entries": 6,
+            "starts": 6,
+            "points": 2,
+            "wins": {
+                "total": 0
+            },
+            "podiums": {
+                "total": 0
+            },
+            "poles": 0,
+            "fastestLaps": 0,
+            "dnfs": 3,
+            "bestFinish": 7,
+            "avgFinish": 12.33,
+            "championshipPosition": 20,
+            "complete": true
+        },
         "2026": {
             "entries": 25,
             "starts": 24,
@@ -51,6 +70,78 @@
         }
     },
     "results": [
+        {
+            "season": "2025",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "trident",
+            "grid": "15",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "12",
+            "raceName": "Azerbaijan Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "trident",
+            "grid": "15",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "13",
+            "raceName": "Qatar Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "rodin",
+            "grid": "12",
+            "position": "7",
+            "status": "Finished",
+            "points": "2"
+        },
+        {
+            "season": "2025",
+            "round": "13",
+            "raceName": "Qatar Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "rodin",
+            "grid": "12",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race1",
+            "type": "sprint",
+            "constructorId": "rodin",
+            "grid": "18",
+            "position": "NC",
+            "status": "DNF",
+            "points": "0"
+        },
+        {
+            "season": "2025",
+            "round": "14",
+            "raceName": "Abu Dhabi Grand Prix",
+            "race": "race2",
+            "type": "feature",
+            "constructorId": "rodin",
+            "grid": "18",
+            "position": "15",
+            "status": "Finished",
+            "points": "0"
+        },
         {
             "season": "2026",
             "round": "1",

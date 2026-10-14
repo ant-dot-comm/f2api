@@ -3,6 +3,69 @@
     "updated": "2026-10-13",
     "drivers": [
         {
+            "driverId": "dunne",
+            "name": "Alexander Dunne",
+            "code": "DUN",
+            "seasons": [
+                "2025",
+                "2026"
+            ],
+            "points": 339
+        },
+        {
+            "driverId": "crawford",
+            "name": "J. Crawford",
+            "code": "",
+            "seasons": [
+                "2024",
+                "2025"
+            ],
+            "points": 300
+        },
+        {
+            "driverId": "durksen",
+            "name": "Joshua Dürksen",
+            "code": "DUR",
+            "seasons": [
+                "2024",
+                "2025",
+                "2026"
+            ],
+            "points": 284
+        },
+        {
+            "driverId": "verschoor",
+            "name": "R. Verschoor",
+            "code": "",
+            "seasons": [
+                "2024",
+                "2025"
+            ],
+            "points": 276
+        },
+        {
+            "driverId": "beganovic",
+            "name": "Dino Beganovic",
+            "code": "BEG",
+            "seasons": [
+                "2024",
+                "2025",
+                "2026"
+            ],
+            "points": 275
+        },
+        {
+            "driverId": "mini",
+            "name": "Gabriele Minì",
+            "code": "MIN",
+            "seasons": [
+                "2024",
+                "2025",
+                "2026"
+            ],
+            "points": 241
+        },
+        {
             "driverId": "bortoleto",
             "name": "G. Bortoleto",
             "code": "",
@@ -10,6 +73,26 @@
                 "2024"
             ],
             "points": 214.5
+        },
+        {
+            "driverId": "tsolov",
+            "name": "Nikola Tsolov",
+            "code": "TSO",
+            "seasons": [
+                "2025",
+                "2026"
+            ],
+            "points": 212
+        },
+        {
+            "driverId": "fornaroli",
+            "name": "L. Fornaroli",
+            "code": "",
+            "seasons": [
+                "2024",
+                "2025"
+            ],
+            "points": 211
         },
         {
             "driverId": "camara",
@@ -21,13 +104,25 @@
             "points": 207
         },
         {
-            "driverId": "tsolov",
-            "name": "Nikola Tsolov",
-            "code": "TSO",
+            "driverId": "martins",
+            "name": "V. Martins",
+            "code": "",
             "seasons": [
+                "2024",
+                "2025"
+            ],
+            "points": 204
+        },
+        {
+            "driverId": "maini",
+            "name": "Kush Maini",
+            "code": "MAI",
+            "seasons": [
+                "2024",
+                "2025",
                 "2026"
             ],
-            "points": 200
+            "points": 196
         },
         {
             "driverId": "hadjar",
@@ -39,43 +134,24 @@
             "points": 192
         },
         {
-            "driverId": "dunne",
-            "name": "Alexander Dunne",
-            "code": "DUN",
-            "seasons": [
-                "2026"
-            ],
-            "points": 189
-        },
-        {
-            "driverId": "durksen",
-            "name": "Joshua Dürksen",
-            "code": "DUR",
+            "driverId": "marti",
+            "name": "J. Marti",
+            "code": "",
             "seasons": [
                 "2024",
-                "2026"
+                "2025"
             ],
-            "points": 177
+            "points": 174
         },
         {
-            "driverId": "mini",
-            "name": "Gabriele Minì",
-            "code": "MIN",
+            "driverId": "browning",
+            "name": "L. Browning",
+            "code": "",
             "seasons": [
                 "2024",
-                "2026"
+                "2025"
             ],
             "points": 169
-        },
-        {
-            "driverId": "maini",
-            "name": "Kush Maini",
-            "code": "MAI",
-            "seasons": [
-                "2024",
-                "2026"
-            ],
-            "points": 164
         },
         {
             "driverId": "aron",
@@ -87,16 +163,6 @@
             "points": 163
         },
         {
-            "driverId": "beganovic",
-            "name": "Dino Beganovic",
-            "code": "BEG",
-            "seasons": [
-                "2024",
-                "2026"
-            ],
-            "points": 159
-        },
-        {
             "driverId": "maloney",
             "name": "Z. Maloney",
             "code": "",
@@ -104,6 +170,15 @@
                 "2024"
             ],
             "points": 140
+        },
+        {
+            "driverId": "lindblad",
+            "name": "A. Lindblad",
+            "code": "",
+            "seasons": [
+                "2025"
+            ],
+            "points": 134
         },
         {
             "driverId": "leon",
@@ -115,13 +190,35 @@
             "points": 133
         },
         {
-            "driverId": "crawford",
-            "name": "J. Crawford",
+            "driverId": "miyata",
+            "name": "Ritomo Miyata",
+            "code": "MIY",
+            "seasons": [
+                "2024",
+                "2025",
+                "2026"
+            ],
+            "points": 131
+        },
+        {
+            "driverId": "montoya",
+            "name": "Sebastián Montoya",
+            "code": "MON",
+            "seasons": [
+                "2025",
+                "2026"
+            ],
+            "points": 121
+        },
+        {
+            "driverId": "stanek",
+            "name": "R. Stanek",
             "code": "",
             "seasons": [
-                "2024"
+                "2024",
+                "2025"
             ],
-            "points": 125
+            "points": 119
         },
         {
             "driverId": "antonelli",
@@ -133,41 +230,25 @@
             "points": 113
         },
         {
-            "driverId": "martins",
-            "name": "V. Martins",
-            "code": "",
-            "seasons": [
-                "2024"
-            ],
-            "points": 107
-        },
-        {
             "driverId": "stenshorne",
             "name": "Martinius Stenshorne",
             "code": "STE",
             "seasons": [
+                "2025",
                 "2026"
             ],
-            "points": 107
+            "points": 109
         },
         {
-            "driverId": "verschoor",
-            "name": "R. Verschoor",
-            "code": "",
-            "seasons": [
-                "2024"
-            ],
-            "points": 106
-        },
-        {
-            "driverId": "miyata",
-            "name": "Ritomo Miyata",
-            "code": "MIY",
+            "driverId": "villagomez",
+            "name": "Rafael Villagómez",
+            "code": "VIL",
             "seasons": [
                 "2024",
+                "2025",
                 "2026"
             ],
-            "points": 101
+            "points": 98
         },
         {
             "driverId": "colapinto",
@@ -183,6 +264,7 @@
             "name": "Laurens Van Hoepen",
             "code": "VHO",
             "seasons": [
+                "2025",
                 "2026"
             ],
             "points": 90
@@ -196,6 +278,17 @@
                 "2026"
             ],
             "points": 89
+        },
+        {
+            "driverId": "goethe",
+            "name": "Oliver Goethe",
+            "code": "GOE",
+            "seasons": [
+                "2024",
+                "2025",
+                "2026"
+            ],
+            "points": 88
         },
         {
             "driverId": "hauger",
@@ -220,18 +313,10 @@
             "name": "Tasanapol Inthraphuvasak",
             "code": "TIN",
             "seasons": [
+                "2025",
                 "2026"
             ],
             "points": 71
-        },
-        {
-            "driverId": "marti",
-            "name": "J. Marti",
-            "code": "",
-            "seasons": [
-                "2024"
-            ],
-            "points": 62
         },
         {
             "driverId": "o_sullivan",
@@ -243,43 +328,25 @@
             "points": 59
         },
         {
-            "driverId": "villagomez",
-            "name": "Rafael Villagómez",
-            "code": "VIL",
-            "seasons": [
-                "2024",
-                "2026"
-            ],
-            "points": 55
-        },
-        {
-            "driverId": "goethe",
-            "name": "Oliver Goethe",
-            "code": "GOE",
-            "seasons": [
-                "2024",
-                "2026"
-            ],
-            "points": 51
-        },
-        {
             "driverId": "bennett",
             "name": "John Bennett",
             "code": "BEN",
             "seasons": [
                 "2024",
+                "2025",
                 "2026"
             ],
-            "points": 42
+            "points": 43
         },
         {
             "driverId": "cordeel",
             "name": "A. Cordeel",
             "code": "",
             "seasons": [
-                "2024"
+                "2024",
+                "2025"
             ],
-            "points": 39
+            "points": 42
         },
         {
             "driverId": "bilinski",
@@ -298,15 +365,6 @@
                 "2024"
             ],
             "points": 31
-        },
-        {
-            "driverId": "montoya",
-            "name": "Sebastián Montoya",
-            "code": "MON",
-            "seasons": [
-                "2026"
-            ],
-            "points": 30
         },
         {
             "driverId": "herta",
@@ -345,15 +403,6 @@
             "points": 15
         },
         {
-            "driverId": "stanek",
-            "name": "R. Stanek",
-            "code": "",
-            "seasons": [
-                "2024"
-            ],
-            "points": 14
-        },
-        {
             "driverId": "mansell",
             "name": "C. Mansell",
             "code": "",
@@ -368,18 +417,19 @@
             "code": "SHI",
             "seasons": [
                 "2024",
+                "2025",
                 "2026"
             ],
             "points": 10
         },
         {
-            "driverId": "browning",
-            "name": "L. Browning",
+            "driverId": "meguetounif",
+            "name": "S. Meguetounif",
             "code": "",
             "seasons": [
-                "2024"
+                "2025"
             ],
-            "points": 7
+            "points": 2
         },
         {
             "driverId": "yamakoshi",
@@ -395,16 +445,8 @@
             "name": "M. Esterson",
             "code": "",
             "seasons": [
-                "2024"
-            ],
-            "points": 0
-        },
-        {
-            "driverId": "fornaroli",
-            "name": "L. Fornaroli",
-            "code": "",
-            "seasons": [
-                "2024"
+                "2024",
+                "2025"
             ],
             "points": 0
         },
@@ -416,107 +458,127 @@
                 "2024"
             ],
             "points": 0
+        },
+        {
+            "driverId": "wharton",
+            "name": "J. Wharton",
+            "code": "",
+            "seasons": [
+                "2025"
+            ],
+            "points": 0
         }
     ],
     "teams": [
-        {
-            "constructorId": "campos",
-            "name": "Campos",
-            "seasons": [
-                "2024",
-                "2026"
-            ],
-            "points": 587
-        },
         {
             "constructorId": "invicta",
             "name": "Invicta",
             "seasons": [
                 "2024",
+                "2025",
                 "2026"
             ],
-            "points": 585.5
+            "points": 901.5
         },
         {
-            "constructorId": "rodin",
-            "name": "Rodin Motorsport",
+            "constructorId": "campos",
+            "name": "Campos",
             "seasons": [
                 "2024",
+                "2025",
                 "2026"
             ],
-            "points": 467
+            "points": 845
         },
         {
             "constructorId": "mp",
             "name": "MP Motorsport",
             "seasons": [
                 "2024",
+                "2025",
                 "2026"
             ],
-            "points": 420.5
+            "points": 627.5
         },
         {
-            "constructorId": "dams",
-            "name": "Dams Lucas Oil",
+            "constructorId": "rodin",
+            "name": "Rodin Motorsport",
             "seasons": [
                 "2024",
+                "2025",
                 "2026"
             ],
-            "points": 351
-        },
-        {
-            "constructorId": "art",
-            "name": "Art Grand Prix",
-            "seasons": [
-                "2024",
-                "2026"
-            ],
-            "points": 334
+            "points": 622
         },
         {
             "constructorId": "hitech",
             "name": "Hitech TGR",
             "seasons": [
                 "2024",
+                "2025",
                 "2026"
             ],
-            "points": 298
+            "points": 576
+        },
+        {
+            "constructorId": "dams",
+            "name": "Dams Lucas Oil",
+            "seasons": [
+                "2024",
+                "2025",
+                "2026"
+            ],
+            "points": 558
+        },
+        {
+            "constructorId": "art",
+            "name": "Art Grand Prix",
+            "seasons": [
+                "2024",
+                "2025",
+                "2026"
+            ],
+            "points": 461
         },
         {
             "constructorId": "prema",
             "name": "Prema",
             "seasons": [
                 "2024",
+                "2025",
                 "2026"
             ],
-            "points": 245
-        },
-        {
-            "constructorId": "trident",
-            "name": "Trident",
-            "seasons": [
-                "2024",
-                "2026"
-            ],
-            "points": 233
+            "points": 408
         },
         {
             "constructorId": "aix",
             "name": "AIX Racing",
             "seasons": [
                 "2024",
+                "2025",
                 "2026"
             ],
-            "points": 143
+            "points": 250
+        },
+        {
+            "constructorId": "trident",
+            "name": "Trident",
+            "seasons": [
+                "2024",
+                "2025",
+                "2026"
+            ],
+            "points": 235
         },
         {
             "constructorId": "var",
             "name": "Van Amersfoort Racing",
             "seasons": [
                 "2024",
+                "2025",
                 "2026"
             ],
-            "points": 137
+            "points": 181
         }
     ]
 }

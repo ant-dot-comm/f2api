@@ -4,29 +4,30 @@
     "series": "f2",
     "seasons": [
         "2024",
+        "2025",
         "2026"
     ],
     "career": {
-        "entries": 104,
-        "starts": 104,
-        "points": 298,
+        "entries": 158,
+        "starts": 158,
+        "points": 576,
         "wins": {
-            "total": 2,
-            "feature": 1,
-            "sprint": 1
+            "total": 4,
+            "feature": 2,
+            "sprint": 2
         },
         "podiums": {
-            "total": 11,
-            "feature": 5,
-            "sprint": 6
+            "total": 25,
+            "feature": 14,
+            "sprint": 11
         },
-        "poles": 4,
-        "fastestLaps": 2,
-        "dnfs": 13,
+        "poles": 5,
+        "fastestLaps": 9,
+        "dnfs": 16,
         "bestFinish": 1,
-        "avgFinish": 10.65,
+        "avgFinish": 9.81,
         "titles": 0,
-        "bestChampionship": 4
+        "bestChampionship": 2
     },
     "bySeasons": {
         "2024": {
@@ -48,6 +49,28 @@
             "bestFinish": 1,
             "avgFinish": 9.57,
             "championshipPosition": 4,
+            "complete": true
+        },
+        "2025": {
+            "entries": 54,
+            "starts": 54,
+            "points": 278,
+            "wins": {
+                "total": 2,
+                "feature": 1,
+                "sprint": 1
+            },
+            "podiums": {
+                "total": 14,
+                "feature": 9,
+                "sprint": 5
+            },
+            "poles": 1,
+            "fastestLaps": 7,
+            "dnfs": 3,
+            "bestFinish": 1,
+            "avgFinish": 8.31,
+            "championshipPosition": 2,
             "complete": true
         },
         "2026": {
@@ -74,6 +97,8 @@
     },
     "drivers": [
         "aron",
+        "beganovic",
+        "browning",
         "cordeel",
         "herta",
         "miyata"
